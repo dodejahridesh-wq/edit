@@ -1,10 +1,10 @@
 <script setup lang="ts">
 import Field from './CardField.vue'
 import ColorPicker from './ColorPicker.vue'
-import ThemeSelector from './ThemeSelector.vue'
 import InputField from './InputField.vue'
-import ToggleStarred from './ToggleStarred.vue'
+import ThemeSelector from './ThemeSelector.vue'
 import ToggleIndexes from './ToggleIndexes.vue'
+import ToggleStarred from './ToggleStarred.vue'
 </script>
 
 <template>
@@ -17,7 +17,7 @@ import ToggleIndexes from './ToggleIndexes.vue'
       </div>
     </div>
     <Field icon="i-twemoji-globe-with-meridians">Indexes</Field>
-    <Field icon="i-twemoji-repeat-button">Storage Links</Field>
+    <Field icon="i-twemoji-repeat-button">Section Links</Field>
     <Field icon="i-twemoji-star">Recommendations</Field>
     <div class="align-center mb-4 mt-4 flex justify-between">
       <div class="text-$vp-c-text-1 lh-relaxed text-sm font-bold">Options</div>
