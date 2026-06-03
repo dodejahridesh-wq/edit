@@ -37,3 +37,19 @@
 * [Checkov](https://www.checkov.io) - Static code analysis tool for infrastructure-as-code (IaC) security compliance.
 * [Dependency-Check](https://owasp.org/www-project-dependency-check) - Software composition analysis (SCA) tool checking project dependencies.
 * [Gitleaks](https://github.com/gitleaks/gitleaks) - SAST tool for detecting hardcoded secrets (API keys, passwords) in git history.
+
+* [Kube-hunter](https://kube-hunter.aquasec.com) - Security vulnerability scanner checking Kubernetes clusters.
+* [Falco](https://falco.org) - Kubernetes-native container runtime security threat detector.
+* [Aqua Scan](https://www.aquasec.com/products/container-security) - Vulnerability scanning and compliance analysis for container files.
+* [ClamAV](https://www.clamav.net) - Open-source antivirus engine detecting trojans, viruses, and malware.
+* [DefectDojo](https://www.defectdojo.org) - AppSec vulnerability tracking database and automation coordinator.
+* [Wapiti](https://wapiti-scanner.github.io) - Black-box web application vulnerability auditing tool.
+* [Nikto](https://cirt.net/Nikto2) - Web server scanner checking for dangerous files and configurations.
+* [Sqlmap](https://sqlmap.org) - Automatic SQL injection detector and database takeover framework.
+* [OpenVAS](https://www.openvas.org) - Greenbone-backed vulnerability scanner for comprehensive network audits.
+* [Prowler](https://prowler.com) - Cloud security posture management tool for AWS/GCP/Azure compliance.
+* [Scout Suite](https://github.com/nccgroup/ScoutSuite) - Multi-cloud security auditing tool for configurations assessment.
+* [KeePassXC CLI](https://keepassxc.org) - Command-line utility to read and write KeePass password databases.
+* [Bitwarden CLI](https://bitwarden.com/help/cli) - Vault management commands wrapping the Bitwarden platform.
+* [SecLists](https://github.com/danielmiessler/SecLists) - Compilations of security dictionaries, usernames, passwords, and payloads.
+* [CyberChef](https://gchq.github.io/CyberChef) - Web-based cyber operations utility for decoding, hashing, and encoding.

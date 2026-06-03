@@ -33,3 +33,19 @@
 * [Octave CLI](https://gnu.org/software/octave) - GNU scientific plotting and numerical calculation script execution.
 * [Wolfram Alpha API](https://products.wolframalpha.com/api) - Computational knowledge queries, math expressions evaluations.
 * [USGS Seismic API](https://earthquake.usgs.gov/fdsnws/event/1) - Real-time seismic monitoring data feeds.
+
+* [Godot CLI](https://docs.godotengine.org/en/stable/tutorials/editor/command_line_tutorial.html) - Headless Godot compilations, script testing, and exporting.
+* [BabylonJS CLI](https://github.com/BabylonJS/Babylon.js) - Web 3D build configurations and mesh packaging.
+* [Cocos2d-x](https://www.cocos.com/en) - Multi-platform open-source 2D/3D game framework.
+* [Epic Games Store API](https://dev.epicgames.com/docs/web-api-ref) - Marketplace catalog items retrieval, purchasing verifications.
+* [Twitch Developer API](https://dev.twitch.tv/docs/api) - Retrieving stream states, managing chat rewards, channel configurations.
+* [YouTube Data API](https://developers.google.com/youtube/v3) - Programmatic upload of video files, playlists updates.
+* [Spotify Web API](https://developer.spotify.com/documentation/web-api) - Control music playback, fetch user playlist tracks.
+* [Oura Ring API](https://cloud.ouraring.com/v2/docs) - Retrieving sleep duration indexes, readiness scores.
+* [Garmin Connect API](https://developer.garmin.com/gc-developer-program) - Enterprise activity logs, wellness tracking sync.
+* [Withings Health API](https://developer.withings.com) - Fetch smart scales weight metrics, sleep mat logs.
+* [OpenEMR API](https://www.open-emr.org/wiki/index.php/OpenEMR_API) - Electronic medical records patient database CRUD.
+* [MySportsFeeds API](https://www.mysportsfeeds.com) - Historical and live box score statistics feeds.
+* [Tomorrow.io API](https://www.tomorrow.io/weather-api) - Hyperlocal weather forecasting, precipitation radar.
+* [GDACS API](https://www.gdacs.org/resources.aspx) - Global disaster alert and coordination coordinates mapping.
+* [SpaceX API](https://github.com/r-spacex/SpaceX-API) - Open-source REST API for SpaceX rocket launch telemetry.

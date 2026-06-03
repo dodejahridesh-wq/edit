@@ -42,3 +42,19 @@
 * [CalDAV Protocol](https://www.ietf.org/rfc/rfc4791.txt) - WebDAV-based standard for network calendar item synchronization.
 * [Duolingo API](https://www.duolingo.com) - Profile streak data, vocabulary lists, and language level information.
 * [CourtListener API](https://www.courtlistener.com/api/rest/v4) - Federal case legal briefs searches, court docket metadata indexing.
+
+* [Nextcloud API](https://docs.nextcloud.com/server/latest/developer_manual) - Self-hosted storage server user management and files sync.
+* [Airtable Webhooks](https://airtable.com/developers/web/api/webhooks) - Real-time payload delivery when Airtable records are modified.
+* [Telegram Bot API](https://core.telegram.org/bots/api) - HTTP portal to dispatch chat messages and manage channels.
+* [Mattermost API](https://api.mattermost.com) - Self-hosted team communications server administration.
+* [Rocket.Chat API](https://developer.rocket.chat) - Real-time chat messaging database access.
+* [Mastodon API](https://docs.joinmastodon.org/api) - Decentralized microblogging platform client sync.
+* [Jira REST API](https://developer.atlassian.com/cloud/jira/platform/rest) - Sprint backlogs creation, issue status updates.
+* [Confluence REST](https://developer.atlassian.com/cloud/confluence/rest) - Workspace wiki page creation, attachments download.
+* [Trello Webhooks](https://developer.atlassian.com/cloud/trello/guides/webhooks) - Callback payloads triggered by board transitions.
+* [Todoist API](https://developer.todoist.com/rest/v2) - Personal task creation, labels and filters retrieval.
+* [Asana API](https://developers.asana.com) - Project tasks creation, milestones tracking, team updates.
+* [Monday.com API](https://developer.monday.com) - Workspace database boards creation, status columns updates.
+* [ClickUp API](https://clickup.com/api) - Workspace task tracking, sprint management, time tracking.
+* [Baserow API](https://baserow.io/api-docs) - Open-source database table rows sync.
+* [Appwrite API](https://appwrite.io/docs) - Self-hosted backend-as-a-service database, users, and functions.

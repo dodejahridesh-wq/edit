@@ -37,3 +37,19 @@
 * [OpenSea SDK](https://docs.opensea.io/reference/sdk) - Creating buy/sell orders, gasless listings, and fetching NFT collections.
 * [Alchemy API](https://docs.alchemy.com) - Enhanced Ethereum and EVM-compatible node provider infrastructure.
 * [Infura API](https://docs.infura.io) - Ethereum, IPFS, and Web3 multi-chain gateway network.
+
+* [Geth](https://geth.ethereum.org) - Go-based official client node of the Ethereum blockchain network.
+* [Erigon](https://github.com/ledgerwatch/erigon) - Optimized, high-performance Ethereum node implementation.
+* [Lighthouse](https://lighthouse.sigmaprime.io) - Rust-based Ethereum consensus layer beacon node.
+* [Prysm](https://prysmaticlabs.com) - Go-based Ethereum consensus layer beacon client.
+* [Truffle Suite](https://trufflesuite.com) - Compilation and deployment framework for smart contracts.
+* [Ganache](https://trufflesuite.com/ganache) - Personal Ethereum simulator for quick contract testing.
+* [Web3.py](https://web3py.readthedocs.io) - Python library for Ethereum node JSON-RPC interactions.
+* [Solana Web3](https://solana-labs.github.io/solana-web3.js) - JavaScript library for Solana blockchain RPC node connections.
+* [Anchor Framework](https://www.anchor-lang.com) - Rust-based DSL framework simplifying Solana smart contract development.
+* [Metaplex SDK](https://www.metaplex.com) - Solana protocol NFT standards minting and operations.
+* [Chainlink Functions](https://docs.chain.link/chainlink-functions) - Decentralized computation oracle running custom serverless code.
+* [Moralis API](https://moralis.io) - Web3 database indexer, balance tracker, and event stream monitor.
+* [The Graph](https://thegraph.com) - Subgraph indexing protocol querying blockchain data via GraphQL.
+* [Covalent API](https://www.covalenthq.com) - Unified multi-chain blockchain database indexer.
+* [CoinMarketCap API](https://coinmarketcap.com/api) - Cryptocurrency index and market capitalization data.

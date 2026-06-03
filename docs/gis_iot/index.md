@@ -34,3 +34,19 @@
 * [TomTom Routing](https://developer.tomtom.com/routing-api) - Calculated driving paths, matrices, and traffic evaluations.
 * [HERE Routing](https://developer.here.com/documentation/routing-api) - Global coordinates routing calculations with commercial truck parameters.
 * [what3words API](https://developer.what3words.com) - Three-word geocoding conversion to latitude/longitude.
+
+* [Turf.js](https://turfjs.org) - Client-side JavaScript library executing geospatial mathematical analysis.
+* [GDAL](https://gdal.org) - Abstraction library for raster and vector geospatial file formats.
+* [Fiona](https://fiona.readthedocs.io) - Python library reading and writing vector geospatial data files.
+* [Shapely](https://shapely.readthedocs.io) - Python library for manipulation and analysis of planar geometries.
+* [Geopandas](https://geopandas.org) - Pandas extension supporting GeoSeries geometry columns and spatial joins.
+* [Pyproj](https://pyproj4.github.io/pyproj) - Cartographic projections and coordinate system transformations library.
+* [PostGIS Raster](https://postgis.net/docs/RT_reference.html) - PostGIS database support for storing and querying raster coordinates.
+* [PDAL](https://pdal.io) - Abstraction library processing point cloud data (LiDAR scanning files).
+* [Zigbee2MQTT](https://www.zigbee2mqtt.io) - Zigbee devices controller bridging telemetry logs to MQTT brokers.
+* [Z-Wave JS](https://zwave-js.github.io/node-zwave-js) - Z-Wave network controller driver engine.
+* [ESPHome](https://esphome.io) - Declarative YAML-configured firmware builder for ESP8266/ESP32.
+* [ROS 2 CLI](https://docs.ros.org) - Commands and service nodes management interface for ROS 2.
+* [AirSim](https://microsoft.github.io/AirSim) - Unreal/Unity drone flight simulator.
+* [Sentinel Batch](https://docs.sentinel-hub.com/api/latest/api/batch-processing/) - Large-scale clipping and mosaic generation of earth images.
+* [Earth Engine](https://earthengine.google.com) - Google's planetary-scale environmental datasets analysis platform.

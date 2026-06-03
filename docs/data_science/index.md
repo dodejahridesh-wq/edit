@@ -26,3 +26,19 @@
 * [W&B Sweep](https://docs.wandb.ai/guides/sweeps) - Automated hyperparameter tuning and optimization orchestration.
 * [Optuna](https://optuna.org) - Hyperparameter optimization framework with search space pruning logic.
 * [Supabase Vector](https://supabase.com/vector) - Pgvector-backed vector database built on top of Postgres.
+
+* [Kubeflow](https://www.kubeflow.org) - Machine learning pipeline toolkit orchestrating training jobs on Kubernetes.
+* [BentoML](https://www.bentoml.com) - Unified model packaging and web service serving framework.
+* [Triton Server](https://developer.nvidia.com/nvidia-triton-inference-server) - Multi-framework GPU-accelerated model serving engine.
+* [Seldon Core](https://www.seldon.io) - Kubernetes model deployment orchestrator managing routing and scaling.
+* [Great Expectations](https://greatexpectations.io) - Data quality, validation, profiling, and testing framework.
+* [Feast](https://feast.dev) - High-performance feature store serving ML features to models in real-time.
+* [Featureform](https://www.featureform.com) - Virtual feature store organizing raw data transforms into ML pipelines.
+* [Milvus Lite](https://milvus.io/docs/milvus_lite.md) - Lightweight version of Milvus running directly inside Python scripts.
+* [Qdrant](https://qdrant.tech) - Rust-based high performance vector search engine with payload filtering.
+* [Faiss](https://github.com/facebookresearch/faiss) - Facebook AI library for efficient similarity search of dense vectors.
+* [Scann](https://github.com/google-research/google-research/tree/master/scann) - Google's highly efficient vector nearest neighbor search library.
+* [Comet ML](https://www.comet.com) - ML experiment management, comparisons, and performance graphs dashboard.
+* [ClearML](https://clear.ml) - Auto-tracking ML developer suite, task scheduler, and agent runner.
+* [Neptune.ai](https://neptune.ai) - Metadata store for ML models tracking parameters, code, and graphs.
+* [DeepSpeed](https://www.deepspeed.ai) - Deep learning optimization library enabling 100B+ parameter model training.

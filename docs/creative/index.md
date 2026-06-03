@@ -24,3 +24,19 @@
 * [Librosa](https://librosa.org) - Python library for music and audio signal analysis (spectral, beat tracking).
 * [WebAudio API](https://developer.mozilla.org/en-US/docs/Web/API/Web_Audio_API) - Low-level client-side browser API for audio synthesis, routing, and effects.
 * [FFmpeg Filters](https://ffmpeg.org/ffmpeg-filters.html) - Direct programmatic video and audio matrix filter manipulation syntax.
+
+* [FFmpeg WebAssembly](https://ffmpegwasm.netlify.app) - Port of FFmpeg in WebAssembly for client-side transcode in browsers.
+* [P5.js](https://p5js.org) - JavaScript canvas library designed for creative visual coding.
+* [GSAP](https://gsap.com) - High-performance HTML5 canvas and SVG browser animation engine.
+* [Vitepress](https://vitepress.dev) - Vite-based Markdown static site generator.
+* [Astro](https://astro.build) - Web framework optimized for content-rich, fast-loading websites.
+* [Tauri](https://tauri.app) - Rust-based desktop/mobile app runtime utilizing system webviews.
+* [Electron](https://www.electronjs.org) - Desktop application framework wrapping Chromium and Node.js.
+* [Lottie Files](https://lottiefiles.com) - JSON-based vector animation format rendering in real-time.
+* [Rive](https://rive.app) - Interactive real-time vector animation engine with state machines.
+* [A-Frame](https://aframe.io) - WebVR 3D HTML frame compiler utilizing Three.js components.
+* [WebXR API](https://immersive-web.github.io) - Browser device API accessing virtual and augmented reality sensors.
+* [Excalidraw](https://excalidraw.com) - Hand-drawn style client-side sketching whiteboard component.
+* [Draw.io CLI](https://www.draw.io) - Command-line utility to convert diagram XML files to PNG/PDF.
+* [Mermaid.js](https://mermaid.js.org) - Markdown-like text syntax parsed into diagrams and flowcharts.
+* [Reveal.js](https://revealjs.com) - HTML presentation framework building slideshows in HTML markup.

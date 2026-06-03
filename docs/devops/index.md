@@ -23,3 +23,19 @@
 * [Terraform Cloud](https://www.hashicorp.com/products/terraform/cloud) - Managed infrastructure execution, remote states, and workspace workflows.
 * [Sentry](https://sentry.io) - Real-time application error tracking, crash reporting, and performance monitoring.
 * [New Relic](https://newrelic.com) - Full-stack observability platform for telemetry data monitoring.
+
+* [Terraform Enterprise](https://www.hashicorp.com/products/terraform) - Self-hosted IaC platform with private module registry and VCS triggers.
+* [Spacelift](https://spacelift.io) - Collaborative infrastructure delivery platform (GitOps for Terraform, Pulumi, CloudFormation).
+* [Argo Workflows](https://argoproj.github.io/workflows) - Kubernetes-native container-based workflow engine for jobs scheduling.
+* [Tekton](https://tekton.dev) - Kubernetes-native declarative CI/CD pipeline building blocks.
+* [FluxCD](https://fluxcd.io) - GitOps continuous delivery tool reconciling git states with Kubernetes clusters.
+* [Kustomize](https://kustomize.io) - Template-free customization configuration tool for Kubernetes manifests.
+* [Linkerd](https://linkerd.io) - Ultralight, security-first service mesh for Kubernetes.
+* [Istio](https://istio.io) - Advanced service mesh for traffic management, policy enforcement, and telemetry.
+* [Promtail](https://grafana.com/docs/loki/latest/send-data/promtail) - Local agent shipping system logs to a centralized Loki instance.
+* [Loki](https://grafana.com/oss/loki) - Horizontal-scaling, highly-available log aggregation system.
+* [Tempo](https://grafana.com/oss/tempo) - High-scale, low-cost distributed tracing database.
+* [Jaeger](https://www.jaegertracing.io) - Open-source distributed tracing system monitoring microservices transactions.
+* [OpenTelemetry](https://opentelemetry.io) - Observability framework providing vendor-neutral APIs, SDKs, and collectors.
+* [Chef](https://www.chef.io) - Code-driven system configuration management platform.
+* [Puppet](https://puppet.com) - Declarative configuration management and node enforcement.
