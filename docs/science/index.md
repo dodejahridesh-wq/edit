@@ -7,6 +7,7 @@
 * [dbSNP](https://www.ncbi.nlm.nih.gov/snp) - Search for short genetic variants (SNPs, indels) in dbSNP.
 * [EMBL-EBI OLS](https://www.ebi.ac.uk/ols) - Search biomedical ontology terms.
 * [ENCODE cCREs](https://screen.encodeproject.org) - Query cis-Regulatory Elements.
+* [Ensembl Database](https://useast.ensembl.org) - Query the Ensembl database for gene transcripts, structures, and variant effect predictions.
 * [Foldseek](https://foldseek.com) - AI 3D structural protein similarity search.
 * [gnomAD](https://gnomad.broadinstitute.org) - Query Genome Aggregation Database for allele frequency.
 * [GTEx](https://gtexportal.org) - Genotype-Tissue Expression query tool for tissue RNA expression.
@@ -23,6 +24,7 @@
 * [PDB Database](https://www.rcsb.org) - Retrieve experimental 3D structures for biomolecules.
 * [Clustal Omega MSA](https://www.ebi.ac.uk/Tools/msa/clustalo) - Multiple sequence alignment for proteins.
 * [Sequence Similarity Search](https://blast.ncbi.nlm.nih.gov) - MMseqs2 and BLAST homology search.
+* [PubChem Database](https://pubchem.ncbi.nlm.nih.gov) - Search chemicals by name/CID/SMILES, physical/chemical properties, and safety statements.
 * [PubMed Database](https://pubmed.ncbi.nlm.nih.gov) - Biomedical publications search.
 * [PyMOL](https://pymol.org) - Visualise, analyze, and render protein 3D structures.
 * [QuickGO](https://www.ebi.ac.uk/QuickGO) - Map genes to biological processes and GO terms.
