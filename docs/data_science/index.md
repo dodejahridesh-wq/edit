@@ -42,3 +42,19 @@
 * [ClearML](https://clear.ml) - Auto-tracking ML developer suite, task scheduler, and agent runner.
 * [Neptune.ai](https://neptune.ai) - Metadata store for ML models tracking parameters, code, and graphs.
 * [DeepSpeed](https://www.deepspeed.ai) - Deep learning optimization library enabling 100B+ parameter model training.
+
+* [Apache Airflow](https://airflow.apache.org) - Workflow orchestration platform scheduling and executing programmatic tasks.
+* [Prefect](https://www.prefect.io) - Dataflow coordinator orchestrating task runs with automatic retries and logs.
+* [Dagster](https://dagster.io) - Asset-oriented pipeline orchestrator tracking data state transformations.
+* [Streamlit](https://streamlit.io) - Python web framework compiling scientific scripts into dynamic frontends.
+* [Gradio](https://gradio.app) - ML model visual demonstrator building quick web pages around scripts.
+* [ONNX Runtime](https://onnxruntime.ai) - Cross-platform model execution engine accelerating AI models in python/C++.
+* [TensorRT](https://developer.nvidia.com/tensorrt) - NVIDIA GPU-targeted deep learning optimization library.
+* [DVC (Data Version Control)](https://dvc.org) - Command-line tool tracking datasets and model files alongside Git history.
+* [Apache Kafka Proxy](https://kafka.apache.org) - REST proxy interface dispatching event streams to Kafka clusters.
+* [Apache Flink](https://flink.apache.org) - Stateful stream processing framework executing computations at scale.
+* [LanceDB](https://lancedb.github.io/lancedb) - Embedded vector database storing vectors inside project folders.
+* [PGVector](https://github.com/pgvector/pgvector) - PostgreSQL extension adding vector columns and cosine similarity lookups.
+* [OpenSearch](https://opensearch.org) - Distributed search and analytics engine derived from Elasticsearch.
+* [Typesense](https://typesense.org) - Fast, open-source typo-tolerant search database for instant results.
+* [Meilisearch](https://www.meilisearch.com) - Highlyrelevant web search engine tailored for instant frontend lookups.

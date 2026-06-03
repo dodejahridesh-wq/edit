@@ -39,3 +39,19 @@
 * [OpenTelemetry](https://opentelemetry.io) - Observability framework providing vendor-neutral APIs, SDKs, and collectors.
 * [Chef](https://www.chef.io) - Code-driven system configuration management platform.
 * [Puppet](https://puppet.com) - Declarative configuration management and node enforcement.
+
+* [GitHub CLI](https://cli.github.com) - Command-line interface for GitHub repositories, issues, PRs, and Actions runs.
+* [GitLab CLI](https://glab.readthedocs.io) - Command-line management interface for GitLab projects, MRs, and pipelines.
+* [Vault CLI](https://developer.hashicorp.com/vault) - Command-line client to configure secret mounts and read keys from HashiCorp Vault.
+* [AWS SAM CLI](https://aws.amazon.com/serverless/sam) - Command-line tool to build, test, and deploy serverless applications on AWS.
+* [Azure Developer CLI](https://learn.microsoft.com/en-us/azure/developer/azure-developer-cli) - Command-line interface to package and deploy apps to Azure services.
+* [LocalStack](https://localstack.cloud) - Local cloud sandbox mimicking AWS services for offline testing.
+* [Buildkite Agent](https://buildkite.com/docs/agent) - Build runner daemon executing pipeline jobs on local infrastructure.
+* [Fly.io CLI](https://fly.io/docs/hands-on/install-flyctl) - Command-line client to deploy and manage applications on Fly.io edge servers.
+* [Render API](https://api-docs.render.com) - Cloud platform management API to deploy web services and database instances.
+* [Vercel CLI](https://vercel.com/docs/cli) - Command-line client to deploy frontends, serverless functions, and manage domains.
+* [Netlify CLI](https://docs.netlify.com/cli/get-started) - Command-line developer tool to build, test, and deploy sites locally.
+* [Supabase CLI](https://supabase.com/docs/guides/cli) - Command-line runner managing local Supabase emulator stacks and migrations.
+* [Copado API](https://www.copado.com) - DevOps platform orchestrating Salesforce deployments.
+* [GitGuardian API](https://api.gitguardian.com) - Secrets detection engine scanning code commits and directories.
+* [Snyk Developer API](https://snyk.io/platform/developer-tools) - Vulnerability scanning API for developer dependencies and container files.

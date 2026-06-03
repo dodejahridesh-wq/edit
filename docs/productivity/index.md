@@ -58,3 +58,19 @@
 * [ClickUp API](https://clickup.com/api) - Workspace task tracking, sprint management, time tracking.
 * [Baserow API](https://baserow.io/api-docs) - Open-source database table rows sync.
 * [Appwrite API](https://appwrite.io/docs) - Self-hosted backend-as-a-service database, users, and functions.
+
+* [GitHub GraphQL API](https://docs.github.com/en/graphql) - Advanced query schema retrieving deep repo timelines and stats.
+* [GitLab REST API](https://docs.gitlab.com/ee/api) - GitLab instance project setup and pipeline logs monitoring.
+* [Teams Webhooks](https://learn.microsoft.com/en-us/microsoftteams/platform/webhooks-and-connectors/how-to/add-incoming-webhook) - Microsoft Teams channel incoming message cards publisher.
+* [Google Sheets API](https://developers.google.com/sheets/api) - Spreadsheet cell edits, row lookups, and sheets formatting.
+* [AnkiConnect API](https://foosoft.net/projects/anki-connect) - Anki flashcards creation and deck metrics query API.
+* [Todoist Sync API](https://developer.todoist.com/sync/v9) - Todoist client-side database differential synchronization.
+* [Evernote Cloud API](https://dev.evernote.com/doc/reference) - Evernote notebook creation, search, and note structures edit.
+* [Zapier Partner API](https://platform.zapier.com) - Automation actions definition and integrations setups dashboard.
+* [n8n REST API](https://docs.n8n.io/api) - Self-hosted workflow builder workflow activations manager.
+* [DocuSign REST API](https://developers.docusign.com) - Electronic signature document tracking and envelope status updates.
+* [Adobe Sign API](https://secure.na1.echosign.com/public/docs/restapi/v6) - Adobe Acrobat digital signature flows tracking.
+* [Wikidata SPARQL API](https://query.wikidata.org) - Wikidata knowledge graph semantic query endpoint.
+* [Google Patents API](https://patents.google.com) - Patent records search and patent publications attributes lookup.
+* [Ghost CMS API](https://ghost.org/docs/content-api) - Ghost publishing site blog posts query and posts insert.
+* [Feedly Developer API](https://developer.feedly.com) - RSS feeds collection lookup, articles tags management.

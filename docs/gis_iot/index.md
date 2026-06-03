@@ -50,3 +50,19 @@
 * [AirSim](https://microsoft.github.io/AirSim) - Unreal/Unity drone flight simulator.
 * [Sentinel Batch](https://docs.sentinel-hub.com/api/latest/api/batch-processing/) - Large-scale clipping and mosaic generation of earth images.
 * [Earth Engine](https://earthengine.google.com) - Google's planetary-scale environmental datasets analysis platform.
+
+* [OSMnx](https://osmnx.readthedocs.io) - Python package modeling street networks from OpenStreetMap data.
+* [ArcGIS REST API](https://developers.arcgis.com/rest) - Esri geographic features lookup and spatial analysis engine.
+* [FME REST API](https://www.safe.com/fme/fme-server) - Spatial data translation ETL engine orchestration server.
+* [GeoDjango](https://docs.djangoproject.com/en/stable/ref/contrib/gis/) - Django extension for geographic spatial database queries.
+* [Cesium Ion API](https://cesium.com/platform/cesium-ion) - Cloud-based geospatial 3D asset optimizer tiling server.
+* [Blynk IoT API](https://docs.blynk.io/en/blynk.api) - Low-code IoT dashboard widgets state controller.
+* [ThingsBoard API](https://thingsboard.io/docs/reference/rest-api) - IoT device monitoring, telemetry data aggregation, and rules routing.
+* [Tasmota Web API](https://tasmota.github.io/docs/Commands) - ESP8266 smart device switch status and switch toggles.
+* [WLED JSON API](https://kno.wled.ge/interfaces/json-api) - ESP8266/ESP32 LED lights animation presets and segment controls.
+* [OctoPrint API](https://docs.octoprint.org/en/master/api) - 3D printer remote printer status and G-Code files loader.
+* [Moonraker API](https://moonraker.readthedocs.io) - Klipper 3D printer firmware web server controller interface.
+* [Mavlink Protocol](https://mavlink.io) - Unmanned vehicle marshalling telemetry communications library.
+* [PX4 Autopilot CLI](https://docs.px4.io/main/en/middleware/uxrce_dds_client.html) - Drone flight controller software middleware configs.
+* [LibreNMS API](https://docs.librenms.org/API) - Auto-discovering network nodes monitor admin panel.
+* [Sentinel Hub OGC API](https://docs.sentinel-hub.com/api/latest/api/ogc/) - OGC-standard WMS/WFS map layer requests.

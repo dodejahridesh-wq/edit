@@ -53,3 +53,19 @@
 * [Bitwarden CLI](https://bitwarden.com/help/cli) - Vault management commands wrapping the Bitwarden platform.
 * [SecLists](https://github.com/danielmiessler/SecLists) - Compilations of security dictionaries, usernames, passwords, and payloads.
 * [CyberChef](https://gchq.github.io/CyberChef) - Web-based cyber operations utility for decoding, hashing, and encoding.
+
+* [Ghidra](https://ghidra-sre.org) - Software reverse engineering framework supporting decompilation scripting.
+* [Radare2](https://www.radare.org/r2) - Hex editor and command-line reverse engineering binary analyzer.
+* [Impacket](https://github.com/fortra/impacket) - Python classes library supporting low-level network protocol manipulation.
+* [BloodHound](https://specterops.io/bloodhound) - Active Directory trust paths mapping tool identifying attack vectors.
+* [Hashcat](https://hashcat.net) - Fast multi-hash GPU password cracking utility.
+* [Gobuster](https://github.com/OJ/gobuster) - Web directories, subdomains, and virtual hosts scanner.
+* [Bettercap](https://www.bettercap.org) - Modular, portable network reconnaissance and MITM attacks framework.
+* [Mimikatz](https://github.com/gentilkiwi/mimikatz) - Windows credentials harvesting tool extracting secrets from LSASS memory.
+* [YARA](https://virustotal.github.io/yara) - Malware signature analysis pattern-matching tool for file classification.
+* [Semgrep](https://semgrep.dev) - Fast static analysis engine matching code patterns to detect bugs.
+* [SonarScanner](https://docs.sonarsource.com/sonarqube/latest/analyzing-source-code/scanners/sonarscanner) - Local static analysis runner sending code scans to SonarQube servers.
+* [LinPeas](https://github.com/peass-ng/PEASS-ng) - Linux privilege escalation audit script checking system configs.
+* [Chisel](https://github.com/jpillora/chisel) - Fast TCP/UDP reverse tunnel agent routing traffic over HTTP.
+* [OWASP Amass](https://github.com/owasp-amass/amass) - In-depth DNS enumeration and attack surface mapping scanner.
+* [Snyk CLI](https://docs.snyk.io/snyk-cli) - Local package scanner looking up security vulnerabilities in packages.

@@ -40,3 +40,19 @@
 * [Draw.io CLI](https://www.draw.io) - Command-line utility to convert diagram XML files to PNG/PDF.
 * [Mermaid.js](https://mermaid.js.org) - Markdown-like text syntax parsed into diagrams and flowcharts.
 * [Reveal.js](https://revealjs.com) - HTML presentation framework building slideshows in HTML markup.
+
+* [D3.js](https://d3js.org) - Javascript data visualization framework compiling nodes to SVG.
+* [Tone.js](https://tonejs.github.io) - Web Audio interactive synthesis and music composing engine.
+* [Processing](https://processing.org) - Visual sketching and creative coding language interpreter.
+* [Howler.js](https://howlerjs.com) - Client-side audio playback library resolving browser compatibility.
+* [Fabric.js](https://fabricjs.com) - Canvas wrapper layer offering interactive vector objects editing.
+* [Paper.js](https://paperjs.org) - Scriptographer vector graphics scripting framework for HTML5 canvas.
+* [SVGO](https://github.com/svg/svgo) - SVG files optimizer reducing vector files size programmatically.
+* [FFprobe](https://ffmpeg.org/ffprobe.html) - Multimedia files properties and streams metadata inspector.
+* [GStreamer](https://gstreamer.freedesktop.org) - Modular cross-platform multimedia stream pipelines framework.
+* [WeasyPrint](https://weasyprint.org) - High-fidelity HTML/CSS layout compilation engine exporting PDFs.
+* [MJML](https://mjml.io) - Layout markup language compiler rendering responsive emails.
+* [Fontello](https://fontello.com) - Vector icon web fonts generator mapping custom layouts.
+* [ExifTool](https://exiftool.org) - Command-line tool reading, writing, and editing image EXIF data.
+* [Graphviz](https://graphviz.org) - Graph layout software compiling DOT language files to charts.
+* [Asciidoctor](https://asciidoctor.org) - Text-formatting syntax compiler rendering AsciiDoc files to HTML.

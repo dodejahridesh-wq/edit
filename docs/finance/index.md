@@ -53,3 +53,19 @@
 * [The Graph](https://thegraph.com) - Subgraph indexing protocol querying blockchain data via GraphQL.
 * [Covalent API](https://www.covalenthq.com) - Unified multi-chain blockchain database indexer.
 * [CoinMarketCap API](https://coinmarketcap.com/api) - Cryptocurrency index and market capitalization data.
+
+* [Cardano CLI](https://docs.cardano.org/cardano-cli) - Command-line tool managing Cardano keys, addresses, and transactions.
+* [Polkadot API](https://polkadot.js.org/docs/api) - Substrate blockchain RPC client network connections mapping.
+* [Cosmos SDK](https://docs.cosmos.network) - Core builder framework compiling Tendermint consensus chain nodes.
+* [Stellar SDK](https://developers.stellar.org/docs/tools/sdks) - Stellar ledger payments routing and account operations lookup.
+* [xrpl.js (Ripple API)](https://xrpl.org/docs/references/javascript-reference) - XRP Ledger transactions compiler and network nodes client.
+* [Viem](https://viem.sh) - Lightweight, fast alternative to Ethers.js for Ethereum interactions.
+* [Wagmi](https://wagmi.sh) - React Hooks library wrapper mapping wallets operations.
+* [QuickNode API](https://www.quicknode.com) - High-speed multi-chain RPC endpoint access provider.
+* [Dune Analytics API](https://dune.com/docs/api) - Programmatic database query execution of Dune's index.
+* [DefiLlama API](https://defillama.com/docs/api) - Total Value Locked (TVL) metrics and protocols historical tickers database.
+* [Coinbase Cloud API](https://docs.cloud.coinbase.com) - Professional trading exchange operations interface.
+* [Kraken API](https://docs.kraken.com) - Kraken digital assets exchange trading API.
+* [OpenExchangeRates](https://openexchangerates.org) - Real-time global fiat currency conversions dashboard.
+* [Wise API (TransferWise)](https://api-docs.transferwise.com) - Wise international payment transactions routing dashboard.
+* [Plaid API](https://plaid.com/docs/api) - Secure bank accounts verification and historical balance syncing.

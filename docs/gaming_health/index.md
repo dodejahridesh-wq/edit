@@ -49,3 +49,19 @@
 * [Tomorrow.io API](https://www.tomorrow.io/weather-api) - Hyperlocal weather forecasting, precipitation radar.
 * [GDACS API](https://www.gdacs.org/resources.aspx) - Global disaster alert and coordination coordinates mapping.
 * [SpaceX API](https://github.com/r-spacex/SpaceX-API) - Open-source REST API for SpaceX rocket launch telemetry.
+
+* [Discord Game SDK](https://discord.com/developers/docs/game-sdk/discord) - Voice status, achievements unlock, and game lobby matchmaking.
+* [PlayFab API](https://learn.microsoft.com/en-us/gaming/playfab) - Xbox/Azure-backed games player data, matchmaking and leaderboards.
+* [Steam Web API](https://partner.steamgames.com/doc/webapi_overview) - Steam catalog parameters lookup and global community metrics.
+* [NASA APOD API](https://api.nasa.gov) - NASA Astronomy Picture of the Day imagery index.
+* [NASA Earthdata API](https://earthdata.nasa.gov) - Earth observations catalog search and geospatial query.
+* [Open-Meteo API](https://open-meteo.com/en/docs) - High-resolution global meteorological forecast metrics.
+* [WeatherStack API](https://weatherstack.com/documentation) - Real-time global weather conditions metrics dashboard.
+* [Strava v3 API](https://developers.strava.com/docs/reference) - Athletic workouts logs, GPS routes tracking databases.
+* [MyFitnessPal API](https://www.myfitnesspal.com) - Nutrition metrics, weight records, and calories counter.
+* [Peloton Web API](https://www.onepeloton.com) - Peloton spin workouts metrics and user activity histories.
+* [Dexcom Share API](https://developer.dexcom.com) - Continuous glucose monitoring sensor data feeds.
+* [Tempest Weather API](https://weatherflow.github.io/tempest/api) - Tempest smart home weather station local sensor feeds.
+* [USGS Water Services API](https://waterservices.usgs.gov) - Rivers hydrological telemetry and river levels metrics.
+* [Open-Elevation API](https://github.com/Jorl17/open-elevation) - Global elevation queries returning heights in meters.
+* [OpenLigaDB API](https://www.openligadb.de) - Free database feed returning European football match score lines.
