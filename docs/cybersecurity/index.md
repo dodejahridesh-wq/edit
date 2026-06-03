@@ -69,3 +69,19 @@
 * [Chisel](https://github.com/jpillora/chisel) - Fast TCP/UDP reverse tunnel agent routing traffic over HTTP.
 * [OWASP Amass](https://github.com/owasp-amass/amass) - In-depth DNS enumeration and attack surface mapping scanner.
 * [Snyk CLI](https://docs.snyk.io/snyk-cli) - Local package scanner looking up security vulnerabilities in packages.
+
+* [w3af](https://w3af.org) - Web application attack and audit framework script manager.
+* [CrackMapExec](https://github.com/byt3bl33d3r/CrackMapExec) - Active Directory network trust paths auditor and pentesting CLI.
+* [WinPEAS](https://github.com/peass-ng/PEASS-ng) - Windows privilege escalation checking audit script.
+* [Responder](https://github.com/lgandrelle/Responder-Windows) - Network protocol packet poisoner capturing credentials.
+* [Nmap NSE Engine](https://nmap.org/book/nse.html) - Nmap Scripting Engine executing specialized network audits.
+* [Evil-WinRM](https://github.com/hackplayers/evil-winrm) - Windows Remote Management shell penetration testing client.
+* [Social Engineer Toolkit](https://github.com/trustedsec/social-engineer-toolkit) - Social engineering attack vectors framework console.
+* [Sherlock](https://sherlock-project.github.io) - Username locator checking social network profiles.
+* [dnsrecon](https://github.com/darkoperator/dnsrecon) - DNS security reconnaissance and zone transfer testing scanner.
+* [wfuzz](https://github.com/xmendez/wfuzz) - Web application fuzzing tool checking files and arguments.
+* [fierce](https://github.com/mcsundy/fierce) - DNS reconnaissance locator locating non-contiguous IP spaces.
+* [Masscan](https://github.com/robertdavidgraham/masscan) - Fast TCP port scanner producing internet scale scans.
+* [Subfinder](https://projectdiscovery.io) - Passive subdomain discovery scanner finding domain records.
+* [ffuf](https://github.com/ffuf/ffuf) - Fast web fuzzer checking HTTP response codes.
+* [Dirsearch](https://github.com/maurosoria/dirsearch) - Web path brute-forcer checking web server directories.

@@ -56,3 +56,19 @@
 * [ExifTool](https://exiftool.org) - Command-line tool reading, writing, and editing image EXIF data.
 * [Graphviz](https://graphviz.org) - Graph layout software compiling DOT language files to charts.
 * [Asciidoctor](https://asciidoctor.org) - Text-formatting syntax compiler rendering AsciiDoc files to HTML.
+
+* [Shoelace](https://shoelace.style) - Web component library utilizing custom HSL design styles.
+* [Pico CSS](https://picocss.com) - Minimalist CSS framework styled markup library.
+* [Tailwind CSS CLI](https://tailwindcss.com/docs/installation) - Utility-first CSS styles compiler.
+* [Animate.css](https://animate.style) - Ready-to-use cross-browser CSS animations library.
+* [Lottie-web Player](https://github.com/airbnb/lottie-web) - Client-side JSON vector animation renderer.
+* [Chart.js](https://www.chartjs.org) - Simple yet flexible JavaScript charting engine.
+* [ECharts](https://echarts.apache.org) - Enterprise-grade charting and visual dashboard engine.
+* [ApexCharts](https://apexcharts.com) - Modern SVG interactive charts dashboard builder.
+* [Highcharts](https://www.highcharts.com) - Charting library compiling interactive visual representations.
+* [Leaflet Geoman](https://geoman.io) - Leaflet drawing tool plugin editing geometries on maps.
+* [MapLibre GL JS](https://maplibre.org) - Open-source map visualizer utilizing WebGL rendering.
+* [Panzoom](https://github.com/timmywil/panzoom) - HTML/SVG DOM elements panning and zooming helper.
+* [Splide](https://splidejs.com) - Lightweight, flexible slider and carousel browser component.
+* [Swiper](https://swiperjs.com) - Modern touch slider carousel web component.
+* [ViewerJS](https://viewerjs.org) - Document viewer displaying PDF and OpenOffice files in-browser.

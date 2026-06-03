@@ -74,3 +74,19 @@
 * [Google Patents API](https://patents.google.com) - Patent records search and patent publications attributes lookup.
 * [Ghost CMS API](https://ghost.org/docs/content-api) - Ghost publishing site blog posts query and posts insert.
 * [Feedly Developer API](https://developer.feedly.com) - RSS feeds collection lookup, articles tags management.
+
+* [GitHub Webhooks](https://docs.github.com/en/webhooks) - Real-time payloads when repository events trigger.
+* [GitLab Webhooks](https://docs.gitlab.com/ee/user/project/integrations/webhooks.html) - Real-time callbacks when GitLab pipeline runs or MR events occur.
+* [Mailchimp API](https://mailchimp.com/developer) - Marketing lists subscription and audience metrics lookup.
+* [SendGrid API](https://sendgrid.com/docs/API_Reference) - Transactional email delivery and templates dispatch.
+* [Postmark API](https://postmarkapp.com/developer) - High-speed transactional email delivery engine.
+* [Twilio SMS API](https://www.twilio.com/docs/sms) - Global SMS text dispatch and voice calls routing.
+* [MessageBird API](https://bird.com/developers) - Global omnichannel communication services database.
+* [Firebase Messaging](https://firebase.google.com/docs/cloud-messaging) - Push notification payloads dispatcher to client devices.
+* [OneSignal API](https://documentation.onesignal.com/reference/api) - Omnichannel web/mobile push notification dashboard.
+* [Adobe Sign Webhooks](https://secure.na1.echosign.com/public/docs/restapi/v6) - Callback updates when Acrobat agreements statuses change.
+* [DocuSign Connect](https://developers.docusign.com/platform/webhooks/connect) - DocuSign envelopes status updates callback payloads.
+* [Jira Webhooks](https://developer.atlassian.com/cloud/jira/platform/webhooks) - Real-time payload updates when backlog issues transition.
+* [Confluence Webhooks](https://developer.atlassian.com/cloud/confluence/webhooks) - Real-time payload updates when wiki page edits occur.
+* [Monday Webhooks](https://developer.monday.com/api-reference/docs/webhooks) - Monday.com columns state transitions callback payloads.
+* [Typeform API](https://developer.typeform.com) - Form response metadata queries and questionnaire structures.

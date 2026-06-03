@@ -55,3 +55,19 @@
 * [Copado API](https://www.copado.com) - DevOps platform orchestrating Salesforce deployments.
 * [GitGuardian API](https://api.gitguardian.com) - Secrets detection engine scanning code commits and directories.
 * [Snyk Developer API](https://snyk.io/platform/developer-tools) - Vulnerability scanning API for developer dependencies and container files.
+
+* [LXD CLI](https://ubuntu.com/lxd) - Container and VM hypervisor manager for local and clustered infrastructure.
+* [Multipass CLI](https://multipass.run) - Orchestrator generating local Ubuntu VM instances on the fly.
+* [Lima CLI](https://github.com/lima-vm/lima) - Command-line client launching Linux virtual machines with automatic file sharing.
+* [Colima CLI](https://github.com/abiosoft/colima) - Container runtime helper running Docker/Kubernetes on macOS/Linux.
+* [Infracost CLI](https://www.infracost.io) - Cloud costs analyzer parsing IaC configurations to predict spending.
+* [Kube-score CLI](https://kube-score.com) - Static manifest analyzer verifying Kubernetes security best practices.
+* [Popeye CLI](https://derailedcli.com/popeye) - Kubernetes cluster sanitizer checking live resources for issues.
+* [Polaris API](https://www.fairwinds.com/polaris) - Best practices validator audit engine checking Kubernetes configs.
+* [Kaniko CLI](https://github.com/GoogleContainerTools/kaniko) - Headless container image builder running inside Kubernetes pods.
+* [Gatus](https://gatus.io) - Developer-focused service health monitoring dashboard configuration engine.
+* [Uptime Kuma API](https://github.com/louislam/uptime-kuma) - Self-hosted monitoring dashboard REST and WebSocket administration APIs.
+* [Cloudflare Wrangler](https://developers.cloudflare.com/workers/wrangler) - Command-line tool to compile and deploy Cloudflare Workers scripts.
+* [Fastly CLI](https://developer.fastly.com/reference/cli) - Command-line developer client managing Fastly Compute services.
+* [Supabase Local API](https://supabase.com/docs/guides/local-development) - Local emulator REST API endpoints running Postgres/Auth services.
+* [LocalStack Pro API](https://docs.localstack.cloud/references/api) - Pro features REST API for advanced cloud service emulation (EKS, RDS).

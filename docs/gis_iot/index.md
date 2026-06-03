@@ -66,3 +66,19 @@
 * [PX4 Autopilot CLI](https://docs.px4.io/main/en/middleware/uxrce_dds_client.html) - Drone flight controller software middleware configs.
 * [LibreNMS API](https://docs.librenms.org/API) - Auto-discovering network nodes monitor admin panel.
 * [Sentinel Hub OGC API](https://docs.sentinel-hub.com/api/latest/api/ogc/) - OGC-standard WMS/WFS map layer requests.
+
+* [Mapnik](https://mapnik.org) - Open source map rendering tool compiled in Python/C++.
+* [PyGeoAPI](https://pygeoapi.io) - Python server implementation of OGC API standards.
+* [GeoPy](https://geopy.readthedocs.io) - Python geocoding toolbox wrapping geocoders.
+* [GeoServer REST API](https://docs.geoserver.org/stable/en/user/rest/index.html) - GeoServer workspace layers publishing management.
+* [Leaflet Geosearch](https://github.com/smeijer/leaflet-geosearch) - Leaflet map geocoding lookup search controller.
+* [PostGIS Topology](https://postgis.net/docs/Topology.html) - PostGIS topological vectors checking queries.
+* [H3 Spatial Index](https://h3geo.org) - Uber's hexagonal hierarchical spatial indexing library.
+* [S2 Geometry](https://s2geometry.io) - Google's spherical geometry cells indexing library.
+* [Mosquitto Config](https://mosquitto.org) - MQTT Broker access control and connection configs.
+* [Zigbee standard API](https://csa-iot.org/all-solutions/zigbee/) - Smart hardware wireless control protocol standard.
+* [Node-RED Dashboard](https://flowfuse.com/node-red/dashboard/) - Visual flow UI nodes layouts controller.
+* [ESP32 BLE Client](https://www.espressif.com) - ESP32 Bluetooth Low Energy controller bindings.
+* [ESP32 Wi-Fi Station](https://www.espressif.com) - ESP32 Wi-Fi client station configuration library.
+* [Arduino OTA](https://www.arduino.cc) - Over-the-air firmware updates compiler and updater.
+* [ROS 2 Bag](https://docs.ros.org/en/stable/tutorials/beginner-client-libraries/recording-and-playing-back-data/recording-and-playing-back-data.html) - ROS 2 node stream recording and playing back recorder.

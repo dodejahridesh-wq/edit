@@ -65,3 +65,19 @@
 * [USGS Water Services API](https://waterservices.usgs.gov) - Rivers hydrological telemetry and river levels metrics.
 * [Open-Elevation API](https://github.com/Jorl17/open-elevation) - Global elevation queries returning heights in meters.
 * [OpenLigaDB API](https://www.openligadb.de) - Free database feed returning European football match score lines.
+
+* [Lichess API](https://lichess.org/api) - Chess games creations and tournaments administration.
+* [Chess.com API](https://www.chess.com/news/view/published-data-api) - Chess.com player statistics and archived game histories.
+* [IGDB API](https://api-docs.igdb.com) - Game database platforms query and game listings lookup.
+* [Giant Bomb API](https://www.giantbomb.com/api) - Video game catalogs research query engine.
+* [BoardGameGeek API](https://boardgamegeek.com/wiki/page/BGG_XML_API2) - Board game catalogs database lookup.
+* [CardMarket API](https://www.cardmarket.com/en/Magic/Developer) - TCG card market catalog tickers and trades tracker.
+* [PokéAPI](https://pokeapi.co) - Pokémon databases statistics search engine.
+* [FatSecret API](https://platform.fatsecret.com) - Food item database nutritional values lookup.
+* [Nutritionix API](https://www.nutritionix.com/api) - Restaurant menu calorie count database search.
+* [Calorielink API](https://calorielink.com) - Calorie tracking daily totals logs updater.
+* [SleepAsAndroid API](https://docs.sleep.urbandroid.org/devs/web_api.html) - Sleep tracking records database and alarm managers.
+* [OpenCravat API](https://opencravat.org) - Cancer genomics variants annotations analysis interface.
+* [PhysioNet API](https://physionet.org) - Clinical physiological signal databases index.
+* [MIMIC-IV API](https://mimic.mit.edu) - Electronic health records research queries interface.
+* [ClinicalTrials RSS](https://clinicaltrials.gov/find-studies/rss) - Clinical trials database updates feed parameters tracker.

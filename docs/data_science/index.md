@@ -58,3 +58,19 @@
 * [OpenSearch](https://opensearch.org) - Distributed search and analytics engine derived from Elasticsearch.
 * [Typesense](https://typesense.org) - Fast, open-source typo-tolerant search database for instant results.
 * [Meilisearch](https://www.meilisearch.com) - Highlyrelevant web search engine tailored for instant frontend lookups.
+
+* [Kedro](https://kedro.org) - Production-ready data pipelines framework python library.
+* [Metaflow](https://metaflow.org) - Machine learning pipeline builder orchestrating local and cloud jobs.
+* [Flyte](https://flyte.org) - Kubernetes-native workflow orchestrator for data pipelines.
+* [TFX (TensorFlow Extended)](https://www.tensorflow.org/tfx) - Production machine learning pipeline components toolkit.
+* [MLeap](https://github.com/combust/mleap) - Serialized machine learning models runtime deployment compiler.
+* [Feast CLI](https://feast.dev) - Command-line feature store utility registering database tables.
+* [Hopsworks API](https://www.hopsworks.ai) - Enterprise feature store platform REST API.
+* [Weaviate REST API](https://weaviate.io/developers/weaviate/api/rest) - Vector database CRUD and search query REST API.
+* [ChromaDB Client SDK](https://docs.trychroma.com/reference/client) - Chroma database connection client Python/JS bindings.
+* [Qdrant Client SDK](https://qdrant.tech/documentation/interfaces) - Qdrant vector database query client libraries.
+* [Zilliz Cloud API](https://zilliz.com/doc/api) - Fully managed Milvus cloud service control plane REST API.
+* [Pinecone Control API](https://docs.pinecone.io/reference/api/control-plane) - Pinecone vector index creation and scaling REST API.
+* [Marqo API](https://www.marqo.ai) - Tensor search vector database server API.
+* [Deep Lake SDK](https://www.activeloop.ai) - AI database data loader optimized for deep learning models.
+* [Milvus SDK](https://milvus.io/docs/sdk_client.md) - Milvus server connection client libraries.

@@ -69,3 +69,19 @@
 * [OpenExchangeRates](https://openexchangerates.org) - Real-time global fiat currency conversions dashboard.
 * [Wise API (TransferWise)](https://api-docs.transferwise.com) - Wise international payment transactions routing dashboard.
 * [Plaid API](https://plaid.com/docs/api) - Secure bank accounts verification and historical balance syncing.
+
+* [Ethereum Signer](https://ethers.org) - Wallet transaction signing algorithms and key pairs SDK.
+* [Bip39](https://github.com/bitcoin/bips/blob/master/bip-0039.mediawiki) - Mnemonic seed phrase generation algorithms database.
+* [Infura IPFS API](https://docs.infura.io/infura/features/ipfs) - IPFS files pinning gateway REST API.
+* [Pinata SDK](https://www.pinata.cloud) - IPFS file hosting pinning service API.
+* [Web3 Auth](https://web3auth.io) - Decentralized OAuth wallet connection API.
+* [Etherscan API](https://etherscan.io/apis) - Ethereum block explorer database lookup.
+* [Solscan API](https://solscan.io) - Solana block explorer transactions metadata database.
+* [Dextools API](https://www.dextools.io/developer) - DEX pools transactional statistics tracker.
+* [GeckoTerminal API](https://www.geckoterminal.com/dex-api) - CoinGecko terminal DEX pricing tickers database.
+* [QuickBooks Payments](https://developer.intuit.com) - QuickBooks payments client transactions invoicing.
+* [Stripe Billing](https://stripe.com/docs/billing) - Stripe subscription schedules and automated invoicing.
+* [PayPal Checkout SDK](https://developer.paypal.com/docs/checkout) - PayPal checkout workflow authorization engine.
+* [Razorpay Orders API](https://razorpay.com/docs/api) - Razorpay payment orders creation interface.
+* [Coinbase Commerce](https://commerce.coinbase.com) - Crypto payments checkout invoice generator.
+* [BitPay API](https://bitpay.com/api) - Crypto billing and invoice checkout API.
