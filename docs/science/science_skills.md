@@ -29,3 +29,8 @@
 * [Reactome](https://reactome.org) - Pathway analysis and exporter.
 * [Science Skills Common](https://pypi.org/project/science-skills-common) - Shared rate-limiting client libraries.
 * [STRING Database](https://string-db.org) - Query protein-protein interaction networks.
+* [UCSC Conservation and TFBS](https://genome.ucsc.edu) - Evolutionary conservation scores and transcription factor binding sites.
+* [UniBind Database](https://unibind.uio.no) - Database of direct transcription factor-DNA interactions.
+* [UniProt Database](https://www.uniprot.org) - Access protein sequences and functional annotations.
+* [uv tool](https://github.com/astral-sh/uv) - Fast Python package installer and resolver.
+* [Workflow Skill Creator](https://github.com/google-deepmind) - AI assistant tool to package workflows into reusable skills.
