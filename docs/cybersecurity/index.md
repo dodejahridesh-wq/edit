@@ -21,3 +21,19 @@
 * [Elastic](https://www.elastic.co/security/siem) - Elastic Security SIEM is a component of the Elastic Stack. You can find official information, documentation, and resources at the following locations:
 * [Splunk](https://docs.splunk.com) - Splunk is a powerful data platform widely used for **log management** and as a **Security Information and Event Management (SIEM)** solution. It allows organizations to collect, index, search, and ana...
 * [Wazuh](https://wazuh.com) - Wazuh is a free, **open-source security platform** that unifies **SIEM** (Security Information and Event Management) and **XDR** (Extended Detection and Response) capabilities. It provides threat dete...
+
+* [Burp Suite](https://portswigger.net) - Industry-standard web application vulnerability testing proxy.
+* [Metasploit](https://www.metasploit.com) - Penetration testing framework for finding, exploiting, and verifying vulnerabilities.
+* [Suricata](https://suricata.io) - High-performance network intrusion detection and prevention engine (IDS/IPS).
+* [Zeek](https://zeek.org) - Passive, open-source network traffic analyzer and security monitor.
+* [Snort](https://www.snort.org) - Rule-based network intrusion detection system.
+* [Hydra](https://github.com/vanhauser-thc/thc-hydra) - Parallelized login cracker supporting numerous protocols (SSH, FTP, HTTP, etc.).
+* [John the Ripper](https://www.openwall.com/john) - Fast password cracker supporting customized hashing algorithms.
+* [Aircrack-ng](https://www.aircrack-ng.org) - Wireless network security auditing tool suite.
+* [Nessus](https://www.tenable.com/products/nessus) - Vulnerability assessment scanner for security audits.
+* [Trivy Operator](https://aquasecurity.github.io/trivy-operator) - Kubernetes-native security scanner emitting vulnerability reports as CRDs.
+* [SonarQube](https://www.sonarqube.org) - Continuous code quality inspection and static security analysis tool (SAST).
+* [Boundary](https://www.boundaryproject.io) - Identity-aware secure session management and access controller.
+* [Checkov](https://www.checkov.io) - Static code analysis tool for infrastructure-as-code (IaC) security compliance.
+* [Dependency-Check](https://owasp.org/www-project-dependency-check) - Software composition analysis (SCA) tool checking project dependencies.
+* [Gitleaks](https://github.com/gitleaks/gitleaks) - SAST tool for detecting hardcoded secrets (API keys, passwords) in git history.

@@ -18,3 +18,19 @@
 * [Arduino](N/A) - To clarify the relationship between these technologies, it is helpful to distinguish between **controlling your development tools** and **controlling your hardware**.
 * [Raspberry](http://localhost:8000`) - To develop and manage APIs on a Raspberry Pi using command-line interface (CLI) tools, you can leverage a combination of lightweight web frameworks and terminal-based utilities for productivity and de...
 * [ESP32](https://docs.espressif.com/) - To develop applications for ESP32 using the Espressif IoT Development Framework (ESP-IDF) via the Command Line Interface (CLI), you will primarily rely on **`idf.py`**, the core management tool for th...
+
+* [ROS](https://www.ros.org) - Software framework for writing robot applications (node communication buses).
+* [Node-RED API](https://nodered.org/docs/api) - Flow-based visual programming editor REST management endpoints.
+* [ESP-IDF](https://docs.espressif.com/projects/esp-idf) - Official development framework for ESP32 family microcontrollers.
+* [Arduino CLI](https://arduino.github.io/arduino-cli) - Command-line tool for compiling and uploading sketch files to Arduino.
+* [Mapbox GL JS](https://docs.mapbox.com/mapbox-gl-js) - Client-side map rendering library utilizing WebGL.
+* [OpenLayers](https://openlayers.org) - Dynamic client-side mapping engine showing vector features and raster tiles.
+* [PostGIS SQL](https://postgis.net/documentation) - Geospatial database queries extending PostgreSQL tables.
+* [CesiumJS](https://cesium.com/platform/cesiumjs) - WebGL-based client globe mapping library rendering 3D terrain and datasets.
+* [Sentinel Hub API](https://docs.sentinel-hub.com) - Querying, clipping, and custom script processing of earth observation images.
+* [Planet API](https://developers.planet.com/docs/apis) - Accessing daily high-resolution satellite imagery catalogs.
+* [MQTT Broker API](https://mosquitto.org/documentation) - Lightweight pub/sub message broker telemetry.
+* [Home Assistant WS](https://developers.home-assistant.io/docs/api/websocket) - Real-time WebSocket connection state updates and services triggers.
+* [TomTom Routing](https://developer.tomtom.com/routing-api) - Calculated driving paths, matrices, and traffic evaluations.
+* [HERE Routing](https://developer.here.com/documentation/routing-api) - Global coordinates routing calculations with commercial truck parameters.
+* [what3words API](https://developer.what3words.com) - Three-word geocoding conversion to latitude/longitude.

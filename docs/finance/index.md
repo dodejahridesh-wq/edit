@@ -21,3 +21,19 @@
 * [Avalara](https://developer.avalara.com/) - As of 2026, the **Avalara Developer portal** serves as the central hub for developers to access REST APIs, SDKs, and integration tools for end-to-end tax compliance.
 * [Ethereum](N/A) - In 2026, the Ethereum development landscape is highly mature, emphasizing security, scalability, and developer experience. The following tools are considered the industry standard for Solidity smart c...
 * [Web3.js](**Archived**) - Legacy projects only; avoid for new builds[1][2].
+
+* [MetaMask API](https://docs.metamask.io) - Browser extension provider injecting the web3 runtime for dApp connections.
+* [ethers.js](https://docs.ethers.org) - Complete JavaScript library for interacting with the Ethereum blockchain.
+* [web3.js](https://web3js.org) - JavaScript library for interacting with the Ethereum JSON-RPC client.
+* [Hardhat](https://hardhat.org) - Ethereum development environment for compiling, deploying, and testing smart contracts.
+* [Foundry](https://book.getfoundry.sh) - Rust-based Ethereum application development toolkit (forge, cast, anvil).
+* [Uniswap SDK](https://docs.uniswap.org) - Routing, execution math, and token swap helpers for Uniswap pools.
+* [Aave SDK](https://docs.aave.com/developers) - Programmatic interactions for token lending, supply, and flashloans.
+* [Chainlink VRF](https://docs.chain.link/vrf) - Verifiable Random Function providing secure on-chain randomness.
+* [QuickBooks API](https://developer.intuit.com) - Financial accounting system sync (invoices, bills, customers, vendors).
+* [Xero API](https://developer.xero.com) - Accounting database access (bank feeds, assets, contacts, reports).
+* [TaxJar API](https://developers.taxjar.com) - Sales tax calculation, reporting, and automated filings.
+* [Avalara AvaTax](https://developer.avalara.com) - Global sales, use, and VAT compliance tax calculation engine.
+* [OpenSea SDK](https://docs.opensea.io/reference/sdk) - Creating buy/sell orders, gasless listings, and fetching NFT collections.
+* [Alchemy API](https://docs.alchemy.com) - Enhanced Ethereum and EVM-compatible node provider infrastructure.
+* [Infura API](https://docs.infura.io) - Ethereum, IPFS, and Web3 multi-chain gateway network.

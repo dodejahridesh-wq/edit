@@ -1,14 +1,14 @@
 ---
 name: courtlistener_api
 description: >
-  [CourtListener Docs](https://www.courtlistener.com/api/rest/v4/)
+  Federal case legal briefs searches, court docket metadata indexing.
 ---
 
 # CourtListener API
 
 ## Overview
-[CourtListener Docs](https://www.courtlistener.com/api/rest/v4/)
+Federal case legal briefs searches, court docket metadata indexing.
 
 ## Integration Info
-* **Official Link**: [CourtListener API](Active)
+* **Official Link**: [CourtListener API](https://www.courtlistener.com/api/rest/v4)
 * **Domain**: Productivity & Education
