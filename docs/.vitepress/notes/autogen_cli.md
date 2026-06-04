@@ -1,14 +1,14 @@
 ---
 name: autogen_cli
 description: >
-  AI multi-agent conversation framework execution command-line tool.
+  Microsoft multi-agent conversation orchestrator framework SDK command line.
 ---
 
-# Autogen CLI
+# AutoGen CLI
 
 ## Overview
-AI multi-agent conversation framework execution command-line tool.
+Microsoft multi-agent conversation orchestrator framework SDK command line.
 
 ## Integration Info
-* **Official Link**: [Autogen CLI](https://github.com/microsoft/autogen)
-* **Domain**: Data Science & AI/ML
+* **Official Link**: [AutoGen CLI](https://github.com/microsoft/autogen)
+* **Domain**: SDK Tools

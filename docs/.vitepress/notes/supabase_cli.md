@@ -1,14 +1,14 @@
 ---
 name: supabase_cli
 description: >
-  Command-line runner managing local Supabase emulator stacks and migrations.
+  Local emulator stack manager, migrations generator, and Edge Functions deployer CLI.
 ---
 
 # Supabase CLI
 
 ## Overview
-Command-line runner managing local Supabase emulator stacks and migrations.
+Local emulator stack manager, migrations generator, and Edge Functions deployer CLI.
 
 ## Integration Info
-* **Official Link**: [Supabase CLI](https://supabase.com/docs/guides/cli)
-* **Domain**: DevOps & Infrastructure
+* **Official Link**: [Supabase CLI](https://github.com/supabase/cli)
+* **Domain**: Database Tools

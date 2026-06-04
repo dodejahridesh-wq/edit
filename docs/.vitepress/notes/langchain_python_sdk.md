@@ -1,14 +1,14 @@
 ---
 name: langchain_python_sdk
 description: >
-  AI chain components connector Python SDK building agentic workflows.
+  Direct orchestrator mapping models to indexes, chains, and agents library.
 ---
 
 # LangChain Python SDK
 
 ## Overview
-AI chain components connector Python SDK building agentic workflows.
+Direct orchestrator mapping models to indexes, chains, and agents library.
 
 ## Integration Info
 * **Official Link**: [LangChain Python SDK](https://github.com/langchain-ai/langchain)
-* **Domain**: Data Science & AI/ML
+* **Domain**: SDK Tools

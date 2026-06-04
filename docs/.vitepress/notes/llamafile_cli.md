@@ -1,14 +1,14 @@
 ---
 name: llamafile_cli
 description: >
-  Mozilla single-file local LLM distribution and execution console.
+  Mozilla silicified local LLM server and multi-architecture compiler CLI.
 ---
 
 # Llamafile CLI
 
 ## Overview
-Mozilla single-file local LLM distribution and execution console.
+Mozilla silicified local LLM server and multi-architecture compiler CLI.
 
 ## Integration Info
 * **Official Link**: [Llamafile CLI](https://github.com/Mozilla-Ocho/llamafile)
-* **Domain**: Data Science & AI/ML
+* **Domain**: SDK Tools
