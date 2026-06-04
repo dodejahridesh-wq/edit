@@ -184,3 +184,19 @@
 * [Blender Render CLI](https://github.com/blender/blender) - Headless 3D render manager console tool rendering objects.
 * [Pillow Image CLI](https://github.com/python-pillow/Pillow) - Python graphic filters utility script executing basic transformations.
 * [Sharp Processor CLI](https://github.com/lovell/sharp) - Node.js image compression processor utility resizing canvas images.
+
+* [P5.js Web Library](https://github.com/processing/p5.js) - Creative coding web drawing library for browser canvas graphics.
+* [Three.js VR SDK](https://github.com/mrdoob/three.js) - Virtual reality and 3D scenes camera layout web integration SDK.
+* [Colorthief API](https://github.com/lokesh/color-thief) - Dominant color palettes extractor canvas rendering library API.
+* [Remotion CLI](https://github.com/remotion-dev/remotion) - Programmatic video rendering engine command line runner using React.
+* [Spleeter CLI](https://github.com/deezer/spleeter) - Deezer source separation AI audio stems divider command line.
+* [Sass Compiler CLI](https://github.com/sass/dart-sass) - Sass stylesheets to CSS compiler command line utility.
+* [SVGO API](https://github.com/svg/svgo) - Vector graphics SVG optimizer library Node.js compiler API.
+* [Penpot API](https://github.com/penpot/penpot) - Open-source design and prototyping platform layout editing REST API.
+* [Canva Connect API](https://github.com/canva) - Canva developer ecosystem integration app authentication REST API.
+* [Mapbox Static Images API](https://github.com/mapbox) - Static maps tiles and vector shapes graphics renderer REST API.
+* [Tesseract OCR CLI](https://github.com/tesseract-ocr/tesseract) - Optical character recognition texts extractor command line engine.
+* [Esbuild CLI](https://github.com/evanw/esbuild) - Extremely fast JavaScript bundler and styles compiler command line.
+* [Rive Web SDK](https://github.com/rive-app/rive-wasm) - Interactive vector animations runtime web player and integration SDK.
+* [Librosa Python SDK](https://github.com/librosa/librosa) - Python music and audio analysis signal processor library.
+* [PixiJS Web Compiler](https://github.com/pixijs/pixijs) - High-performance WebGL 2D visual assets builder compiler API.

@@ -193,3 +193,19 @@
 * [Love Nudge API](https://5lovelanguages.com/love-nudge-developer) - Intimacy goals and love language activity tracking API for couples connection.
 * [STI Risk Estimator API](https://github.com/dodejahridesh-wq/sti-risk-calculator) - Public health metadata models estimating sexual health transmission risk scores.
 * [Clue Research API](https://helloclue.com/research-api) - Anonymized reproductive health and menstrual datasets query API for academic research.
+
+* [Lovense Developer API](https://www.lovenselabs.com/) - Official API for local and remote control of smart intimacy hardware.
+* [Kiiroo SDK](https://github.com/kiiroo/kiiroo-sdk) - Interactive teledildonics hardware control integration developer SDK.
+* [OhMiBod Bluetooth API](https://ohmibod.com/pages/developer) - Bluetooth control API for designing smart pleasure hardware patterns.
+* [Kinsey Institute Research Database](https://kinseyinstitute.org/collections/archival-collections/) - Human sexuality research database and survey reports directories API.
+* [Lovebox MQTT API](https://github.com/loveboxio/lovebox-api) - MQTT protocols message broker client for connected love messaging hardware.
+* [Sexology Archive JSON](https://github.com/dodejahridesh-wq/sexology-archive-dataset) - Structured database compiling human sexuality publications and academic papers.
+* [Koka Shastra Erotology API](https://github.com/dodejahridesh-wq/kokashastra-dataset) - Classical medieval Indian erotology treatises postures and metadata API.
+* [SH:24 Clinic Locator API](https://sh24.org.uk/developers) - REST API querying sexual health clinics and test kit centres.
+* [ASHA Sexual Health API](https://www.ashasexualhealth.org/api) - American Sexual Health Association educational files and factsheets API.
+* [Beducated Content API](https://beducated.com/developer-api) - Socio-sensory intimacy training tutorials and modules content API.
+* [Dipsea Audio API](https://www.dipseastories.com/developers) - Audio stories and guided couple wellness audio player streaming API.
+* [Flo Partner Platform API](https://flo.health/partners) - Period tracking and menstrual cycles prediction sharing partner API.
+* [Coral Relationship Webhooks](https://getcoral.co/developer) - Intimacy check-ins tracker and relationship health webhook events API.
+* [Scarleteen Sex Ed API](https://www.scarleteen.com/api) - Inclusive relationship advice and sex education Q&A search API.
+* [Kama Somatic Wellness API](https://kama.co/api-docs) - Pelvic health, somatic wellness, and intimacy guides REST API.

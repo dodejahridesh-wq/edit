@@ -197,3 +197,19 @@
 * [Checkov IaC Scanner](https://github.com/bridgecrewio/checkov) - IaC configuration security static analyzer checking rule blocks.
 * [Amass Recon CLI](https://github.com/owasp-amass/amass) - Attack surface mapping asset discovery tool compiling hosts.
 * [Sherlock Search CLI](https://github.com/sherlock-project/sherlock) - Social media accounts username search tool checking directories.
+
+* [Subfinder CLI](https://github.com/projectdiscovery/subfinder) - Fast passive subdomain discovery tool command line.
+* [Masscan CLI](https://github.com/robertdavidgraham/masscan) - Extremely fast Internet port scanner command line utility.
+* [Feroxbuster CLI](https://github.com/epi052/feroxbuster) - Fast recursive path and content directory brute-forcer.
+* [Rustscan CLI](https://github.com/RustScan/RustScan) - Blazingly fast port scanner console client written in Rust.
+* [Semgrep App API](https://github.com/semgrep/semgrep) - Static analysis security scanner cloud policies control API.
+* [TruffleHog CLI](https://github.com/trufflesecurity/trufflehog) - Secrets and credentials leaks repository scanner command line.
+* [Prowler CLI](https://github.com/prowler-cloud/prowler) - AWS security assessment and compliance auditing command line.
+* [ZAP CLI](https://github.com/zaproxy/zap-api-python) - OWASP Zed Attack Proxy automation runner command line client.
+* [Semgrep CLI](https://github.com/semgrep/semgrep) - Fast multi-language static analysis security linter CLI.
+* [SecHub CLI](https://github.com/mercedes-benz/sechub) - Mercedes-Benz open-source unified security scanner orchestrator client.
+* [Wazuh API](https://github.com/wazuh/wazuh) - Security monitoring and endpoint SIEM manager admin REST API.
+* [Shodan CLI](https://github.com/achillean/shodan-python) - Internet of Things device index search engine command line.
+* [Spiderfoot CLI](https://github.com/smicallef/spiderfoot) - OSINT automation scanner compiling domains intelligence reports.
+* [Gophish API](https://github.com/gophish/gophish) - Open-source phishing training simulation manager REST API.
+* [Ransomwatch API](https://github.com/joshhighet/ransomwatch) - Cyber security threat intelligence API tracking ransomware leaks sites.

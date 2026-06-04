@@ -186,3 +186,19 @@
 * [Albumentations Image API](https://github.com/albumentations-team/albumentations) - Deep learning image augmentation library applying filters.
 * [Yellowbrick Diagnostics API](https://github.com/DistrictDataLabs/yellowbrick) - Machine learning diagnostics plotting library scoring classifier models.
 * [Evidently Reports API](https://github.com/evidently-ai/evidently) - AI drift monitoring reports generator library calculating parameters.
+
+* [Faststream](https://github.com/airtai/faststream) - Asynchronous Python library for building messaging services and pipelines.
+* [TensorBoard CLI](https://github.com/tensorflow/tensorboard) - TensorFlow visualization toolkit server command line parser.
+* [MindsDB API](https://github.com/mindsdb/mindsdb) - AI database developer REST API connecting models to data tables.
+* [Polars Python SDK](https://github.com/pola-rs/polars) - Blazingly fast multi-threaded dataframe library Python interface.
+* [DuckDB Python SDK](https://github.com/duckdb/duckdb) - In-process analytical SQL database engine Python developer SDK.
+* [Neptune AI Python SDK](https://github.com/neptune-ai/neptune-client) - Metadata store for MLOps tracking training runs Python library.
+* [Triton CLI](https://github.com/triton-inference-server/server) - NVIDIA Triton Inference Server metrics and model control client CLI.
+* [OpenLLM CLI](https://github.com/bentoml/OpenLLM) - Deploy and run any open LLM in production command line manager.
+* [Llamafile CLI](https://github.com/Mozilla-Ocho/llamafile) - Mozilla single-file local LLM distribution and execution console.
+* [LiteLLM API](https://github.com/BerriAI/litellm) - Unified REST API client proxying 100+ large language models.
+* [Promptflow CLI](https://github.com/microsoft/promptflow) - Microsoft prompt engineering pipelines execution command line tool.
+* [LangFuse SDK](https://github.com/langfuse/langfuse-node) - Open-source LLM engineering tracking and tracing developer SDK.
+* [Arize Phoenix SDK](https://github.com/Arize-AI/phoenix) - AI observability library evaluating prompts and LLM traces.
+* [TextSynth API](https://textsynth.com/documentation.html) - REST API serving large language models inference and completion.
+* [Groq Node SDK](https://github.com/groq/groq-node) - Official Node.js library for high-speed Groq LPU inference API.

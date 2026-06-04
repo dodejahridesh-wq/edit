@@ -202,3 +202,19 @@
 * [Basecamp REST SDK](https://github.com/basecamp/bc3-api) - Message boards communications client REST SDK sending notes.
 * [Asana Client Node SDK](https://github.com/Asana/node-asana) - Project boards timelines manager Node SDK resolving issues.
 * [Baserow Admin CLI](https://baserow.io/docs/api) - Database admin panel CLI controller updating tables.
+
+* [Airtable Webhooks API](https://github.com/Airtable/airtable.js) - Real-time notifications API tracking rows updates and events.
+* [Google Drive REST API](https://github.com/googleapis/google-api-nodejs-client) - Cloud folders manager and file download client REST API.
+* [Microsoft Graph Calendar API](https://github.com/microsoftgraph/msgraph-sdk-javascript) - Microsoft calendar bookings scheduler developer REST API.
+* [AnkiConnect REST API](https://github.com/FooSoft/anki-connect) - Flashcard databases local editor server REST API.
+* [Wikipedia Article Search API](https://github.com/wikimedia/mediawiki-api-node) - Wikipedia database search and texts extraction REST API.
+* [Pandoc Document CLI](https://github.com/jgm/pandoc) - Universal document formats converter command line utility.
+* [Aptitude Package CLI](https://github.com/debian/aptitude) - Debian software package installations tracker command line.
+* [LaTeX PDF CLI](https://github.com/latex3/latex3) - Scientific document typesetting systems compilation engine CLI.
+* [Wikidata SPARQL Endpoint](https://github.com/wikimedia/wikidata-query-rdf) - Wikidata graph relations SPARQL query editor REST API.
+* [Duolingo Partner API](https://github.com/duolingo) - Duolingo language progress and courses metadata partner API.
+* [Coursera Course API](https://github.com/coursera) - Public educational courses catalogs search REST API.
+* [Linear GraphQL SDK](https://github.com/linear/linear) - Linear issues tracking software database developer client SDK.
+* [Notion Database API](https://github.com/makenotion/notion-sdk-js) - Notion database page structures compiler REST API.
+* [Joplin Web Clipper API](https://joplinapp.org/clipper/) - Local REST API for the Joplin open-source note-taking application browser extension integration.
+* [Discord REST API Client](https://github.com/discordjs/discord.js) - Discord chat server endpoints coordinator REST API.

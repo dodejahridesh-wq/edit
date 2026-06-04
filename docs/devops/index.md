@@ -183,3 +183,19 @@
 * [Octant CLI](https://github.com/vmware-tanzu/octant) - Visual developer-centric dashboard for inspecting Kubernetes clusters.
 * [Velero Backup CLI](https://github.com/vmware-tanzu/velero) - Disaster recovery block backups CLI utility archiving namespaces.
 * [Harbor REST API](https://github.com/goharbor/harbor) - Cloud-native registry services authentication and vulnerability API.
+
+* [Fluent Bit CLI](https://github.com/fluent/fluent-bit) - Fast and lightweight log processor and forwarder command line tool.
+* [Kube-bench CLI](https://github.com/aquasecurity/kube-bench) - CIS Kubernetes Benchmark security checker command line tool.
+* [Kube-hunter CLI](https://github.com/aquasecurity/kube-hunter) - Kubernetes security vulnerability hunting scanner command line tool.
+* [Inframap CLI](https://github.com/cycloidio/inframap) - Terraform state mapping and infrastructure visualization command line tool.
+* [Kube-linter CLI](https://github.com/stackrox/kube-linter) - Static analysis linter for Kubernetes YAML and Helm charts.
+* [LocalStack CLI](https://github.com/localstack/localstack) - Local mock cloud environment for AWS developer testing command line.
+* [k0s CLI](https://github.com/k0sproject/k0s) - Zero friction lightweight Kubernetes distribution command line manager.
+* [TFLint CLI](https://github.com/terraform-linters/tflint) - Terraform linter for detecting errors and cloud-specific warnings.
+* [Devspace CLI](https://github.com/loft-sh/devspace) - Developer tool CLI for building and deploying Kubernetes applications live.
+* [Telepresence CLI](https://github.com/telepresenceapp/telepresence) - Fast local development environment client proxying Kubernetes clusters.
+* [Copilot CLI](https://github.com/aws/copilot-cli) - Command line interface for launching containerized apps on AWS ECS and App Runner.
+* [Waypoint CLI](https://github.com/hashicorp/waypoint) - HashiCorp Waypoint command line runner for application deployment workflows.
+* [Kubeaudit CLI](https://github.com/Shopify/kubeaudit) - Kubernetes clusters security auditor and YAML files checker.
+* [Flyctl](https://github.com/superfly/flyctl) - Fly.io command line client managing application deployments close to users.
+* [Hetzner CLI](https://github.com/hetznercloud/hcloud-cli) - Hetzner Cloud resources and virtual machines manager command line.

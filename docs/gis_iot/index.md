@@ -194,3 +194,19 @@
 * [Tile38 Database CLI](https://github.com/tidwall/tile38) - Geospatial geofence query engine client tracking moving assets.
 * [OwnTracks Recorder CLI](https://github.com/owntracks/recorder) - Devices telemetry logs collector database CLI querying paths.
 * [PostGIS Raster Importer](https://github.com/postgis/postgis) - GeoTIFF to SQL compiler command utility inserting raster data.
+
+* [OpenStreetMap Overpass API](https://github.com/drolbr/Overpass-API) - Geospatial query engine filtering raw OpenStreetMap maps data.
+* [Mapbox Matrix API](https://github.com/mapbox/mapbox-sdk-node) - Travel times and routes distance estimation matrices REST API.
+* [Nominatim Search API](https://github.com/osm-search/Nominatim) - Address geocoder and maps names searching index REST API.
+* [PostGIS SQL Suite](https://github.com/postgis/postgis) - Spatially enabled PostgreSQL database geometry calculations engine.
+* [Turf.js Library](https://github.com/Turfjs/turf) - Advanced geospatial mathematical analysis browser library API.
+* [MQTT CLI client](https://github.com/hivemq/mqtt-cli) - HiveMQ helper command line client subscribing to message brokers.
+* [ESP-IDF Build CLI](https://github.com/espressif/esp-idf) - Espressif IoT hardware programming compiler command line.
+* [Home Assistant REST API](https://github.com/home-assistant/core) - Smart home devices controls and telemetry states REST API.
+* [Valhalla Routing Engine](https://github.com/valhalla/valhalla) - Open-source global routing tiles turn-by-turn paths API.
+* [Ocellus API](https://github.com/dodejahridesh-wq/ocellus-gis) - Geofencing tracking databases and asset coordinates parser API.
+* [Zigbee2MQTT API](https://github.com/Koenkk/zigbee2mqtt) - Zigbee devices to MQTT broker bridge coordinator interface API.
+* [Hyperion REST API](https://github.com/hyperion-project/hyperion.ng) - Ambient smart lighting setups configurations manager REST API.
+* [ChirpStack LoRaWAN API](https://github.com/chirpstack/chirpstack) - Network server API managing gateways and LoRa devices.
+* [Overpass Turbo API](https://github.com/tyrasd/overpass-turbo) - OSM data mining and visualization queries compiler interface.
+* [Nominatim Reverse API](https://github.com/osm-search/Nominatim) - Geospatial points reverse geocoding to text addresses API.

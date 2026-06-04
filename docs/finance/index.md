@@ -197,3 +197,19 @@
 * [Compound Finance Protocol API](https://github.com/compound-finance/compound-protocol) - Compound decentralized lending protocol developer API for tracking interest.
 * [Braintree Gateway CLI](https://github.com/braintree/braintree_node) - Merchant account credential auditor CLI auditing payment keys.
 * [Adyen Gateway CLI](https://github.com/Adyen/adyen-cli) - Developer gateway testing client verifying payments webhooks.
+
+* [Etherscan REST API](https://etherscan.io/apis) - Ethereum blockchain transactions and contracts validation REST API.
+* [CoinGecko Pro API](https://www.coingecko.com/en/api/pricing) - Premium cryptocurrency market indices and historical records REST API.
+* [Binance Connector Node](https://github.com/binance/binance-connector-node) - Official Node.js SDK for Binance API trading integrations.
+* [Alpaca Trade API SDK](https://github.com/alpacahq/alpaca-trade-api-python) - Stocks and crypto trading integrations Python client SDK.
+* [Chainlink Price Feeds](https://github.com/smartcontractkit/chainlink) - Smart contracts oracle rate feeds query interface API.
+* [OpenZeppelin Contracts CLI](https://github.com/OpenZeppelin/openzeppelin-contracts) - Secure smart contract modular libraries developer testing CLI.
+* [Hardhat Network CLI](https://github.com/NomicFoundation/hardhat) - Local Ethereum simulator blockchain node command line runner.
+* [Foundry Cast CLI](https://github.com/foundry-rs/foundry) - Web3 command line helper tool for executing blockchain queries.
+* [Foundry Anvil CLI](https://github.com/foundry-rs/foundry) - Lightweight local Ethereum node developer testing CLI.
+* [Foundry Forge CLI](https://github.com/foundry-rs/foundry) - Ethereum contracts testing and building compiler CLI.
+* [Moralis Web3 API](https://github.com/MoralisWeb3/web3-sdk) - Enterprise-grade blockchain databases index query REST API.
+* [QuickNode REST API](https://github.com/quiknode-labs) - Blockchain RPC infrastructure gateway queries endpoint API.
+* [Stripe Core Payments API](https://github.com/stripe/stripe-node) - Stripe charges and payment intents transaction coordinator API.
+* [Coinbase Advanced Trade API](https://github.com/coinbase/coinbase-advanced-py) - Coinbase advanced trading accounts manager developer REST API.
+* [Plaid API Client](https://github.com/plaid/plaid-node) - Financial accounts integration transaction logs manager REST API.
