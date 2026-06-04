@@ -122,3 +122,19 @@
 * [Pandoc CLI](https://pandoc.org) - Command line document markup converter compiling files to target formats.
 * [CalDAV CLI](https://github.com/collective/caldav) - Command line client managing calendar bookings over CalDAV.
 * [Zotero CLI](https://github.com/johndalton/zotero-cli) - Reference library collections manager command line helper.
+
+* [Notion SDK](https://github.com/makenotion/notion-sdk-js) - Official JavaScript client libraries mapping Notion database queries.
+* [Slack Web API client](https://github.com/slackapi/node-slack-sdk) - Slack client library posting messages and reading channels metadata.
+* [Discord Bot API](https://discord.com/developers/docs/intro) - Gateway connection API receiving channel posts and reactions.
+* [Google Drive API client](https://github.com/googleapis/google-api-nodejs-client) - Google Drive files query, folder creation, and permissions client.
+* [Obsidian Local REST API](https://github.com/mgmeyers/obsidian-local-rest-api) - Obsidian local plugin exposing note query REST interfaces.
+* [Zoom Meeting API](https://developers.zoom.us/docs/api/) - Zoom server API managing meeting rooms and accounts setups.
+* [Trello API client](https://developer.atlassian.com/cloud/trello/rest/) - Trello client library query and update interfaces.
+* [Airtable SDK](https://github.com/Airtable/airtable.js) - Official Airtable client mapping database records and layouts.
+* [Microsoft Graph SDK](https://github.com/microsoftgraph/msgraph-sdk-javascript) - Microsoft 365 client mapping accounts, emails, and calendar files.
+* [Linear GraphQL API](https://developers.linear.app/docs/graphql/manual) - GraphQL interface query backlog tickets and issues schedules.
+* [Zulip API client](https://github.com/zulip/zulip-js-l4) - Zulip chat server messages and stream query client library.
+* [Matrix Client SDK](https://github.com/matrix-org/matrix-js-sdk) - Matrix chat protocol client library managing encrypted rooms.
+* [CalDAV client](https://github.com/collective/caldav) - Python client library querying calendar events over CalDAV.
+* [Duolingo API client](https://github.com/Basin15/duolingo-api) - Unofficial client library reading Duolingo languages progress metadata.
+* [Baserow API client](https://baserow.io/docs/api/client) - Baserow client library mapping databases records queries.

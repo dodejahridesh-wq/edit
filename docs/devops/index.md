@@ -103,3 +103,19 @@
 * [Crossplane](https://crossplane.io) - Kubernetes extension provisioning cloud databases and networks using K8s CRDs.
 * [InfraMap](https://github.com/cycloidio/inframap) - Visualizer tool compiling Terraform state files into clean architecture graphs.
 * [Pluto](https://github.com/FairwindsOps/pluto) - CLI utility detecting deprecated Kubernetes API versions in code manifests.
+
+* [Karpenter](https://karpenter.sh) - Just-in-time, high-performance Kubernetes node autoscaling group manager.
+* [Kyverno](https://kyverno.io) - Kubernetes-native policy engine managing configurations, validation, and generation.
+* [Argo Rollouts](https://argoproj.github.io/argo-rollouts) - Kubernetes progressive delivery controller supporting Canary and Blue-Green updates.
+* [Chaos Mesh](https://chaos-mesh.org) - Cloud-native chaos engineering orchestrator simulating diverse network and disk failures.
+* [KubeVela](https://kubevela.io) - Application delivery and management platform based on Open Application Model.
+* [KEDA](https://keda.sh) - Kubernetes Event-driven Autoscaling scaling containers based on event metrics.
+* [Kube-prometheus-stack](https://github.com/prometheus-operator/kube-prometheus-stack) - Prometheus operator chart bundle providing Kubernetes cluster monitoring services.
+* [Cert-manager](https://cert-manager.io) - Cloud-native X.509 certificate management controller checking Let's Encrypt certificates.
+* [External-DNS](https://github.com/kubernetes-sigs/external-dns) - Kubernetes controller configuring external DNS servers via Ingress and Service specs.
+* [Velero](https://velero.io) - Disaster recovery tool backing up and restoring Kubernetes cluster resources.
+* [SOPS Secrets Operator](https://github.com/isindir/sops-secrets-operator) - Kubernetes controller decrypting and syncing SOPS encrypted secret values.
+* [Dex OIDC](https://dexidp.io) - OpenID Connect identity provider authenticating users via external connectors.
+* [MinIO CLI](https://min.io/docs/minio/linux/reference/minio-cli.html) - Command-line interface manager managing buckets and files on MinIO storage.
+* [Harbor CLI](https://github.com/goharbor/harbor-cli) - Command-line interface client managing projects, repos, and tags on Harbor.
+* [Packer CLI](https://developer.hashicorp.com/packer) - Command line machine image builder compiling virtual machine images.

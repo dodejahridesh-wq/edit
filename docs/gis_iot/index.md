@@ -114,3 +114,19 @@
 * [MQTT CLI](https://github.com/hivemq/mqtt-cli) - Command line interface client subscribing to broker telemetry channels.
 * [OwnTracks Recorder](https://github.com/owntracks/recorder) - Telemetry logger server collecting and storing OwnTracks location feeds.
 * [Home-Assistant-cli](https://github.com/home-assistant/cli) - Command line utility managing Home Assistant server states and devices.
+
+* [GDAL ogr2ogr](https://gdal.org/programs/ogr2ogr.html) - Vector dataset conversion command line utility translating shapes formats.
+* [GDAL gdalwarp](https://gdal.org/programs/gdalwarp.html) - Image warping and coordinate re-projection utility for geo-rasters databases.
+* [GeoJSON CLI](https://github.com/tmcw/geojson-cli) - Command-line utility inspecting, formatting, and converting GeoJSON coordinates.
+* [PostGIS raster2pgsql](https://postgis.net/docs/raster2pgsql.html) - Geo-raster importer converting GeoTIFF images to SQL insert statements.
+* [PostGIS shp2pgsql](https://postgis.net/docs/shp2pgsql.html) - Shapefile importer converting ESRI vector layers to SQL database statements.
+* [Leaflet.draw](https://github.com/Leaflet/Leaflet.draw) - Leaflet map plugin rendering vector geometry editor interfaces.
+* [OpenLayers Map](https://openlayers.org/doc/quickstart.html) - Browser map framework mapping tile layers and vector overlays layouts.
+* [CesiumJS Viewer](https://cesium.com/learn/cesiumjs-learn/cesiumjs-quickstart/) - Virtual globe map viewer displaying 3D tiles and satellite views.
+* [H3 Py](https://github.com/uber/h3-py) - Uber H3 spatial index Python library wrapping coordinates mapping indices.
+* [S2 Geometry Library](https://github.com/google/s2geometry) - Spherical coordinates indexing library packaging spatial grids cells.
+* [Mosquitto client](https://mosquitto.org/man/mosquitto_sub-1.html) - Command line clients subscribing and publishing to MQTT broker telemetry.
+* [OwnTracks HTTP](https://owntracks.org/book/guide/endpoints/) - Location logging endpoints accepting tracker reports via JSON payloads.
+* [Home Assistant REST](https://developers.home-assistant.io/docs/api/rest/) - Home Assistant REST API controlling smart devices and states configurations.
+* [MQTT.js](https://github.com/mqttjs/MQTT.js) - MQTT client library for JavaScript applications running in Node.js or browsers.
+* [Tile38](https://tile38.com) - Geospatial database and geofencing server scaling location queries.

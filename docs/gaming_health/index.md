@@ -113,3 +113,19 @@
 * [USGS Seismic CLI](https://earthquake.usgs.gov/fdsnws/event/1/) - Command line event feed inspector querying USGS seismic databases.
 * [Tomorrow.io CLI](https://docs.tomorrow.io/reference/welcome) - Command line client querying real-time meteorological forecasts.
 * [SpaceX API client](https://github.com/r-spacex/SpaceX-API) - Client wrappers querying launch schedules and rocket telemetry.
+
+* [Defold bob.jar](https://defold.com/manuals/bob/) - Defold engine command line build tool compiling game assets.
+* [Love2D bootloader](https://love2d.org/wiki/love) - Command line bootloader bootstrapping Love2D game directories.
+* [GDevelop exporter](https://docs.gdevelop.io/gdevelop-5/extensions/compile-and-export) - GDevelop command line exporter compiling and building visual games.
+* [SteamCMD](https://developer.valvesoftware.com/wiki/SteamCMD) - Command line console tool downloading dedicated server packages.
+* [Unity Hub CLI tool](https://docs.unity3d.com/Manual/HubCLI.html) - Unity Hub command line interface client managing target platforms.
+* [RetroArch CLI](https://docs.libretro.com/guides/cli/) - Command line frontend loading emulation cores on files.
+* [USGS Seismic API client](https://earthquake.usgs.gov/fdsnws/event/1/) - USGS earthquake catalog events feed REST interface query.
+* [Tomorrow.io weather API](https://docs.tomorrow.io/reference/welcome) - High-resolution weather metrics catalog REST database client.
+* [SpaceX API client wrapper](https://github.com/r-spacex/SpaceX-API) - Spaceship launch schedule and telemetry queries Python SDK.
+* [Wahoo Fitness API client](https://developer.wahoofitness.com) - BLE client libraries query workout metrics over Bluetooth.
+* [Dexcom API client wrapper](https://developer.dexcom.com/docs/dexcom-api/v3/overview/) - Dexcom continuous glucose monitoring REST database API client.
+* [Sportsradar API client wrapper](https://developer.sportradar.com/docs/read/Home) - Sports databases live feeds queries REST SDK.
+* [OpenUV API client](https://github.com/openuv/openuv-node) - OpenUV client query real-time global UV Index calculations.
+* [MATLAB engine](https://www.mathworks.com/help/matlab/matlab-engine-for-python.html) - Python engine interface executing MATLAB scripts on workspaces.
+* [Octave CLI client](https://docs.octave.org/v9.1.0/Command-Line-Options.html) - Command line interpreter executing GNU Octave calculations.

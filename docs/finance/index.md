@@ -117,3 +117,19 @@
 * [Aave V3 SDK](https://github.com/aave/aave-v3-core) - Aave V3 core protocol lending pool transactions and flash loan helpers.
 * [Metamask-provider](https://github.com/MetaMask/providers) - EIP-1193 MetaMask wallet browser injection provider wrapper classes.
 * [Adyen Checkout SDK](https://github.com/Adyen/adyen-web) - Web client SDK rendering card payment checkout screens.
+
+* [Safe SDK](https://github.com/safe-global/safe-core-sdk) - Software development kit for building on top of Safe smart accounts.
+* [Remixd Daemon](https://github.com/remix-project-org/remix-project) - Remix IDE local folder synchronization daemon.
+* [OpenZeppelin Wizard](https://wizard.openzeppelin.com) - Interactive smart contract generator for secure ERC-20 and ERC-721 builds.
+* [The Graph CLI](https://github.com/graphprotocol/graph-cli) - Command-line tool compiling and deploying subgraphs for query hosting.
+* [MetaMask Provider API](https://docs.metamask.io/wallet/reference/provider-api/) - EIP-1193 Ethereum provider injected by MetaMask into web browsers.
+* [Web3Modal SDK](https://docs.walletconnect.com/web3modal/about) - Wallet connection modal library for React, Vue, and vanilla JS.
+* [Alchemy SDK](https://docs.alchemy.com/reference/alchemy-sdk-quickstart) - Multi-chain RPC client SDK wrapping complex transaction calls.
+* [Infura Provider API](https://docs.infura.io/api) - Ethereum, IPFS, and L2 networks RPC connection gateway API.
+* [Adyen Web SDK](https://docs.adyen.com/online-payments/web-components) - Frontend components rendering card inputs and drop-in checkouts.
+* [Braintree Web SDK](https://developer.paypal.com/braintree/docs/guides/client-sdk/javascript/v3) - Braintree client SDK rendering PayPal and card checkout fields.
+* [Stripe Elements](https://docs.stripe.com/stripe-js) - Stripe UI elements library rendering PCI-compliant payment fields.
+* [Coinbase Commerce API](https://docs.cloud.coinbase.com/commerce/docs/welcome) - Merchant payment API accepting cryptocurrency checkouts and invoices.
+* [Anchor CLI](https://github.com/coral-xyz/anchor) - Solana eBPF smart program compiler, deployer, and workspace generator.
+* [Truffle CLI](https://archive.trufflesuite.com/docs/truffle/reference/truffle-commands) - Truffle project compilation, migration, and contract deployment runner CLI.
+* [Stripe Billing API](https://docs.stripe.com/billing) - Stripe REST API managing subscription pricing models and invoices schedules.

@@ -104,3 +104,19 @@
 * [AudioContext-helper](https://developer.mozilla.org/en-US/docs/Web/API/AudioContext) - Helper functions initializing and resuming Web Audio API AudioContext states.
 * [Fontfaceobserver](https://fontfaceobserver.com) - Lightweight web font loading monitor verifying font rendering readiness.
 * [Sass CLI](https://sass-lang.com/documentation/cli/dart-sass/) - Command line compiler compiling SCSS styles to standard CSS stylesheets.
+
+* [PixiJS Filters](https://github.com/pixijs/filters) - Collection of visual filters and post-processing shaders for PixiJS canvas containers.
+* [Three.js FontLoader](https://threejs.org/docs/#examples/en/loaders/FontLoader) - Three.js helper class loading JSON fonts for 3D text geometry creation.
+* [P5.sound](https://p5js.org/reference/#/libraries/p5.sound) - Synthesized sounds, audio effects, and microphone inputs extension for p5.js.
+* [GSAP Draggable](https://gsap.com/docs/v3/Plugins/Draggable) - GreenSock plugin adding responsive drag-and-drop mechanics to DOM elements.
+* [GSAP Inertia](https://gsap.com/docs/v3/Plugins/InertiaPlugin) - GreenSock plugin adding physics-based scrolling and momentum dynamics.
+* [Lottie-web Light](https://github.com/airbnb/lottie-web) - Lightweight variant of Lottie-web player optimized for SVG vector rendering.
+* [Web Audio Analyser](https://developer.mozilla.org/en-US/docs/Web/API/AnalyserNode) - AudioContext AnalyserNode helper processing real-time frequencies and waveforms data.
+* [ImageMagick convert](https://imagemagick.org/script/convert.php) - Command-line tool translating, cropping, and converting image file formats.
+* [Three.js WebGLRenderer](https://threejs.org/docs/#api/en/renderers/WebGLRenderer) - Core WebGL rendering engine mounting Three.js 3D web scenes to canvases.
+* [PostCSS CLI](https://github.com/postcss/postcss-cli) - CSS tool runner applying plugins (Autoprefixer, Tailwind, CSSNano) via config.
+* [Less.js](https://lesscss.org) - CSS pre-processor compiler parsing Less styles to standard CSS stylesheets.
+* [Stylus CLI](https://stylus-lang.com/docs/executable.html) - Command line compiler parsing Stylus stylesheet templates to standard CSS styles.
+* [Howler Spatial](https://github.com/goldfire/howler.js#3d-spatial-audio) - 3D spatial audio coordinates and sound panning extension for Howler.js.
+* [P5.dom](https://p5js.org/reference/#/libraries/p5.dom) - HTML5 DOM elements creations and page layouts controls for p5.js canvas.
+* [Mapbox GL Draw](https://github.com/mapbox/mapbox-gl-draw) - Draw tools plugin mapping vector points and geometries on Mapbox maps.

@@ -117,3 +117,19 @@
 * [Faraday](https://faradaysec.com) - Collaborative penetration testing platform compiling scans and vulnerabilities.
 * [Recon-ng](https://github.com/lanmaster53/recon-ng) - Web-based open source reconnaissance framework organizing OSINT scans.
 * [NoSQLMap](https://github.com/codingo/NoSQLMap) - Automated database injection tool targeting NoSQL databases (MongoDB).
+
+* [Tshark](https://tshark.dev) - Command line packet analyzer displaying packet data from live networks or saved capture files.
+* [Stegdetect](https://github.com/abeluck/stegdetect) - Command line tool detecting steganographic content in JPEG images.
+* [Lynis](https://cisofy.com/lynis) - Security auditing tool performing system scans on Linux and macOS targets.
+* [Rkhunter](https://sourceforge.net/projects/rkhunter) - Rootkit hunter scanning directories and system files for backdoors.
+* [Chkrootkit](https://chkrootkit.org) - Locally checks for signs of a rootkit within system binaries and processes.
+* [Binwalk](https://github.com/ReFirmLabs/binwalk) - Tool for searching, reverse engineering, and extracting firmware images.
+* [Steghide](https://steghide.sourceforge.net) - Steganography program hiding and extracting data in BMP, WAV, and JPEG files.
+* [Cutter](https://github.com/rizinorg/cutter) - GUI platform for reverse engineering powered by rizin engine backend.
+* [Pacu](https://github.com/RhinoSecurityLabs/pacu) - AWS penetration testing framework exploiting misconfigured accounts.
+* [Terrascan](https://runterrascan.io) - Static code analyzer for Infrastructure as Code detecting security violations.
+* [Tfsec](https://github.com/aquasecurity/tfsec) - Security scanner for Terraform code mapping configuration errors.
+* [Bandit](https://github.com/PyCQA/bandit) - Security linter scanning Python source code for security vulnerabilities.
+* [Safety CLI](https://github.com/pyupio/safety) - Checks installed Python dependencies against a known vulnerability database.
+* [Cartography](https://github.com/lyft/cartography) - Python tool consolidating infrastructure assets in Neo4j database graph maps.
+* [Cmctl](https://cert-manager.io/docs/reference/cmctl) - Command-line interface manager for cert-manager certificates and issuers.

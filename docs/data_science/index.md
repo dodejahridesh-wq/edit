@@ -106,3 +106,19 @@
 * [Yellowbrick](https://www.scikit-yb.org/en/latest/) - Visual analysis and diagnostic visualization tools for machine learning.
 * [Turi Create](https://github.com/apple/turicreate) - Apple's machine learning framework simplifying custom model building.
 * [Sagemaker CLI](https://docs.aws.amazon.com/sagemaker) - AWS SageMaker local execution command line tool for model training tests.
+
+* [PyTorch Ignite](https://pytorch-ignite.ai) - High-level library helper training neural networks in PyTorch clean loops.
+* [Optuna Dashboard](https://github.com/optuna/optuna-dashboard) - Web dashboard visualizing hyperparameter optimization trials and metrics.
+* [MLflow Model Registry](https://mlflow.org/docs/latest/model-registry.html) - Centralized model repository managing model lineages, transitions, and versions.
+* [Milvus Attu](https://github.com/zilliztech/attu) - Intuitive graphic user interface client managing Milvus vector databases.
+* [Qdrant Web UI](https://qdrant.tech/documentation/concepts/search/) - Built-in web dashboard inspecting collections and testing vector search queries.
+* [ChromaDB Web UI](https://github.com/hmarr/chroma-ui) - Community-built web console inspecting collections, metadata, and embeddings.
+* [Cleanlab](https://cleanlab.ai) - Data-centric AI framework finding label errors and cleaning datasets.
+* [DeepSpeed ZeRO](https://www.deepspeed.ai/tutorials/zero/) - Memory optimization technology enabling training of multi-billion parameter models.
+* [Accelerate](https://huggingface.co/docs/accelerate) - Hugging Face library simplifying multi-GPU, TPU, and mixed-precision training.
+* [Peft](https://huggingface.co/docs/peft) - Parameter-Efficient Fine-Tuning library training adapter weights (LoRA).
+* [TRL](https://huggingface.co/docs/trl) - Train transformer language models with Reinforcement Learning (PPO, DPO).
+* [Text Generation Inference](https://huggingface.co/docs/text-generation-inference) - High-performance framework deploying LLMs for production serving.
+* [vLLM](https://github.com/vllm-project/vllm) - Fast and easy LLM serving engine utilizing PagedAttention memory.
+* [Ollama CLI](https://ollama.com) - Command line engine downloading and running local LLMs offline.
+* [TensorRT-LLM](https://github.com/NVIDIA/TensorRT-LLM) - NVIDIA framework optimizing LLM inference on CUDA platforms.
