@@ -133,3 +133,35 @@
 * [Anchor CLI](https://github.com/coral-xyz/anchor) - Solana eBPF smart program compiler, deployer, and workspace generator.
 * [Truffle CLI](https://archive.trufflesuite.com/docs/truffle/reference/truffle-commands) - Truffle project compilation, migration, and contract deployment runner CLI.
 * [Stripe Billing API](https://docs.stripe.com/billing) - Stripe REST API managing subscription pricing models and invoices schedules.
+
+* [Ethers.js CLI](https://docs.ethers.org) - Ethereum blockchain utilities command line console helper.
+* [Web3.js CLI](https://web3js.org) - Web3 library client console making JSON-RPC queries.
+* [Hardhat CLI](https://hardhat.org) - Hardhat smart contracts project compiler and test runner.
+* [Truffle CLI wrapper](https://trufflesuite.com) - Command-line wrapper compiling and migrating Solidity contracts.
+* [Solc-js](https://github.com/ethereum/solc-js) - JavaScript bindings loading Solidity compiler engines inside Node.
+* [Ganache CLI](https://github.com/trufflesuite/ganache) - Personal Ethereum blockchain node simulator testing smart contracts.
+* [Chainlink feeds](https://docs.chain.link/data-feeds) - Chainlink decentralized data feeds reading crypto oracle prices.
+* [Stripe Checkout](https://docs.stripe.com/payments/checkout) - Stripe payment page checkout routing redirects API.
+* [PayPal Checkout](https://developer.paypal.com/docs/checkout) - PayPal smart button component libraries checking transactions.
+* [Braintree CLI](https://developer.paypal.com/braintree/docs) - Braintree gateway credentials auditor command line helper.
+* [Adyen CLI](https://github.com/Adyen/adyen-cli) - Adyen developer gateway webhooks tester CLI client.
+* [Coinbase API](https://docs.cloud.coinbase.com/commerce/docs) - Coinbase Commerce API managing cryptocurrency invoices balances.
+* [MetaMask SDK](https://docs.metamask.io/wallet/connect/metamask-sdk) - Wallet connection library connecting apps to MetaMask wallets.
+* [Web3Onboard](https://onboard.blocknative.com) - Blocknative multi-wallet connection modal UI compiler SDK.
+* [WalletConnect CLI](https://docs.walletconnect.com) - WalletConnect protocol telemetry command line utility helper.
+
+* [Ethers.js CLI](https://docs.ethers.org) - Ethereum blockchain utilities command line console helper.
+* [Web3.js CLI](https://web3js.org) - Web3 library client console making JSON-RPC queries.
+* [Hardhat CLI](https://hardhat.org) - Hardhat smart contracts project compiler and test runner.
+* [Truffle CLI wrapper](https://trufflesuite.com) - Command-line wrapper compiling and migrating Solidity contracts.
+* [Solc-js](https://github.com/ethereum/solc-js) - JavaScript bindings loading Solidity compiler engines inside Node.
+* [Ganache CLI](https://github.com/trufflesuite/ganache) - Personal Ethereum blockchain node simulator testing smart contracts.
+* [Chainlink feeds](https://docs.chain.link/data-feeds) - Chainlink decentralized data feeds reading crypto oracle prices.
+* [Stripe Checkout](https://docs.stripe.com/payments/checkout) - Stripe payment page checkout routing redirects API.
+* [PayPal Checkout](https://developer.paypal.com/docs/checkout) - PayPal smart button component libraries checking transactions.
+* [Braintree CLI](https://developer.paypal.com/braintree/docs) - Braintree gateway credentials auditor command line helper.
+* [Adyen CLI](https://github.com/Adyen/adyen-cli) - Adyen developer gateway webhooks tester CLI client.
+* [Coinbase API](https://docs.cloud.coinbase.com/commerce/docs) - Coinbase Commerce API managing cryptocurrency invoices balances.
+* [MetaMask SDK](https://docs.metamask.io/wallet/connect/metamask-sdk) - Wallet connection library connecting apps to MetaMask wallets.
+* [Web3Onboard](https://onboard.blocknative.com) - Blocknative multi-wallet connection modal UI compiler SDK.
+* [WalletConnect CLI](https://docs.walletconnect.com) - WalletConnect protocol telemetry command line utility helper.

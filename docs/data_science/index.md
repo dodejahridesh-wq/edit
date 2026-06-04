@@ -122,3 +122,35 @@
 * [vLLM](https://github.com/vllm-project/vllm) - Fast and easy LLM serving engine utilizing PagedAttention memory.
 * [Ollama CLI](https://ollama.com) - Command line engine downloading and running local LLMs offline.
 * [TensorRT-LLM](https://github.com/NVIDIA/TensorRT-LLM) - NVIDIA framework optimizing LLM inference on CUDA platforms.
+
+* [Ray Core](https://docs.ray.io) - Open-source distributed framework to scale Python applications and ML workflows.
+* [Dask DataFrame](https://docs.dask.org/en/stable/dataframe.html) - Parallel dataframe library dividing large datasets into partition matrices.
+* [Triton Inference Server](https://developer.nvidia.com/nvidia-triton-inference-server) - Multi-framework model serving software optimizing GPU and CPU executions.
+* [Optuna CLI](https://optuna.org) - Hyperparameter optimization framework executing optimization runs from terminal.
+* [Milvus CLI](https://github.com/zilliztech/milvus-cli) - Command-line interface client managing Milvus collections and searches.
+* [Qdrant CLI](https://github.com/qdrant/qdrant) - Command-line tool managing collections and vectors search queries on Qdrant.
+* [ONNX CLI](https://onnx.ai) - Command-line interface inspecting, optimizing, and compiling ONNX model files.
+* [DVC CLI](https://dvc.org) - Data Version Control command line utility managing large ML datasets.
+* [MLflow CLI](https://mlflow.org) - Command line interface client running and tracking MLflow executions.
+* [Kedro CLI](https://kedro.org) - CLI manager compiling production-ready data pipelines inside Kedro projects.
+* [Streamlit CLI](https://streamlit.io) - Command line engine serving interactive Python data applications.
+* [Gradio CLI](https://gradio.app) - Command line client serving and testing machine learning demo interfaces.
+* [Pandas-Profiling](https://github.com/ydataai/ydata-profiling) - Automated exploratory data analysis reports compiler generating summary statistics.
+* [Feature-engine](https://feature-engine.trainindata.com) - Feature engineering library transforming datasets for machine learning models.
+* [PyTorch Light](https://www.pytorchlightning.ai) - Lightweight PyTorch wrapper structuring training loops for model research.
+
+* [Ray Core](https://docs.ray.io) - Open-source distributed framework to scale Python applications and ML workflows.
+* [Dask DataFrame](https://docs.dask.org/en/stable/dataframe.html) - Parallel dataframe library dividing large datasets into partition matrices.
+* [Triton Inference Server](https://developer.nvidia.com/nvidia-triton-inference-server) - Multi-framework model serving software optimizing GPU and CPU executions.
+* [Optuna CLI](https://optuna.org) - Hyperparameter optimization framework executing optimization runs from terminal.
+* [Milvus CLI](https://github.com/zilliztech/milvus-cli) - Command-line interface client managing Milvus collections and searches.
+* [Qdrant CLI](https://github.com/qdrant/qdrant) - Command-line tool managing collections and vectors search queries on Qdrant.
+* [ONNX CLI](https://onnx.ai) - Command-line interface inspecting, optimizing, and compiling ONNX model files.
+* [DVC CLI](https://dvc.org) - Data Version Control command line utility managing large ML datasets.
+* [MLflow CLI](https://mlflow.org) - Command line interface client running and tracking MLflow executions.
+* [Kedro CLI](https://kedro.org) - CLI manager compiling production-ready data pipelines inside Kedro projects.
+* [Streamlit CLI](https://streamlit.io) - Command line engine serving interactive Python data applications.
+* [Gradio CLI](https://gradio.app) - Command line client serving and testing machine learning demo interfaces.
+* [Pandas-Profiling](https://github.com/ydataai/ydata-profiling) - Automated exploratory data analysis reports compiler generating summary statistics.
+* [Feature-engine](https://feature-engine.trainindata.com) - Feature engineering library transforming datasets for machine learning models.
+* [PyTorch Light](https://www.pytorchlightning.ai) - Lightweight PyTorch wrapper structuring training loops for model research.

@@ -138,3 +138,35 @@
 * [CalDAV client](https://github.com/collective/caldav) - Python client library querying calendar events over CalDAV.
 * [Duolingo API client](https://github.com/Basin15/duolingo-api) - Unofficial client library reading Duolingo languages progress metadata.
 * [Baserow API client](https://baserow.io/docs/api/client) - Baserow client library mapping databases records queries.
+
+* [Notion API client](https://github.com/makenotion/notion-sdk-js) - Notion SDK wrapper mapping pages and databases layouts queries.
+* [Slack SDK](https://github.com/slackapi/bolt-js) - Bolt framework SDK developing Slack applications workflow actions.
+* [Discord SDK](https://github.com/discord/discord-api-docs) - Discord client API packages manager querying channels endpoints.
+* [Google Calendar API](https://github.com/googleapis/google-api-nodejs-client) - Google Calendar events schedules creator client API.
+* [Jira API client](https://github.com/jira-node/node-jira-client) - Node Jira wrapper mapping projects backlog issues queries.
+* [Confluence API client](https://github.com/vertigo/confluence-api) - Confluence wiki pages manager client wrapping REST endpoints.
+* [Obsidian API](https://github.com/obsidianmd/obsidian-api) - Obsidian plugin framework typescript interface API bindings.
+* [Airtable API client](https://github.com/Airtable/airtable.js) - Airtable records viewer client mapping base layouts.
+* [Linear API client](https://github.com/linear/linear) - Linear GraphQL API task tracker client mapping tickets.
+* [Google Tasks API](https://github.com/googleapis/google-api-nodejs-client) - Google Tasks task lists viewer client mapping items.
+* [Todoist API client](https://github.com/doist/todoist-api-python) - Todoist tasks coordinator library managing project schedules.
+* [ClickUp API client](https://clickup.com/api) - ClickUp workspace task lists scheduler REST API wrapper.
+* [Basecamp API client](https://github.com/basecamp/bc3-api) - Basecamp project messages and channels REST API coordinator.
+* [Asana API client](https://github.com/Asana/node-asana) - Asana task board schedules manager REST SDK client.
+* [Baserow API CLI](https://baserow.io/docs/api) - Baserow open-source database client administration interface utility.
+
+* [Notion API client](https://github.com/makenotion/notion-sdk-js) - Notion SDK wrapper mapping pages and databases layouts queries.
+* [Slack SDK](https://github.com/slackapi/bolt-js) - Bolt framework SDK developing Slack applications workflow actions.
+* [Discord SDK](https://github.com/discord/discord-api-docs) - Discord client API packages manager querying channels endpoints.
+* [Google Calendar API](https://github.com/googleapis/google-api-nodejs-client) - Google Calendar events schedules creator client API.
+* [Jira API client](https://github.com/jira-node/node-jira-client) - Node Jira wrapper mapping projects backlog issues queries.
+* [Confluence API client](https://github.com/vertigo/confluence-api) - Confluence wiki pages manager client wrapping REST endpoints.
+* [Obsidian API](https://github.com/obsidianmd/obsidian-api) - Obsidian plugin framework typescript interface API bindings.
+* [Airtable API client](https://github.com/Airtable/airtable.js) - Airtable records viewer client mapping base layouts.
+* [Linear API client](https://github.com/linear/linear) - Linear GraphQL API task tracker client mapping tickets.
+* [Google Tasks API](https://github.com/googleapis/google-api-nodejs-client) - Google Tasks task lists viewer client mapping items.
+* [Todoist API client](https://github.com/doist/todoist-api-python) - Todoist tasks coordinator library managing project schedules.
+* [ClickUp API client](https://clickup.com/api) - ClickUp workspace task lists scheduler REST API wrapper.
+* [Basecamp API client](https://github.com/basecamp/bc3-api) - Basecamp project messages and channels REST API coordinator.
+* [Asana API client](https://github.com/Asana/node-asana) - Asana task board schedules manager REST SDK client.
+* [Baserow API CLI](https://baserow.io/docs/api) - Baserow open-source database client administration interface utility.

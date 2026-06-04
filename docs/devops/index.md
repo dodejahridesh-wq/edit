@@ -119,3 +119,35 @@
 * [MinIO CLI](https://min.io/docs/minio/linux/reference/minio-cli.html) - Command-line interface manager managing buckets and files on MinIO storage.
 * [Harbor CLI](https://github.com/goharbor/harbor-cli) - Command-line interface client managing projects, repos, and tags on Harbor.
 * [Packer CLI](https://developer.hashicorp.com/packer) - Command line machine image builder compiling virtual machine images.
+
+* [Kaniko](https://github.com/GoogleContainerTools/kaniko) - Tool to build container images from a Dockerfile inside a container or Kubernetes cluster without a Docker daemon.
+* [Flux CD](https://fluxcd.io) - GitOps tool keeping Kubernetes clusters in sync with configuration sources (Git/Helm).
+* [Prometheus Operator](https://prometheus-operator.dev) - Provides Kubernetes native deployment and management of Prometheus and Alertmanager instances.
+* [Fluent Bit](https://fluentbit.io) - Fast and lightweight log processor and forwarder for routing telemetry data.
+* [Consul](https://www.consul.io) - Multi-cloud service networking platform to connect and secure services.
+* [MinIO Server](https://min.io) - High-performance object storage server compatible with Amazon S3 API.
+* [Argo Events](https://argoproj.github.io/argo-events) - Event-driven workflow automation framework for Kubernetes trigger mappings.
+* [Tekton Pipelines](https://tekton.dev) - Kubernetes-native CI/CD pipelines framework configuring tasks.
+* [OpenLens](https://github.com/lensapp/lens) - Open-source desktop interface managing Kubernetes cluster resource states.
+* [InfraCost](https://www.infracost.io) - Cloud cost estimates compiler comparing cost changes in Terraform configurations.
+* [Driftctl](https://driftctl.com) - CLI tool measuring configuration drift in cloud infrastructure architectures.
+* [Kube-score](https://github.com/zegl/kube-score) - Static code analysis tool checking Kubernetes manifests rules compliance.
+* [Terragrunt](https://terragrunt.gruntwork.io) - Thin wrapper for Terraform that provides extra tools for keeping configurations DRY.
+* [Pulumi CLI](https://www.pulumi.com) - Infrastructure as Code builder executing infrastructure deployment using code templates.
+* [OpenTofu](https://opentofu.org) - Fork of Terraform providing open-source cloud infrastructure code compilation.
+
+* [Kaniko](https://github.com/GoogleContainerTools/kaniko) - Tool to build container images from a Dockerfile inside a container or Kubernetes cluster without a Docker daemon.
+* [Flux CD](https://fluxcd.io) - GitOps tool keeping Kubernetes clusters in sync with configuration sources (Git/Helm).
+* [Prometheus Operator](https://prometheus-operator.dev) - Provides Kubernetes native deployment and management of Prometheus and Alertmanager instances.
+* [Fluent Bit](https://fluentbit.io) - Fast and lightweight log processor and forwarder for routing telemetry data.
+* [Consul](https://www.consul.io) - Multi-cloud service networking platform to connect and secure services.
+* [MinIO Server](https://min.io) - High-performance object storage server compatible with Amazon S3 API.
+* [Argo Events](https://argoproj.github.io/argo-events) - Event-driven workflow automation framework for Kubernetes trigger mappings.
+* [Tekton Pipelines](https://tekton.dev) - Kubernetes-native CI/CD pipelines framework configuring tasks.
+* [OpenLens](https://github.com/lensapp/lens) - Open-source desktop interface managing Kubernetes cluster resource states.
+* [InfraCost](https://www.infracost.io) - Cloud cost estimates compiler comparing cost changes in Terraform configurations.
+* [Driftctl](https://driftctl.com) - CLI tool measuring configuration drift in cloud infrastructure architectures.
+* [Kube-score](https://github.com/zegl/kube-score) - Static code analysis tool checking Kubernetes manifests rules compliance.
+* [Terragrunt](https://terragrunt.gruntwork.io) - Thin wrapper for Terraform that provides extra tools for keeping configurations DRY.
+* [Pulumi CLI](https://www.pulumi.com) - Infrastructure as Code builder executing infrastructure deployment using code templates.
+* [OpenTofu](https://opentofu.org) - Fork of Terraform providing open-source cloud infrastructure code compilation.

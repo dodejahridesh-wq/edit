@@ -130,3 +130,35 @@
 * [Home Assistant REST](https://developers.home-assistant.io/docs/api/rest/) - Home Assistant REST API controlling smart devices and states configurations.
 * [MQTT.js](https://github.com/mqttjs/MQTT.js) - MQTT client library for JavaScript applications running in Node.js or browsers.
 * [Tile38](https://tile38.com) - Geospatial database and geofencing server scaling location queries.
+
+* [GDAL Python](https://gdal.org/api/python.html) - Geospatial data abstraction library Python bindings transforming rasters.
+* [Fiona Python](https://github.com/Toblerity/Fiona) - Python GIS vector layer files inspector reading shapes.
+* [Shapely Python](https://github.com/shapely/shapely) - Python library performing calculations over geometric shapes.
+* [Pyproj Python](https://github.com/pyproj4/pyproj) - Python coordinates conversions interface wrapping PROJ structures.
+* [Leaflet Routing Machine](https://github.com/liedman/leaflet-routing-machine) - Leaflet path routing engine mapping routes points directions.
+* [OpenLayers CLI](https://github.com/openlayers/openlayers) - OpenLayers map layers packager build script CLI client.
+* [CesiumJS API](https://cesium.com/docs/) - Virtual 3D globe camera dynamic routing and tiles controls API.
+* [Home Assistant CLI wrapper](https://github.com/home-assistant/ha-cli) - Home Assistant shell command client mapping REST endpoints.
+* [Mosquitto client CLI](https://mosquitto.org) - MQTT publish/subscribe command line manager checking channels.
+* [Node-RED CLI](https://github.com/node-red/node-red-admin) - Command-line administration tool managing Node-RED flows.
+* [S2 Geometry Python](https://github.com/google/s2geometry) - Google spherical indexing library Python bindings mapping cells.
+* [H3 Geo Python](https://github.com/uber/h3-py) - Uber H3 hexagon indexing library Python bindings mapping coordinates.
+* [Tile38 CLI](https://github.com/tidwall/tile38) - Tile38 geospatial database query shell client manager.
+* [OwnTracks Recorder CLI](https://github.com/owntracks/recorder) - Telemetry logs aggregator query command line helper client.
+* [PostGIS raster2pgsql CLI](https://postgis.net) - Geo-raster image importer converting geotiff files to SQL.
+
+* [GDAL Python](https://gdal.org/api/python.html) - Geospatial data abstraction library Python bindings transforming rasters.
+* [Fiona Python](https://github.com/Toblerity/Fiona) - Python GIS vector layer files inspector reading shapes.
+* [Shapely Python](https://github.com/shapely/shapely) - Python library performing calculations over geometric shapes.
+* [Pyproj Python](https://github.com/pyproj4/pyproj) - Python coordinates conversions interface wrapping PROJ structures.
+* [Leaflet Routing Machine](https://github.com/liedman/leaflet-routing-machine) - Leaflet path routing engine mapping routes points directions.
+* [OpenLayers CLI](https://github.com/openlayers/openlayers) - OpenLayers map layers packager build script CLI client.
+* [CesiumJS API](https://cesium.com/docs/) - Virtual 3D globe camera dynamic routing and tiles controls API.
+* [Home Assistant CLI wrapper](https://github.com/home-assistant/ha-cli) - Home Assistant shell command client mapping REST endpoints.
+* [Mosquitto client CLI](https://mosquitto.org) - MQTT publish/subscribe command line manager checking channels.
+* [Node-RED CLI](https://github.com/node-red/node-red-admin) - Command-line administration tool managing Node-RED flows.
+* [S2 Geometry Python](https://github.com/google/s2geometry) - Google spherical indexing library Python bindings mapping cells.
+* [H3 Geo Python](https://github.com/uber/h3-py) - Uber H3 hexagon indexing library Python bindings mapping coordinates.
+* [Tile38 CLI](https://github.com/tidwall/tile38) - Tile38 geospatial database query shell client manager.
+* [OwnTracks Recorder CLI](https://github.com/owntracks/recorder) - Telemetry logs aggregator query command line helper client.
+* [PostGIS raster2pgsql CLI](https://postgis.net) - Geo-raster image importer converting geotiff files to SQL.

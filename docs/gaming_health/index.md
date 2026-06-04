@@ -129,3 +129,35 @@
 * [OpenUV API client](https://github.com/openuv/openuv-node) - OpenUV client query real-time global UV Index calculations.
 * [MATLAB engine](https://www.mathworks.com/help/matlab/matlab-engine-for-python.html) - Python engine interface executing MATLAB scripts on workspaces.
 * [Octave CLI client](https://docs.octave.org/v9.1.0/Command-Line-Options.html) - Command line interpreter executing GNU Octave calculations.
+
+* [Love2D CLI wrapper](https://love2d.org) - Love2D console game bootloader launching directory packages.
+* [Defold bob](https://github.com/defold/defold) - Defold bob asset compiler command line utility helper.
+* [Steam CMD CLI](https://developer.valvesoftware.com/wiki/SteamCMD) - Steam console tool downloading server libraries packages.
+* [Apple Health API](https://developer.apple.com/documentation/healthkit) - Apple HealthKit fitness profile metrics local database query.
+* [Sportsradar API wrapper](https://github.com/sportradar/sportradar-sdk) - Sports radar live feeds tracking client Python SDK.
+* [USGS API](https://github.com/usgs/fdsnws) - USGS seismic database client query tool fetching logs.
+* [MATLAB Engine API](https://www.mathworks.com/help/matlab/matlab-engine-for-python.html) - MATLAB Python connection session execution SDK bindings.
+* [RetroArch CLI core](https://github.com/libretro/RetroArch) - RetroArch command line launcher loading emulation cores.
+* [Fitbit API client](https://github.com/orcasgit/python-fitbit) - Fitbit profile metrics tracking REST API client wrapper.
+* [Strava API client](https://github.com/strava/strava-api-v3) - Strava activities feed tracking client library REST SDK.
+* [HL7 FHIR client](https://github.com/smart-on-fhir/client-py) - FHIR healthcare interoperability server data queries SDK.
+* [OpenWeatherMap client](https://github.com/csparpa/pyowm) - OpenWeatherMap meteorological datasets client library SDK.
+* [NASA APOD client](https://api.nasa.gov) - NASA Astronomy Picture of the Day media catalog client.
+* [Hubble API client](https://hubblesite.org/api) - Hubble telescope space imagery catalog REST API client.
+* [Epic Games API](https://dev.epicgames.com/docs) - Epic Games Store developer services SDK connecting user achievements data.
+
+* [Love2D CLI wrapper](https://love2d.org) - Love2D console game bootloader launching directory packages.
+* [Defold bob](https://github.com/defold/defold) - Defold bob asset compiler command line utility helper.
+* [Steam CMD CLI](https://developer.valvesoftware.com/wiki/SteamCMD) - Steam console tool downloading server libraries packages.
+* [Apple Health API](https://developer.apple.com/documentation/healthkit) - Apple HealthKit fitness profile metrics local database query.
+* [Sportsradar API wrapper](https://github.com/sportradar/sportradar-sdk) - Sports radar live feeds tracking client Python SDK.
+* [USGS API](https://github.com/usgs/fdsnws) - USGS seismic database client query tool fetching logs.
+* [MATLAB Engine API](https://www.mathworks.com/help/matlab/matlab-engine-for-python.html) - MATLAB Python connection session execution SDK bindings.
+* [RetroArch CLI core](https://github.com/libretro/RetroArch) - RetroArch command line launcher loading emulation cores.
+* [Fitbit API client](https://github.com/orcasgit/python-fitbit) - Fitbit profile metrics tracking REST API client wrapper.
+* [Strava API client](https://github.com/strava/strava-api-v3) - Strava activities feed tracking client library REST SDK.
+* [HL7 FHIR client](https://github.com/smart-on-fhir/client-py) - FHIR healthcare interoperability server data queries SDK.
+* [OpenWeatherMap client](https://github.com/csparpa/pyowm) - OpenWeatherMap meteorological datasets client library SDK.
+* [NASA APOD client](https://api.nasa.gov) - NASA Astronomy Picture of the Day media catalog client.
+* [Hubble API client](https://hubblesite.org/api) - Hubble telescope space imagery catalog REST API client.
+* [Epic Games API](https://dev.epicgames.com/docs) - Epic Games Store developer services SDK connecting user achievements data.

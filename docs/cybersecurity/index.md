@@ -133,3 +133,35 @@
 * [Safety CLI](https://github.com/pyupio/safety) - Checks installed Python dependencies against a known vulnerability database.
 * [Cartography](https://github.com/lyft/cartography) - Python tool consolidating infrastructure assets in Neo4j database graph maps.
 * [Cmctl](https://cert-manager.io/docs/reference/cmctl) - Command-line interface manager for cert-manager certificates and issuers.
+
+* [Checkov CLI](https://github.com/bridgecrewio/checkov) - Static analysis security scanner verifying Infrastructure as Code configurations.
+* [Gorgone](https://github.com/centreon/centreon-gorgone) - Task scheduling and remote execution daemon manager orchestrating security scripts.
+* [Amass CLI](https://github.com/owasp-amass/amass) - Network mapping and attack surface discovery tool running scans.
+* [Sherlock CLI](https://github.com/sherlock-project/sherlock) - Command-line tool searching for social media accounts by username.
+* [Nuclei CLI](https://github.com/projectdiscovery/nuclei) - Vulnerability scanner executing YAML-based templates against targets.
+* [Nmap Scripting Engine](https://nmap.org/book/nse.html) - Custom Lua scripting system checking network ports vulnerabilities.
+* [ClamAV CLI](https://www.clamav.net) - Open-source antivirus engine detecting trojans and malware on folders.
+* [Yara CLI](https://github.com/VirusTotal/yara) - Pattern matching swiss army knife checking files against signatures rules.
+* [Hydra CLI](https://github.com/vanhauser-thc/thc-hydra) - Parallelized network login cracker testing authentication endpoints.
+* [John the Ripper CLI](https://github.com/openwall/john) - Password cracking utility testing security hashes strength.
+* [Hashcat CLI](https://hashcat.net/hashcat) - Advanced GPU-accelerated password recovery scanner cracker.
+* [Radare2 CLI](https://www.radare.org) - UNIX-like reverse engineering framework and command line debugger.
+* [Social Engineering Toolkit](https://github.com/trustedsec/social-engineer-toolkit) - Pentesting framework testing social engineering vulnerabilities channels.
+* [Chainsaw CLI](https://github.com/WithSecureLabs/chainsaw) - Rapid search tool parsing Windows Event logs database files.
+* [Gitleaks CLI](https://github.com/gitleaks/gitleaks) - Auditor security client scanning repository histories for secrets leaks.
+
+* [Checkov CLI](https://github.com/bridgecrewio/checkov) - Static analysis security scanner verifying Infrastructure as Code configurations.
+* [Gorgone](https://github.com/centreon/centreon-gorgone) - Task scheduling and remote execution daemon manager orchestrating security scripts.
+* [Amass CLI](https://github.com/owasp-amass/amass) - Network mapping and attack surface discovery tool running scans.
+* [Sherlock CLI](https://github.com/sherlock-project/sherlock) - Command-line tool searching for social media accounts by username.
+* [Nuclei CLI](https://github.com/projectdiscovery/nuclei) - Vulnerability scanner executing YAML-based templates against targets.
+* [Nmap Scripting Engine](https://nmap.org/book/nse.html) - Custom Lua scripting system checking network ports vulnerabilities.
+* [ClamAV CLI](https://www.clamav.net) - Open-source antivirus engine detecting trojans and malware on folders.
+* [Yara CLI](https://github.com/VirusTotal/yara) - Pattern matching swiss army knife checking files against signatures rules.
+* [Hydra CLI](https://github.com/vanhauser-thc/thc-hydra) - Parallelized network login cracker testing authentication endpoints.
+* [John the Ripper CLI](https://github.com/openwall/john) - Password cracking utility testing security hashes strength.
+* [Hashcat CLI](https://hashcat.net/hashcat) - Advanced GPU-accelerated password recovery scanner cracker.
+* [Radare2 CLI](https://www.radare.org) - UNIX-like reverse engineering framework and command line debugger.
+* [Social Engineering Toolkit](https://github.com/trustedsec/social-engineer-toolkit) - Pentesting framework testing social engineering vulnerabilities channels.
+* [Chainsaw CLI](https://github.com/WithSecureLabs/chainsaw) - Rapid search tool parsing Windows Event logs database files.
+* [Gitleaks CLI](https://github.com/gitleaks/gitleaks) - Auditor security client scanning repository histories for secrets leaks.

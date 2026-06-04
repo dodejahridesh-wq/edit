@@ -120,3 +120,35 @@
 * [Howler Spatial](https://github.com/goldfire/howler.js#3d-spatial-audio) - 3D spatial audio coordinates and sound panning extension for Howler.js.
 * [P5.dom](https://p5js.org/reference/#/libraries/p5.dom) - HTML5 DOM elements creations and page layouts controls for p5.js canvas.
 * [Mapbox GL Draw](https://github.com/mapbox/mapbox-gl-draw) - Draw tools plugin mapping vector points and geometries on Mapbox maps.
+
+* [A-Frame API](https://aframe.io) - WebVR framework rendering virtual reality scenes using HTML markup.
+* [BabylonJS Engine](https://www.babylonjs.com) - Real-time 3D graphics rendering engine rendering browser scenes.
+* [PixiJS Sound](https://github.com/pixijs/sound) - PixiJS sound library loading and playing canvas audio channels.
+* [GSAP ScrollTo](https://gsap.com/docs/v3/Plugins/ScrollToPlugin) - GSAP plugin scrolling page containers to specified target positions.
+* [Lottie-web Light CLI](https://github.com/airbnb/lottie-web/tree/master/build/player) - Lottie renderer building light vector animations files.
+* [Howler Core](https://github.com/goldfire/howler.js) - Core Web Audio loader managing fallback audio playbacks.
+* [Web Audio Recorder](https://github.com/higuma/web-audio-recorder-js) - Browser script recording and encoding microphone sound buffers.
+* [Pillow CLI](https://pillow.readthedocs.io) - Python imaging library command line wrapper rendering image filters.
+* [Sharp CLI](https://github.com/vsoch/sharp-cli) - Node.js image processing client resizing and compressing image files.
+* [Figma REST API](https://www.figma.com/developers/api) - Figma developer API fetching design layouts metadata files.
+* [Blender CLI](https://docs.blender.org/manual/en/latest/advanced/command_line/arguments.html) - Headless Blender console executing python scripts on 3D assets.
+* [PostCSS](https://postcss.org) - CSS transformation compiler applying plugins (Autoprefixer, CSSNano) via config.
+* [Sass](https://sass-lang.com) - Dart Sass stylesheet preprocessor parsing SCSS variables to CSS.
+* [Less](https://lesscss.org) - Less compiler compiling style templates to standard stylesheets.
+* [CSSnano CLI](https://cssnano.co) - CSS optimizer minifying CSS code files.
+
+* [A-Frame API](https://aframe.io) - WebVR framework rendering virtual reality scenes using HTML markup.
+* [BabylonJS Engine](https://www.babylonjs.com) - Real-time 3D graphics rendering engine rendering browser scenes.
+* [PixiJS Sound](https://github.com/pixijs/sound) - PixiJS sound library loading and playing canvas audio channels.
+* [GSAP ScrollTo](https://gsap.com/docs/v3/Plugins/ScrollToPlugin) - GSAP plugin scrolling page containers to specified target positions.
+* [Lottie-web Light CLI](https://github.com/airbnb/lottie-web/tree/master/build/player) - Lottie renderer building light vector animations files.
+* [Howler Core](https://github.com/goldfire/howler.js) - Core Web Audio loader managing fallback audio playbacks.
+* [Web Audio Recorder](https://github.com/higuma/web-audio-recorder-js) - Browser script recording and encoding microphone sound buffers.
+* [Pillow CLI](https://pillow.readthedocs.io) - Python imaging library command line wrapper rendering image filters.
+* [Sharp CLI](https://github.com/vsoch/sharp-cli) - Node.js image processing client resizing and compressing image files.
+* [Figma REST API](https://www.figma.com/developers/api) - Figma developer API fetching design layouts metadata files.
+* [Blender CLI](https://docs.blender.org/manual/en/latest/advanced/command_line/arguments.html) - Headless Blender console executing python scripts on 3D assets.
+* [PostCSS](https://postcss.org) - CSS transformation compiler applying plugins (Autoprefixer, CSSNano) via config.
+* [Sass](https://sass-lang.com) - Dart Sass stylesheet preprocessor parsing SCSS variables to CSS.
+* [Less](https://lesscss.org) - Less compiler compiling style templates to standard stylesheets.
+* [CSSnano CLI](https://cssnano.co) - CSS optimizer minifying CSS code files.
