@@ -85,3 +85,19 @@
 * [Razorpay Orders API](https://razorpay.com/docs/api) - Razorpay payment orders creation interface.
 * [Coinbase Commerce](https://commerce.coinbase.com) - Crypto payments checkout invoice generator.
 * [BitPay API](https://bitpay.com/api) - Crypto billing and invoice checkout API.
+
+* [Vyper](https://vyper.readthedocs.io) - Pythonic smart contract language for EVM targeting security and simplicity.
+* [Slither](https://github.com/crytic/slither) - Solidity static analysis framework highlighting security vulnerabilities.
+* [Mythril](https://github.com/Consensys/mythril) - Security analysis tool detecting vulnerabilities in EVM bytecode via symbolic analysis.
+* [Remix IDE](https://remix.ethereum.org) - Browser-based development workspace compiling and deploying Solidity smart contracts.
+* [WalletConnect](https://walletconnect.com) - Communications protocol linking decentralized mobile wallets to dApps securely.
+* [RainbowKit](https://rainbowkit.com) - Web3 wallet connection UI manager for React applications.
+* [OpenZeppelin Contracts](https://openzeppelin.com/contracts) - Library of secure, audited smart contract implementations for token systems (ERC-20, ERC-721).
+* [Substrate](https://substrate.io) - Modular blockchain development framework for Polkadot and standalone chains.
+* [Adyen](https://adyen.com) - Global payment gateway API routing checkout payments and auth events.
+* [Authorize.Net](https://authorize.net) - Enterprise payment gateway service enabling credit cards processing.
+* [Square Payments](https://developer.squareup.com) - Square customer payment gateway transactions processing API.
+* [Braintree](https://braintreepayments.com) - PayPal payment processor client handling cards, PayPal, and digital wallets.
+* [CertiK](https://certik.com) - Blockchain security analytics and smart contract audit status lookup platform.
+* [Pocket Network](https://pokt.network) - Decentralized RPC network providing Web3 nodes access to dApps.
+* [Helios Light Client](https://github.com/a16z/helios) - Rust-based Ethereum light client validating state without hosting full nodes.

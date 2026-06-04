@@ -82,3 +82,19 @@
 * [ESP32 Wi-Fi Station](https://www.espressif.com) - ESP32 Wi-Fi client station configuration library.
 * [Arduino OTA](https://www.arduino.cc) - Over-the-air firmware updates compiler and updater.
 * [ROS 2 Bag](https://docs.ros.org/en/stable/tutorials/beginner-client-libraries/recording-and-playing-back-data/recording-and-playing-back-data.html) - ROS 2 node stream recording and playing back recorder.
+
+* [Rasterio](https://rasterio.readthedocs.io) - Geospatial raster dataset files reading and writing Python wrapper.
+* [OpenHAB](https://openhab.org) - Vendor-agnostic smart home automation server connecting hardware devices.
+* [Domoticz](https://domoticz.com) - Home automation controller managing switches, sensors, and meters.
+* [Tuya API](https://developer.tuya.com) - IoT cloud platform API managing and controlling smart home devices.
+* [TileServer GL](https://github.com/maptiler/tileserver-gl) - Map tile server rendering vector tiles and Mapbox GL styles.
+* [MapServer](https://mapserver.org) - High-performance open-source geographic data rendering engine.
+* [OwnTracks](https://owntracks.org) - Secure location tracking service bridging device telemetry to MQTT.
+* [Traccar](https://traccar.org) - Open-source GPS tracking platform monitoring dynamic fleet assets.
+* [ChirpStack](https://chirpstack.io) - Open-source LoRaWAN network server managing gateway connections.
+* [InfluxDB API](https://docs.influxdata.com) - Time-series database API logging IoT metrics and telemetry.
+* [Telegraf](https://github.com/influxdata/telegraf) - System agent collecting and writing system metrics to databases.
+* [EMQX](https://emqx.com) - Highly scalable distributed MQTT broker for IoT connections.
+* [HiveMQ](https://hivemq.com) - Enterprise MQTT broker managing heavy IoT device connections.
+* [ThingSpeak](https://thingspeak.com) - IoT data aggregator service plotting sensor streams.
+* [OpenRemote](https://openremote.io) - Smart asset management IoT platform orchestrating device telemetry.

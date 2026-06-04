@@ -81,3 +81,19 @@
 * [PhysioNet API](https://physionet.org) - Clinical physiological signal databases index.
 * [MIMIC-IV API](https://mimic.mit.edu) - Electronic health records research queries interface.
 * [ClinicalTrials RSS](https://clinicaltrials.gov/find-studies/rss) - Clinical trials database updates feed parameters tracker.
+
+* [Defold](https://defold.com) - Free 2D game engine compiling games to mobile, desktop, and web.
+* [LÖVE (Love2D)](https://love2d.org) - 2D game engine framework using Lua script bindings.
+* [GDevelop](https://gdevelop.io) - No-code open-source game creator building games visually.
+* [Kaboom.js](https://kaboomjs.com) - JavaScript game library optimized for quick arcade game creations.
+* [RetroArch API](https://retroarch.com) - Game emulator frontend managing cores and controller mappings.
+* [OpenEmu](https://openemu.org) - macOS multi-system game emulator backend interface.
+* [Open MCT](https://nasa.github.io/openmct/) - NASA's mission control system visualization framework for telemetry.
+* [OpenUV API](https://openuv.io) - Real-time global UV Index calculations database.
+* [Wahoo API](https://developer.wahoofitness.com) - Smart indoor cycling trainers workout metrics and heart rate data.
+* [RxNav API](https://rxnav.nlm.nih.gov) - Clinical drugs classifications and drug-drug interactions database.
+* [MAME](https://mamedev.org) - Multiple Arcade Machine Emulator compiling arcade game logs.
+* [OpenXAL](https://openxal.org) - Open-source accelerator physics simulation programming framework.
+* [NWS API](https://www.weather.gov/documentation/services-web-api) - National Weather Service forecasts and alerts database.
+* [USGS Volcano API](https://volcanoes.usgs.gov) - Volcanic monitoring and alert levels feeds index.
+* [Runkeeper API](https://runkeeper.com/developer) - ASICS fitness tracking workouts logs and coordinates database.

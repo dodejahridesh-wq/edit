@@ -90,3 +90,19 @@
 * [Confluence Webhooks](https://developer.atlassian.com/cloud/confluence/webhooks) - Real-time payload updates when wiki page edits occur.
 * [Monday Webhooks](https://developer.monday.com/api-reference/docs/webhooks) - Monday.com columns state transitions callback payloads.
 * [Typeform API](https://developer.typeform.com) - Form response metadata queries and questionnaire structures.
+
+* [Cal.com](https://cal.com) - Open-source scheduling software managing calendar availability and slots booking.
+* [Raindrop.io](https://raindrop.io) - All-in-one bookmark manager API searching links and collections.
+* [HubSpot API](https://developers.hubspot.com) - Customer relationship management (CRM) database platform API.
+* [Salesforce REST API](https://developer.salesforce.com) - Cloud CRM platform database record queries and updates API.
+* [Basecamp API](https://github.com/basecamp/bc3-api) - Project management collaboration platform message boards API.
+* [Redmine API](https://redmine.org) - Open-source project tracker managing tickets and wiki pages.
+* [Matomo API](https://matomo.org) - Privacy-respecting web analytics tracking platform database API.
+* [Plausible Analytics API](https://plausible.io) - Privacy-first lightweight web analytics statistics dashboard API.
+* [Tiptap](https://tiptap.dev) - Headless rich-text editor framework built on ProseMirror.
+* [Trilium Notes](https://github.com/zadam/trilium) - Personal knowledge base note editor database manager.
+* [Etherpad](https://etherpad.org) - Open-source real-time collaborative document editor.
+* [Jitsi Meet API](https://meet.jit.si) - Open-source video conferencing web component integration.
+* [Moodle API](https://moodle.org) - Learning management system student grades and courses API.
+* [Aether](https://getaether.net) - P2P encrypted community discussions server network.
+* [Zotero Web API](https://www.zotero.org/support/dev/web_api) - Academic references manager collections and bibliography queries.

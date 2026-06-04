@@ -71,3 +71,19 @@
 * [Fastly CLI](https://developer.fastly.com/reference/cli) - Command-line developer client managing Fastly Compute services.
 * [Supabase Local API](https://supabase.com/docs/guides/local-development) - Local emulator REST API endpoints running Postgres/Auth services.
 * [LocalStack Pro API](https://docs.localstack.cloud/references/api) - Pro features REST API for advanced cloud service emulation (EKS, RDS).
+
+* [Rancher CLI](https://rancher.com) - Multi-cluster Kubernetes management client for provisioning and security controls.
+* [K3s CLI](https://k3s.io) - Lightweight production-grade Kubernetes engine manager for IoT and edge devices.
+* [K3d CLI](https://k3d.io) - Container helper utility running lightweight multi-node k3s clusters inside Docker.
+* [Kind CLI](https://kind.sigs.k8s.io) - Local Kubernetes cluster runner utilizing Docker container nodes.
+* [Helmfile CLI](https://github.com/helmfile/helmfile) - Declarative spec operator orchestrating deployments of multiple Helm charts.
+* [Skaffold CLI](https://skaffold.dev) - Kubernetes local development productivity orchestrator building and deploying apps.
+* [Tilt CLI](https://tilt.dev) - Multi-service local development environment manager for Kubernetes workflows.
+* [Knative CLI](https://knative.dev) - Enterprise serverless workloads orchestrator for Kubernetes clusters.
+* [Kpack CLI](https://github.com/pivotal/kpack) - Cloud Native Buildpacks resource compiler running on Kubernetes.
+* [Terragrunt CLI](https://terragrunt.gruntwork.io) - DRY configuration and backend state helper wrapping Terraform code.
+* [OpenTofu CLI](https://opentofu.org) - Open-source alternative to Terraform for infrastructure as code management.
+* [Vcluster CLI](https://vcluster.com) - Virtual Kubernetes clusters provisioning tool running inside shared host namespaces.
+* [Stern CLI](https://github.com/stern/stern) - Multi-pod log tailer for Kubernetes query selectors and color logs.
+* [Teleport CLI](https://goteleport.com) - Identity-aware secure access gateway client for SSH nodes and database endpoints.
+* [Consul CLI](https://consul.io) - Service mesh, network configurations, and distributed key-value store registry manager.

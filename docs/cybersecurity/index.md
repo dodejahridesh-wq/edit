@@ -85,3 +85,19 @@
 * [Subfinder](https://projectdiscovery.io) - Passive subdomain discovery scanner finding domain records.
 * [ffuf](https://github.com/ffuf/ffuf) - Fast web fuzzer checking HTTP response codes.
 * [Dirsearch](https://github.com/maurosoria/dirsearch) - Web path brute-forcer checking web server directories.
+
+* [BeEF](https://beefproject.com) - Browser exploitation framework targeting browser vulnerabilities and client vectors.
+* [Grype](https://github.com/anchore/grype) - Vulnerability scanner checking container images and filesystems for package issues.
+* [Syft](https://github.com/anchore/syft) - CLI utility compiling software bill of materials (SBOM) from container images.
+* [Kube-bench](https://github.com/aquasecurity/kube-bench) - Security audit checker verifying Kubernetes installations against CIS benchmarks.
+* [Cosign](https://github.com/sigstore/cosign) - Container signing, signature verification, and secure payload storage in registries.
+* [Rekor](https://github.com/sigstore/rekor) - Signature transparency log registry verifying software supply chain signatures.
+* [Katana](https://github.com/projectdiscovery/katana) - Next-generation web crawler and spider tool for security reconnaissance.
+* [Naabu](https://github.com/projectdiscovery/naabu) - Fast TCP port scanner designed to discover active hosts and open ports.
+* [Proxify](https://github.com/projectdiscovery/proxify) - Swiss-army knife proxy tool capturing, editing, and replaying web traffic.
+* [WPScan](https://wpscan.com) - Black box WordPress security scanner discovering plugin vulnerabilities and themes.
+* [Ligolo-ng](https://github.com/nicocha30/ligolo-ng) - Next-generation tunneling tool using TUN interfaces for network pivoting.
+* [Apache Guacamole](https://guacamole.apache.org) - HTML5 clientless remote desktop gateway supporting VNC, RDP, and SSH.
+* [Certbot](https://certbot.eff.org) - Automatic SSL certificate manager retrieving and installing Let's Encrypt keys.
+* [Amap](https://thc.org) - Active network scanner identifying application protocols running on target ports.
+* [Dnsenum](https://github.com/fwaeytens/dnsenum) - DNS reconnaissance utility searching subdomains, MX records, and zone transfers.

@@ -72,3 +72,19 @@
 * [Splide](https://splidejs.com) - Lightweight, flexible slider and carousel browser component.
 * [Swiper](https://swiperjs.com) - Modern touch slider carousel web component.
 * [ViewerJS](https://viewerjs.org) - Document viewer displaying PDF and OpenOffice files in-browser.
+
+* [Rough.js](https://roughjs.com) - Canvas-based rendering library drawing shapes in a sketchy, hand-drawn style.
+* [Canvas-confetti](https://github.com/catdad/canvas-confetti) - High-performance confetti canvas particle animation library.
+* [Vivus.js](https://github.com/gregnb/vivus) - SVG stroke drawing animation classes library.
+* [Plyr](https://plyr.io) - Customizable, semantic HTML5 video and audio player wrapper.
+* [Video.js](https://videojs.com) - HTML5 video player framework featuring customizable CSS plugins.
+* [Dropzone.js](https://dropzone.dev) - Drag-and-drop file upload component providing file validation and previews.
+* [SweetAlert2](https://sweetalert2.github.io) - Customizable, responsive popup modal dialog alert boxes engine.
+* [Driver.js](https://driverjs.com) - Web browser user onboarding interactive guide and focus overlay highlighter.
+* [Prism.js](https://prismjs.com) - Lightweight, extensible syntax highlighting engine optimized for web applications.
+* [Highlight.js](https://highlightjs.org) - Automatic language detection syntax highlighting library for the web.
+* [Tesseract.js](https://tesseract.projectnaptha.com) - Pure JavaScript OCR engine analyzing images and extracting text in-browser.
+* [Wavesurfer.js](https://wavesurfer.xyz) - Audio waveform visualizer rendering audio files to canvas elements.
+* [Anime.js](https://animejs.com) - CSS properties and SVG paths animation engine for web elements.
+* [ScrollMagic](https://scrollmagic.io) - Scroll-based interaction library control engine triggering animations.
+* [Cytoscape.js](https://cytoscape.org) - Graph theory layout and network visualization charting library.

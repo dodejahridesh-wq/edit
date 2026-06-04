@@ -74,3 +74,19 @@
 * [Marqo API](https://www.marqo.ai) - Tensor search vector database server API.
 * [Deep Lake SDK](https://www.activeloop.ai) - AI database data loader optimized for deep learning models.
 * [Milvus SDK](https://milvus.io/docs/sdk_client.md) - Milvus server connection client libraries.
+
+* [PyTorch Lightning](https://pytorchlightning.ai) - Structured deep learning framework wrapping PyTorch to decouple science and engineering.
+* [Fast.ai](https://fast.ai) - High-level deep learning library providing easy training of neural network architectures.
+* [Prophet](https://facebook.github.io/prophet) - Additive time-series forecasting procedure designed for business planning datasets.
+* [Orange Data Mining](https://orangedatamining.com) - Visual programming data mining toolkit containing machine learning algorithms.
+* [LangChain](https://langchain.com) - Large language models orchestration framework constructing complex chains and memory.
+* [LlamaIndex](https://llamaindex.ai) - Data framework for LLM applications connecting private datasets to models.
+* [Haystack](https://haystack.deepset.ai) - Modular LLM orchestrator building search systems and retrieval pipelines.
+* [DSPy](https://github.com/stanfordnlp/dspy) - Programmatic framework replacing LLM prompting with structured modules and optimizers.
+* [AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - Autonomous AI agent framework executing multi-step goals via modular toolkits.
+* [TensorBoard](https://www.tensorflow.org/tensorboard) - Visualization tool profiling training losses, metrics, and models graphs.
+* [Modin](https://modin.readthedocs.io) - Distributed pandas dataframe library scaling data workflows on Ray or Dask.
+* [Vaex](https://vaex.io) - Out-of-core pandas-like dataframes library utilizing memory mapping and lazy evaluations.
+* [Evidently AI](https://evidentlyai.com) - Machine learning evaluation tool monitoring data drift, model performance, and targets.
+* [Vespa](https://vespa.ai) - High-performance search, recommendation, and vector ranking database platform.
+* [Vald](https://vald.vdaas.org) - Distributed fast approximate nearest neighbor vector search engine running on Kubernetes.
