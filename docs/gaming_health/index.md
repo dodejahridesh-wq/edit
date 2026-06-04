@@ -97,3 +97,19 @@
 * [NWS API](https://www.weather.gov/documentation/services-web-api) - National Weather Service forecasts and alerts database.
 * [USGS Volcano API](https://volcanoes.usgs.gov) - Volcanic monitoring and alert levels feeds index.
 * [Runkeeper API](https://runkeeper.com/developer) - ASICS fitness tracking workouts logs and coordinates database.
+
+* [Defold CLI](https://defold.com/manuals/bob/) - Command line builder compiler packaging Defold game project directories.
+* [Love2D CLI](https://love2d.org/wiki/Getting_Started) - Command line engine bootloader launching directory games.
+* [GDevelop CLI](https://github.com/gdevelop/gd) - Game exporter command line utility compiling GDevelop code.
+* [Godot Engine Editor](https://godotengine.org) - Godot game engine developer workspace launching project scenes.
+* [Unity Hub CLI](https://docs.unity3d.com/Manual/mac-how-to-install.html) - Unity hub installations and project templates manager client.
+* [Steam CMD](https://developer.valvesoftware.com/wiki/SteamCMD) - Steam console client downloading dedicated multiplayer game servers.
+* [RetroArch CLI wrapper](https://docs.libretro.com/guides/cli/) - CLI wrapper launching specific Libretro emulation cores on targets.
+* [OpenEmu database compiler](https://openemu.org) - Database utility mapping game ROM paths to OpenEmu emulation cores.
+* [Wahoo Fitness API](https://developer.wahoofitness.com) - Client helper receiving workout data and heart rate signals over Bluetooth.
+* [Sportsradar API client](https://developer.sportradar.com) - Client libraries parsing global sports databases and real-time feeds.
+* [OpenUV CLI](https://github.com/openuv/openuv-cli) - Command line client querying real-time global UV Index calculations.
+* [Dexcom API client](https://developer.dexcom.com) - Continuous glucose monitoring data API telemetry collector client.
+* [USGS Seismic CLI](https://earthquake.usgs.gov/fdsnws/event/1/) - Command line event feed inspector querying USGS seismic databases.
+* [Tomorrow.io CLI](https://docs.tomorrow.io/reference/welcome) - Command line client querying real-time meteorological forecasts.
+* [SpaceX API client](https://github.com/r-spacex/SpaceX-API) - Client wrappers querying launch schedules and rocket telemetry.

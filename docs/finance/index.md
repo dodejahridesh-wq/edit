@@ -101,3 +101,19 @@
 * [CertiK](https://certik.com) - Blockchain security analytics and smart contract audit status lookup platform.
 * [Pocket Network](https://pokt.network) - Decentralized RPC network providing Web3 nodes access to dApps.
 * [Helios Light Client](https://github.com/a16z/helios) - Rust-based Ethereum light client validating state without hosting full nodes.
+
+* [Geth CLI](https://geth.ethereum.org) - Command line interface for the official Go Ethereum client node.
+* [Solidity Compiler (solc)](https://github.com/ethereum/solidity) - Solidity smart contract compiler compiling code to EVM bytecode.
+* [Slither CLI](https://github.com/crytic/slither) - Solidity static analysis framework exposing smart contract vulnerabilities.
+* [Mythril CLI](https://github.com/Consensys/mythril) - Security analysis tool running symbolic analysis over EVM bytecode.
+* [Ethers-rs](https://github.com/gakonst/ethers-rs) - Rust library wrapper enabling secure interactions with Ethereum nodes.
+* [Alloy](https://github.com/alloy-rs) - Next-generation Rust Web3 SDK replacing the legacy ethers-rs library.
+* [Web3.py CLI](https://web3py.readthedocs.io) - Python client interface executing Ethereum JSON-RPC blockchain queries.
+* [Foundry-anvil](https://github.com/foundry-rs/foundry) - Local Ethereum testnet node simulator optimized for smart contract testing.
+* [Foundry-cast](https://github.com/foundry-rs/foundry) - EVM smart contract interaction command line helper from Foundry.
+* [Truffle Dashboard](https://trufflesuite.com/docs/truffle/how-to/use-the-truffle-dashboard/) - RPC bridge routing deployment transactions to MetaMask browser wallet.
+* [Hardhat Network](https://hardhat.org/hardhat-network) - Built-in local Ethereum simulator node running inside Hardhat projects.
+* [Uniswap V3 SDK](https://github.com/Uniswap/v3-sdk) - Uniswap V3 core protocol pool math, pricing, and routing SDK helper.
+* [Aave V3 SDK](https://github.com/aave/aave-v3-core) - Aave V3 core protocol lending pool transactions and flash loan helpers.
+* [Metamask-provider](https://github.com/MetaMask/providers) - EIP-1193 MetaMask wallet browser injection provider wrapper classes.
+* [Adyen Checkout SDK](https://github.com/Adyen/adyen-web) - Web client SDK rendering card payment checkout screens.

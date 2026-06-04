@@ -106,3 +106,19 @@
 * [Moodle API](https://moodle.org) - Learning management system student grades and courses API.
 * [Aether](https://getaether.net) - P2P encrypted community discussions server network.
 * [Zotero Web API](https://www.zotero.org/support/dev/web_api) - Academic references manager collections and bibliography queries.
+
+* [Notion CLI](https://github.com/komeiji-satori/notion-cli) - Command line interface executing database page queries inside Notion.
+* [Slack CLI](https://api.slack.com/automation/cli) - Command line utility scaffolding and deploying Slack workflow apps.
+* [Discord-invite-validator](https://discord.com/developers/docs/resources/invite) - Validator script checking invite link status and server counts.
+* [Google-drive-ocamlfuse](https://github.com/astrada/google-drive-ocamlfuse) - FUSE filesystem driver mounting Google Drive directory trees locally.
+* [Airtable CLI](https://github.com/airtable/airtable-cli) - Command line utility managing schema changes inside Airtable bases.
+* [Jira CLI](https://github.com/ankitpokhrel/jira-cli) - Atlassian Jira command line interface listing project tasks.
+* [Confluence CLI](https://github.com/vertigo/confluence-cli) - Atlassian Confluence command line interface managing space pages.
+* [Trello CLI](https://github.com/jstr/trello-cli) - Command line interface managing Trello cards, checklists, and boards.
+* [Baserow CLI](https://baserow.io/docs/api) - Command line utility managing Baserow table rows and database schemas.
+* [Appwrite CLI](https://appwrite.io/docs/command-line) - Command line interface managing Appwrite backend services and functions.
+* [Nextcloud CLI](https://docs.nextcloud.com/server/latest/admin_manual/configuration_server/occ_command.html) - Nextcloud server administration command line helper.
+* [Matrix Commander](https://github.com/8go/matrix-commander) - Command line client sending encrypted payloads to Matrix channels.
+* [Pandoc CLI](https://pandoc.org) - Command line document markup converter compiling files to target formats.
+* [CalDAV CLI](https://github.com/collective/caldav) - Command line client managing calendar bookings over CalDAV.
+* [Zotero CLI](https://github.com/johndalton/zotero-cli) - Reference library collections manager command line helper.

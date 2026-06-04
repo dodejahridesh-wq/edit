@@ -98,3 +98,19 @@
 * [HiveMQ](https://hivemq.com) - Enterprise MQTT broker managing heavy IoT device connections.
 * [ThingSpeak](https://thingspeak.com) - IoT data aggregator service plotting sensor streams.
 * [OpenRemote](https://openremote.io) - Smart asset management IoT platform orchestrating device telemetry.
+
+* [GDAL CLI](https://gdal.org/en/latest/programs/index.html) - Command line utility translating geospatial raster and vector file formats.
+* [GeoJSON-minify](https://github.com/alltheclay/geojson-minify) - Minification utility stripping whitespace and coordinates precision from GeoJSON.
+* [OSM2pgsql](https://osm2pgsql.org) - OpenStreetMap data importer loading XML files into PostGIS databases.
+* [PostGIS CLI](https://postgis.net/docs/manual-3.4/using_postgis_dbmanagement.html) - Shapefile and raster loading utilities importing data into PostgreSQL.
+* [Mapnik CLI](https://github.com/mapnik/mapnik) - Map rendering engine command line helper compiling XML styles to tiles.
+* [Leaflet.markercluster](https://github.com/Leaflet/Leaflet.markercluster) - High-performance cluster marker mapping plugin for Leaflet maps.
+* [OpenLayers-webpack](https://github.com/openlayers/openlayers) - Webpack and Vite configuration sharding templates packaging OpenLayers.
+* [Cesium-sensor-volumes](https://github.com/AnalyticalGraphicsInc/cesium-sensor-volumes) - 3D sensor volumes and radar domes visualization libraries for CesiumJS.
+* [H3 CLI](https://h3geo.org) - Uber's H3 spatial index coordinate conversion command line helper.
+* [S2 CLI](https://s2geometry.io) - Google's S2 geometry grid cell index mapping command line helper.
+* [Fiona CLI](https://github.com/Toblerity/Fiona) - Geospatial vector file inspector command line helper for Python GIS.
+* [Pyproj CLI](https://github.com/pyproj4/pyproj) - Geodetic projections and coordinate translations command line helper.
+* [MQTT CLI](https://github.com/hivemq/mqtt-cli) - Command line interface client subscribing to broker telemetry channels.
+* [OwnTracks Recorder](https://github.com/owntracks/recorder) - Telemetry logger server collecting and storing OwnTracks location feeds.
+* [Home-Assistant-cli](https://github.com/home-assistant/cli) - Command line utility managing Home Assistant server states and devices.

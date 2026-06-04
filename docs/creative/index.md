@@ -88,3 +88,19 @@
 * [Anime.js](https://animejs.com) - CSS properties and SVG paths animation engine for web elements.
 * [ScrollMagic](https://scrollmagic.io) - Scroll-based interaction library control engine triggering animations.
 * [Cytoscape.js](https://cytoscape.org) - Graph theory layout and network visualization charting library.
+
+* [Lottie-web](https://github.com/airbnb/lottie-web) - In-browser Lottie runtime library rendering vector animations.
+* [Wayfinder](https://github.com/anvaka/wayfinder) - SVG path routing library generating layouts for mapping dashboards.
+* [P5.play](https://p5play.org) - 2D game engine extension library adding collision and sprite controls to p5.js.
+* [Framer Motion](https://www.framer.com/motion/) - Animation library for React applications providing physics-based layouts.
+* [ScrollTrigger](https://gsap.com/docs/v3/Plugins/ScrollTrigger/) - GSAP scroll interaction plugin matching animations to scroll offsets.
+* [Popmotion](https://popmotion.io) - Low-level JavaScript animation library supporting physics-based simulations.
+* [Mo.js](https://mojs.github.io) - Motion graphics toolbelt for the web rendering clean vector shapes.
+* [Velocity.js](http://velocityjs.org) - Accelerated JavaScript animation engine replacing jQuery animate commands.
+* [Kute.js](https://thednp.github.io/kute.js/) - Extensible JavaScript animation engine supporting path morphing and SVG transforms.
+* [Pixi-viewport](https://github.com/davidfig/pixi-viewport) - Zoomable, pannable viewport wrapper helper for PixiJS stage containers.
+* [Three-orbit-controls](https://github.com/mrdoob/three.js) - Orbit controls camera helper class for Three.js 3D web scenes.
+* [Midi.js](https://github.com/mudcube/MIDI.js) - Sound synthesis and playback library for MIDI files in web browsers.
+* [AudioContext-helper](https://developer.mozilla.org/en-US/docs/Web/API/AudioContext) - Helper functions initializing and resuming Web Audio API AudioContext states.
+* [Fontfaceobserver](https://fontfaceobserver.com) - Lightweight web font loading monitor verifying font rendering readiness.
+* [Sass CLI](https://sass-lang.com/documentation/cli/dart-sass/) - Command line compiler compiling SCSS styles to standard CSS stylesheets.

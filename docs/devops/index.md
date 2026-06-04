@@ -87,3 +87,19 @@
 * [Stern CLI](https://github.com/stern/stern) - Multi-pod log tailer for Kubernetes query selectors and color logs.
 * [Teleport CLI](https://goteleport.com) - Identity-aware secure access gateway client for SSH nodes and database endpoints.
 * [Consul CLI](https://consul.io) - Service mesh, network configurations, and distributed key-value store registry manager.
+
+* [Octant](https://octant.dev) - Kubernetes dashboard visualizing multi-cluster workloads and resource relationships.
+* [Kube-state-metrics](https://github.com/kubernetes/kube-state-metrics) - Kubernetes add-on generating object metrics from API server resources.
+* [Prow](https://github.com/kubernetes/test-infra/tree/master/prow) - Kubernetes-native CI/CD system managing test runs and GitHub event automation.
+* [Tekton Triggers](https://github.com/tektoncd/triggers) - Kubernetes resources parsing Git events to instantiate Tekton pipelines.
+* [Cortex](https://cortexmetrics.io) - Horizontally scalable, highly available Prometheus-compatible monitoring engine.
+* [Thanos](https://thanos.io) - Highly available Prometheus setup providing long-term block metrics storage.
+* [Loki CLI](https://grafana.com/docs/loki/latest/reference/logcli) - Command line interface querying Loki log aggregates using LogQL selectors.
+* [OpenTelemetry Collector](https://opentelemetry.io) - High-performance telemetry proxy receiving, processing, and exporting traces and metrics.
+* [Atlantis](https://runatlantis.io) - Pull request automation tool running Terraform plan and apply loops.
+* [Copacetic](https://github.com/project-copacetic/copacetic) - Tool patching vulnerability reports directly in container images without rebuilds.
+* [Clusternet](https://clusternet.io) - Multi-cluster management orchestrator scheduling workloads across diverse platforms.
+* [Karmada](https://karmada.io) - Multi-cluster Kubernetes management system providing centralized application scheduling.
+* [Crossplane](https://crossplane.io) - Kubernetes extension provisioning cloud databases and networks using K8s CRDs.
+* [InfraMap](https://github.com/cycloidio/inframap) - Visualizer tool compiling Terraform state files into clean architecture graphs.
+* [Pluto](https://github.com/FairwindsOps/pluto) - CLI utility detecting deprecated Kubernetes API versions in code manifests.

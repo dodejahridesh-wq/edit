@@ -101,3 +101,19 @@
 * [Certbot](https://certbot.eff.org) - Automatic SSL certificate manager retrieving and installing Let's Encrypt keys.
 * [Amap](https://thc.org) - Active network scanner identifying application protocols running on target ports.
 * [Dnsenum](https://github.com/fwaeytens/dnsenum) - DNS reconnaissance utility searching subdomains, MX records, and zone transfers.
+
+* [Peass-ng](https://github.com/carlospolop/PEASS-ng) - Privilege escalation scripts scanning Linux and Windows systems for misconfigurations.
+* [AutoRecon](https://github.com/Tib3rius/AutoRecon) - Multi-threaded network reconnaissance tool running automated scanning scripts.
+* [Enum4linux-ng](https://github.com/cddmp/enum4linux-ng) - Next-generation tool extracting information from Windows and Samba services.
+* [Impacket-scripts](https://github.com/fortra/impacket) - Collection of Python network scripts performing domain and registry queries.
+* [Sliver](https://github.com/bishopfox/sliver) - Cross-platform implant framework supporting interactive command shells.
+* [Kismet](https://kismetwireless.net) - Wireless network detector, packet sniffer, and device discovery monitor.
+* [Subzy](https://github.com/LukaSikic/subzy) - Subdomain takeover vulnerability scanner testing target domains.
+* [CloudSploit](https://github.com/aquasecurity/cloudsploit) - Cloud security posture manager scanning cloud subscriptions for configurations.
+* [StegoVeritas](https://github.com/bannsec/stegoveritas) - Steganography analysis tool extracting metadata and hidden payloads from images.
+* [Wifite2](https://github.com/derv82/wifite2) - Automated wireless network penetration testing script auditing WEP/WPA.
+* [TruffleHog](https://github.com/trufflesecurity/trufflehog) - Secret scanner searching git repositories for credentials and private keys.
+* [Spiderfoot](https://spiderfoot.net) - Open source intelligence (OSINT) automation tool scanning target assets.
+* [Faraday](https://faradaysec.com) - Collaborative penetration testing platform compiling scans and vulnerabilities.
+* [Recon-ng](https://github.com/lanmaster53/recon-ng) - Web-based open source reconnaissance framework organizing OSINT scans.
+* [NoSQLMap](https://github.com/codingo/NoSQLMap) - Automated database injection tool targeting NoSQL databases (MongoDB).

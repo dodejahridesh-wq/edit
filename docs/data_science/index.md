@@ -90,3 +90,19 @@
 * [Evidently AI](https://evidentlyai.com) - Machine learning evaluation tool monitoring data drift, model performance, and targets.
 * [Vespa](https://vespa.ai) - High-performance search, recommendation, and vector ranking database platform.
 * [Vald](https://vald.vdaas.org) - Distributed fast approximate nearest neighbor vector search engine running on Kubernetes.
+
+* [Ray Serve](https://docs.ray.io/en/latest/serve/index.html) - Scalable model serving library built on top of the Ray computation engine.
+* [AutoGluon](https://autogluon.mxnet.io) - Automated machine learning toolkit training models for tabular and text data.
+* [Albumentations](https://albumentations.ai) - Fast and flexible image augmentation library optimized for deep learning.
+* [PyTorch Geometric](https://pytorch-geometric.readthedocs.io) - Graph neural network library extension built on PyTorch core logic.
+* [DGL (Deep Graph Library)](https://dgl.ai) - Framework-agnostic graph neural network library wrapping PyTorch and JAX.
+* [Ludwig](https://ludwig-ai.github.io/ludwig-docs) - Declarative machine learning platform training models via YAML configuration files.
+* [PaddlePaddle](https://paddlepaddle.org.cn) - Industrial deep learning platform featuring dynamic compilation and deployment.
+* [H2O.ai](https://h2o.ai) - Distributed in-memory machine learning platform hosting automated training loops.
+* [Featuretools](https://featuretools.com) - Framework for automated feature engineering transforming relational datasets.
+* [Shap](https://github.com/shap/shap) - Game-theoretic approach explaining machine learning model predictions.
+* [River](https://riverml.xyz) - Python library hosting online machine learning algorithms for streaming data.
+* [Umap-learn](https://github.com/lmcinnes/umap) - Uniform Manifold Approximation and Projection algorithm for dimensionality reduction.
+* [Yellowbrick](https://www.scikit-yb.org/en/latest/) - Visual analysis and diagnostic visualization tools for machine learning.
+* [Turi Create](https://github.com/apple/turicreate) - Apple's machine learning framework simplifying custom model building.
+* [Sagemaker CLI](https://docs.aws.amazon.com/sagemaker) - AWS SageMaker local execution command line tool for model training tests.
