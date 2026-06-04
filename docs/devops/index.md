@@ -167,3 +167,19 @@
 * [AWS LocalStack CLI](https://github.com/localstack/localstack-cli) - Command-line interface client managing local AWS cloud emulator instances.
 * [Kubevious CLI](https://github.com/kubevious/cli) - Kubernetes configurations validator and dependency analyzer tool.
 * [Snyk Container CLI](https://github.com/snyk/snyk) - CLI scanner verifying container base images and Kubernetes manifests safety.
+
+* [Dagger CLI](https://github.com/dagger/dagger) - Portable dev engine to run containerized application build pipelines as code.
+* [Kubeshark CLI](https://github.com/kubeshark/kubeshark) - Real-time API traffic analyzer for debugging Kubernetes clusters network payloads.
+* [Keptn CLI](https://github.com/keptn/keptn) - Cloud-native application lifecycle orchestration tool managing configurations.
+* [Spinnaker API](https://github.com/spinnaker/spinnaker) - Multi-cloud continuous delivery platform REST API for automated deployments.
+* [OpenKruise CLI](https://github.com/openkruise/kruise) - Kubernetes application management operator CLI client managing resources.
+* [Kube-router CLI](https://github.com/cloudnativelabs/kube-router) - Lean and powerful Kubernetes networking service agent managing routing.
+* [MetalLB CLI](https://github.com/metallb/metallb) - Bare-metal load balancer for Kubernetes routing and load balancing CLI.
+* [Longhorn CLI](https://github.com/longhorn/longhorn) - Enterprise-grade distributed block storage orchestrator command line tool.
+* [KEDA CLI](https://github.com/kedacore/keda-om) - Kubernetes Event-driven Autoscaling CLI tool managing scale-to-zero deployments.
+* [Knative Client CLI](https://github.com/knative/client) - Command-line interface for managing Knative serverless application services.
+* [Kpack CLI tool](https://github.com/pivotal/kpack-cli) - Kubernetes-native container build platform controller for building images.
+* [Rancher CLI client](https://github.com/rancher/cli) - Multi-cluster Kubernetes manager CLI agent controlling clusters.
+* [Octant CLI](https://github.com/vmware-tanzu/octant) - Visual developer-centric dashboard for inspecting Kubernetes clusters.
+* [Velero Backup CLI](https://github.com/vmware-tanzu/velero) - Disaster recovery block backups CLI utility archiving namespaces.
+* [Harbor REST API](https://github.com/goharbor/harbor) - Cloud-native registry services authentication and vulnerability API.

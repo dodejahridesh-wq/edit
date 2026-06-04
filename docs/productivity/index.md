@@ -186,3 +186,19 @@
 * [Basecamp Ruby API client](https://github.com/basecamp/bc3-api) - Basecamp communications portal API client coordination tool.
 * [Asana Node API client](https://github.com/Asana/node-asana) - Asana developer client library SDK updating projects timelines.
 * [Baserow CLI administration](https://github.com/baserow/baserow) - Baserow open-source database client administration CLI utility tool.
+
+* [Notion JS Client SDK](https://github.com/makenotion/notion-sdk-js) - Official Notion databases structures API SDK querying boards.
+* [Slack Bolt Node SDK](https://github.com/slackapi/bolt-js) - Slack apps developer interactive SDK handling commands.
+* [DiscordJS Node SDK](https://github.com/discordjs/discord.js) - Chat server workflows management Node SDK handling hooks.
+* [Google Calendar Node SDK](https://github.com/googleapis/google-api-nodejs-client) - Calendar schedule events creator Node SDK planning dates.
+* [Jira Connector Node SDK](https://github.com/jira-node/node-jira-client) - Issue tracker queries API Node SDK updating boards.
+* [Confluence Pages Node SDK](https://github.com/vertigo/confluence-api) - Wiki documentation space API Node SDK posting topics.
+* [Obsidian Plugin API SDK](https://github.com/obsidianmd/obsidian-api) - Markdown database plugins developer interface connecting notebooks.
+* [Airtable Client Node SDK](https://github.com/Airtable/airtable.js) - Sheets database workspaces controller SDK mapping rows.
+* [Linear Tasks Node SDK](https://github.com/linear/linear) - Linear GraphQL API backlog connector SDK auditing tickets.
+* [Google Tasks Node SDK](https://github.com/googleapis/google-api-nodejs-client) - Checklists items creator Node SDK planning to-do cards.
+* [Todoist Python SDK](https://github.com/doist/todoist-api-python) - To-do lists scheduling client Python SDK managing cards.
+* [ClickUp REST SDK](https://clickup.com/api) - Task workspaces coordinator client REST SDK pushing milestones.
+* [Basecamp REST SDK](https://github.com/basecamp/bc3-api) - Message boards communications client REST SDK sending notes.
+* [Asana Client Node SDK](https://github.com/Asana/node-asana) - Project boards timelines manager Node SDK resolving issues.
+* [Baserow Admin CLI](https://baserow.io/docs/api) - Database admin panel CLI controller updating tables.

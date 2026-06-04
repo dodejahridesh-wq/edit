@@ -170,3 +170,19 @@
 * [Groq SDK](https://github.com/groq/groq-python) - High-speed Groq LPU hardware developer API client SDK.
 * [Mistral AI SDK](https://github.com/mistralai/client-python) - Mistral AI models developer API client library SDK.
 * [Cohere SDK](https://github.com/cohere-ai/cohere-python) - Cohere language processing and embedding models developer API SDK.
+
+* [LangChain Python SDK](https://github.com/langchain-ai/langchain) - AI chain components connector Python SDK building agentic workflows.
+* [LlamaIndex Python SDK](https://github.com/run-llama/llama_index) - LLM data connector Python SDK indexing multi-structured documents.
+* [vLLM Inference CLI](https://github.com/vllm-project/vllm) - High-performance local LLM inference engine runner hosting weights.
+* [Text Generation Inference CLI](https://github.com/huggingface/text-generation-inference) - Model hosting and token streaming server hosting open models.
+* [OpenAI Node SDK](https://github.com/openai/openai-node) - Official Node.js library for OpenAI API integrations and parameters.
+* [Anthropic Node SDK](https://github.com/anthropics/anthropic-sdk-node) - Official Node.js library for Claude model integrations and parsing.
+* [Google GenAI Node SDK](https://github.com/googleapis/nodejs-genai) - Google developer API SDK for Gemini model inference integrations in Node.
+* [DeepSpeed PyTorch CLI](https://github.com/microsoft/DeepSpeed) - Distributed deep learning model optimizer runner scaling neural layers.
+* [Ludwig PyTorch CLI](https://github.com/ludwig-ai/ludwig) - Declarative deep learning framework execution CLI building architectures.
+* [PyTorch Geometric SDK](https://github.com/pyg-team/pytorch_geometric) - Graph neural networks developer extension library mapping spatial relationships.
+* [Vaex DataFrames API](https://github.com/vaexio/vaex) - Out-of-core big tabular data viewer API scaling dataframe matrices.
+* [Modin Pandas API](https://github.com/modin-project/modin) - Distributed pandas execution wrapper library speeding dataframe tasks.
+* [Albumentations Image API](https://github.com/albumentations-team/albumentations) - Deep learning image augmentation library applying filters.
+* [Yellowbrick Diagnostics API](https://github.com/DistrictDataLabs/yellowbrick) - Machine learning diagnostics plotting library scoring classifier models.
+* [Evidently Reports API](https://github.com/evidently-ai/evidently) - AI drift monitoring reports generator library calculating parameters.

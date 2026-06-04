@@ -1,13 +1,13 @@
 ---
 name: hardhat_runner_cli
 description: >
-  Task runner CLI compiling smart contracts and running tests.
+  Smart contracts test runner CLI tool testing files.
 ---
 
 # Hardhat Runner CLI
 
 ## Overview
-Task runner CLI compiling smart contracts and running tests.
+Smart contracts test runner CLI tool testing files.
 
 ## Integration Info
 * **Official Link**: [Hardhat Runner CLI](https://github.com/NomicFoundation/hardhat)

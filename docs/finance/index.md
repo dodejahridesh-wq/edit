@@ -181,3 +181,19 @@
 * [Coinbase Commerce Webhooks](https://github.com/coinbase/coinbase-commerce-node) - Crypto invoicing gateway dispatching transaction updates webhooks events.
 * [Braintree CLI gateway](https://github.com/braintree/braintree_node) - Merchant payments vault configuration command-line helper script.
 * [Adyen CLI client](https://github.com/Adyen/adyen-cli) - Developer gateway testing client verifying payments webhooks.
+
+* [Solidity Compiler CLI](https://github.com/ethereum/solidity) - Smart contracts compilation engine CLI generating bytecodes.
+* [Truffle Console CLI](https://github.com/trufflesuite/truffle) - Interactive blockchain compiler console wrapper executing deployments.
+* [Hardhat Runner CLI](https://github.com/NomicFoundation/hardhat) - Smart contracts test runner CLI tool testing files.
+* [Ganache Node CLI](https://github.com/trufflesuite/ganache-cli) - Ethereum simulator node launcher CLI hosting sandbox networks.
+* [Aave V3 Feeds API](https://github.com/aave/aave-v3-core) - Web3 rates oracles metrics read API checking active channels.
+* [Uniswap V3 Router API](https://github.com/Uniswap/v3-periphery) - Token swaps liquidity routing API client swapping assets.
+* [Tenderly CLI API](https://github.com/Tenderly/tenderly-cli) - Web3 transactions simulation engine API client debugging traces.
+* [WalletConnect Protocol CLI](https://github.com/WalletConnect/walletconnect-monorepo) - Wallet connectivity sessions metrics tracker checking active connections.
+* [Stripe Ledger API](https://github.com/stripe/stripe-node) - Payments invoicing bookkeeping API client managing accounts.
+* [Stripe Subscriptions API](https://github.com/stripe/stripe-node) - Recurring billing plans scheduler API generating invoices.
+* [PayPal Subscriptions SDK](https://github.com/paypal/paypal-checkout-components) - Checkout buttons subscription routing SDK processing payments.
+* [Adyen Notifications API](https://github.com/Adyen/adyen-node-api-library) - Payments gateway transactions updates webhooks handling ledger events.
+* [Compound Finance Protocol API](https://github.com/compound-finance/compound-protocol) - Compound decentralized lending protocol developer API for tracking interest.
+* [Braintree Gateway CLI](https://github.com/braintree/braintree_node) - Merchant account credential auditor CLI auditing payment keys.
+* [Adyen Gateway CLI](https://github.com/Adyen/adyen-cli) - Developer gateway testing client verifying payments webhooks.

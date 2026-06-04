@@ -168,3 +168,19 @@
 * [Blender Python API](https://github.com/blender/blender) - Headless Blender 3D graphics rendering script engine Python bindings.
 * [Pillow CLI tool](https://github.com/python-pillow/Pillow) - Python image library console utility executing canvas filters.
 * [Sharp CLI tool](https://github.com/lovell/sharp) - High-performance Node.js image processor minifying graphic buffers files.
+
+* [FontForge Editor CLI](https://github.com/fontforge/fontforge) - Font editor compiler command line console building typography files.
+* [Inkscape Layout CLI](https://github.com/inkscape/inkscape) - Vector graphic parser command line wrapper rendering files.
+* [SVGO Graphic CLI](https://github.com/svg/svgo) - SVG image vector optimization compiler shrinking layout code.
+* [CSSnano Style CLI](https://github.com/cssnano/cssnano) - CSS stylesheets minifier compile tool packaging code.
+* [Autoprefixer PostCSS CLI](https://github.com/postcss/autoprefixer) - PostCSS vendor prefixes script wrapper appending webkit rules.
+* [PurgeCSS Trimmer CLI](https://github.com/FullHuman/purgecss) - Unused CSS selectors trimmer CLI tool removing selectors.
+* [Critical Styles CLI](https://github.com/addyosmani/critical) - Above-the-fold inline CSS extractor tool generating critical stylesheets.
+* [FFprobe Media CLI](https://github.com/FFmpeg/FFmpeg) - Media metadata streams inspector tool checking formats.
+* [HandBrake Encoder CLI](https://github.com/HandBrake/HandBrake) - Headless video transcoder command line engine converting files.
+* [ImageMagick Mogrify CLI](https://github.com/ImageMagick/ImageMagick) - Batch graphics editor overwrite tool applying filters directly.
+* [ExifTool Metadata CLI](https://github.com/gergelyszabo/exiftool) - EXIF headers reader writer tool wiping geo tags.
+* [GIMP Script CLI](https://github.com/GNOME/gimp) - Image editor console automation engine executing python scripts.
+* [Blender Render CLI](https://github.com/blender/blender) - Headless 3D render manager console tool rendering objects.
+* [Pillow Image CLI](https://github.com/python-pillow/Pillow) - Python graphic filters utility script executing basic transformations.
+* [Sharp Processor CLI](https://github.com/lovell/sharp) - Node.js image compression processor utility resizing canvas images.

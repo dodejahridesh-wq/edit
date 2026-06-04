@@ -1,13 +1,13 @@
 ---
 name: walletconnect_protocol_cli
 description: >
-  Wallet connectivity library checking network sessions connections status.
+  Wallet connectivity sessions metrics tracker checking active connections.
 ---
 
 # WalletConnect Protocol CLI
 
 ## Overview
-Wallet connectivity library checking network sessions connections status.
+Wallet connectivity sessions metrics tracker checking active connections.
 
 ## Integration Info
 * **Official Link**: [WalletConnect Protocol CLI](https://github.com/WalletConnect/walletconnect-monorepo)

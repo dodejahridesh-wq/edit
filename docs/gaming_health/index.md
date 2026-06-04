@@ -177,3 +177,19 @@
 * [NASA APOD Media Client](https://github.com/nasa/apod-api) - Astronomy media database REST API client fetching entries.
 * [Hubble Telescope API Client](https://github.com/hubblesite/api) - Space telemetry and image catalogs developer REST API.
 * [Epic Games Services SDK](https://github.com/EpicGames/epic-games-sdk) - Epic games store publisher SDK linking user achievements.
+
+* [Buttplug.io API](https://buttplug.io) - Standard open-source cross-platform teledildonics control library and device integration API.
+* [Kama Sutra JSON Database](https://github.com/dodejahridesh-wq/kamasutra-dataset) - Structured open-source dataset compiling postures, sanskrit terms, and classical intimacy treatises.
+* [LELO Bluetooth SDK](https://www.lelo.com/developer-sdk) - Bluetooth API developer SDK for controlling smart intimacy hardware and patterns.
+* [CDC NPIN API](https://npin.cdc.gov/pages/npin-api) - Public health API providing directories of sexual health clinics and prevention services.
+* [Planned Parenthood API](https://www.plannedparenthood.org/about-us/newsroom/media-kits/api) - Sexual health educational resources, directories, and clinical services integration REST API.
+* [Refuge Restrooms API](https://www.refugerestrooms.org/api/docs/) - Safe space directories and gender-neutral restrooms geolocations query REST API.
+* [Paired App Webhooks](https://www.paired.com/developers) - Intimacy connection and couples relationship connection milestones logging webhooks API.
+* [Natural Cycles API](https://www.naturalcycles.com/developer) - Menstrual and fertility cycles tracking algorithms integrations for biological tracking sensors.
+* [MysteryVibe SDK](https://mysteryvibe.com/pages/developers) - Intelligent pelvic floor wellness devices customizable vibration frequency pattern SDK.
+* [We-Connect SDK](https://www.we-vibe.com/developer-api) - Bluetooth intimacy hardware remote connection, feedback telemetry, and sync developer API.
+* [Symptothermal fertility engine](https://github.com/dodejahridesh-wq/symptothermal-engine) - Open-source computation library calculating fertility windows using symptothermal wellness algorithms.
+* [36 Questions API](https://github.com/dodejahridesh-wq/36-questions-api) - JSON API serving intimacy-building questions designed to build interpersonal closeness.
+* [Love Nudge API](https://5lovelanguages.com/love-nudge-developer) - Intimacy goals and love language activity tracking API for couples connection.
+* [STI Risk Estimator API](https://github.com/dodejahridesh-wq/sti-risk-calculator) - Public health metadata models estimating sexual health transmission risk scores.
+* [Clue Research API](https://helloclue.com/research-api) - Anonymized reproductive health and menstrual datasets query API for academic research.

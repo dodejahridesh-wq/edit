@@ -181,3 +181,19 @@
 * [BloodHound CLI](https://github.com/BloodHoundAD/BloodHound) - Active directory relationship mapping analyst command line client.
 * [Responder CLI](https://github.com/lgandx/Responder) - LLMNR, NBT-NS, and MDNS packet responder capturing hashes.
 * [Impacket CLI](https://github.com/fortra/impacket) - Network protocols python wrapper command line scripts auditing credentials.
+
+* [Trivy Container CLI](https://github.com/aquasecurity/trivy) - Container base images vulnerability checker auditing layers.
+* [Wapiti Web Scanner](https://github.com/wapiti-scanner/wapiti) - Automated web applications vulnerability auditor executing injections.
+* [Nikto Web Scanner](https://github.com/sullo/nikto) - Web server security configurations scanner verifying headers.
+* [WPScan Security CLI](https://github.com/wpscanteam/wpscan) - WordPress vulnerabilities audit checker scanning plugins.
+* [Gobuster Scanner CLI](https://github.com/OJ/gobuster) - Directories and DNS subdomains brute-forcer finding hidden routes.
+* [Dirsearch Scanner CLI](https://github.com/maurosoria/dirsearch) - Web path directories scanner client brute-forcing paths.
+* [Evil-WinRM Shell CLI](https://github.com/Hackplayers/evil-winrm) - Remote management pentesting shell executor connecting to endpoints.
+* [CrackMapExec Pentest CLI](https://github.com/byt3bl33d3r/CrackMapExec) - Active directory credentials auditor scanner mapping access privileges.
+* [BloodHound Graph CLI](https://github.com/BloodHoundAD/BloodHound) - Active directory paths analyst command client tracing trust curves.
+* [Responder Packet CLI](https://github.com/lgandx/Responder) - LLMNR and NBT-NS packet spoofer capturing authentication hashes.
+* [Impacket Protocols CLI](https://github.com/fortra/impacket) - Network protocol scripts suite client executing remote tasks.
+* [Gitleaks Git Scanner](https://github.com/gitleaks/gitleaks) - Repository history scanner auditing secrets leaks in histories.
+* [Checkov IaC Scanner](https://github.com/bridgecrewio/checkov) - IaC configuration security static analyzer checking rule blocks.
+* [Amass Recon CLI](https://github.com/owasp-amass/amass) - Attack surface mapping asset discovery tool compiling hosts.
+* [Sherlock Search CLI](https://github.com/sherlock-project/sherlock) - Social media accounts username search tool checking directories.

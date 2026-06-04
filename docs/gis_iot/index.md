@@ -178,3 +178,19 @@
 * [Tile38 Geo-Database CLI](https://github.com/tidwall/tile38) - Geospatial query broker console managing live geofence boundaries.
 * [OwnTracks Recorder CLI utility](https://github.com/owntracks/recorder) - Location tracking storage database CLI query manager utility.
 * [PostGIS raster2pgsql importer](https://github.com/postgis/postgis) - GeoTIFF data loader compiling raster files to database.
+
+* [GDAL Raster CLI](https://github.com/OSGeo/gdal) - Geospatial raster data transformer tool editing datasets.
+* [Fiona Shapes CLI](https://github.com/Toblerity/Fiona) - Geographic shapefiles inspector command utility examining layers.
+* [Shapely Geometry API](https://github.com/shapely/shapely) - Geometric spatial operations Python SDK analyzing coordinates.
+* [Pyproj Projections API](https://github.com/pyproj4/pyproj) - Geospatial coordinates conversions Python SDK rewriting points.
+* [Leaflet Geoman Editor](https://github.com/geoman-io/leaflet-geoman) - Interactive maps drawing editors web library plotting shapes.
+* [Leaflet Geosearch Geocoder](https://github.com/smeijer/leaflet-geosearch) - Location address geosearch geocoder client fetching addresses.
+* [OpenLayers Webpack Builder](https://github.com/openlayers/openlayers) - Web mapping application bundler compiler building maps.
+* [Home Assistant WebSockets](https://github.com/home-assistant/core) - Smart home telemetry WebSocket API client listening to sensors.
+* [Mosquitto Client Publish](https://github.com/eclipse/mosquitto) - MQTT publisher message broker CLI forwarding telemetry strings.
+* [Node-RED UI Compiler](https://github.com/node-red/node-red-dashboard) - Smart flows dashboard templates compiler serving control panels.
+* [Google S2 Library](https://github.com/google/s2geometry) - Spherical coordinates cell indexer library mapping grids.
+* [Uber H3 Library](https://github.com/uber/h3) - Hexagonal grid cells coordinates indexer library mapping areas.
+* [Tile38 Database CLI](https://github.com/tidwall/tile38) - Geospatial geofence query engine client tracking moving assets.
+* [OwnTracks Recorder CLI](https://github.com/owntracks/recorder) - Devices telemetry logs collector database CLI querying paths.
+* [PostGIS Raster Importer](https://github.com/postgis/postgis) - GeoTIFF to SQL compiler command utility inserting raster data.

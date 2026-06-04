@@ -1,13 +1,13 @@
 ---
 name: stripe_subscriptions_api
 description: >
-  Stripe subscription engine REST API mapping recurring billing schedules.
+  Recurring billing plans scheduler API generating invoices.
 ---
 
 # Stripe Subscriptions API
 
 ## Overview
-Stripe subscription engine REST API mapping recurring billing schedules.
+Recurring billing plans scheduler API generating invoices.
 
 ## Integration Info
 * **Official Link**: [Stripe Subscriptions API](https://github.com/stripe/stripe-node)

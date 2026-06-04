@@ -1,13 +1,13 @@
 ---
 name: solidity_compiler_cli
 description: >
-  Command-line compiler parsing smart contract source code files.
+  Smart contracts compilation engine CLI generating bytecodes.
 ---
 
 # Solidity Compiler CLI
 
 ## Overview
-Command-line compiler parsing smart contract source code files.
+Smart contracts compilation engine CLI generating bytecodes.
 
 ## Integration Info
 * **Official Link**: [Solidity Compiler CLI](https://github.com/ethereum/solidity)
