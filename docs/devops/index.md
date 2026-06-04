@@ -151,3 +151,19 @@
 * [Terragrunt](https://terragrunt.gruntwork.io) - Thin wrapper for Terraform that provides extra tools for keeping configurations DRY.
 * [Pulumi CLI](https://www.pulumi.com) - Infrastructure as Code builder executing infrastructure deployment using code templates.
 * [OpenTofu](https://opentofu.org) - Fork of Terraform providing open-source cloud infrastructure code compilation.
+
+* [AWS CDK CLI](https://github.com/aws/aws-cdk) - AWS Cloud Development Kit CLI tool for provisioning infrastructure using programming languages.
+* [CDKTF CLI](https://github.com/hashicorp/terraform-cdk) - Cloud Development Kit for Terraform CLI tool to write configurations in multiple code bases.
+* [Bicep CLI](https://github.com/Azure/bicep) - Microsoft Azure resource provisioning and deployment language command line tool.
+* [Steampipe CLI](https://github.com/turbot/steampipe) - CLI tool to query APIs, cloud infrastructure, and files using SQL.
+* [CloudQuery CLI](https://github.com/cloudquery/cloudquery) - High-performance data integration framework sinking cloud APIs to databases.
+* [Portainer API](https://github.com/portainer/portainer) - REST API and management dashboard UI for containerized application infrastructures.
+* [Restic CLI](https://github.com/restic/restic) - Fast, secure, and encrypted backups compiler command line utility.
+* [BorgBackup CLI](https://github.com/borgbackup/borg) - Deduplicating backup tool with compression and authenticated encryption.
+* [Kopia CLI](https://github.com/kopia/kopia) - Fast and secure open-source backup client with deduplication and encryption.
+* [Vector CLI](https://github.com/vectordotdev/vector) - Lightweight, ultra-fast observability data pipeline router tool.
+* [Cloud Custodian CLI](https://github.com/cloud-custodian/cloud-custodian) - Rules engine for managing public cloud security, cost, and compliance.
+* [Pulumi ESC](https://github.com/pulumi/esc) - Command line client managing environment variables, configuration, and secrets.
+* [AWS LocalStack CLI](https://github.com/localstack/localstack-cli) - Command-line interface client managing local AWS cloud emulator instances.
+* [Kubevious CLI](https://github.com/kubevious/cli) - Kubernetes configurations validator and dependency analyzer tool.
+* [Snyk Container CLI](https://github.com/snyk/snyk) - CLI scanner verifying container base images and Kubernetes manifests safety.

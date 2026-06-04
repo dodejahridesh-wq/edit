@@ -170,3 +170,19 @@
 * [Basecamp API client](https://github.com/basecamp/bc3-api) - Basecamp project messages and channels REST API coordinator.
 * [Asana API client](https://github.com/Asana/node-asana) - Asana task board schedules manager REST SDK client.
 * [Baserow API CLI](https://baserow.io/docs/api) - Baserow open-source database client administration interface utility.
+
+* [Notion SDK JS Client](https://github.com/makenotion/notion-sdk-js) - Official Notion client library executing page database schema queries.
+* [Slack Bolt Framework SDK](https://github.com/slackapi/bolt-js) - Slack apps developer framework SDK mapping interactive events.
+* [Discord API client SDK](https://github.com/discordjs/discord.js) - Discord client library managing discord chat server workflows.
+* [Google Calendar Node API](https://github.com/googleapis/google-api-nodejs-client) - Google developer client SDK scheduling calendars events entries.
+* [Jira Node API client](https://github.com/jira-node/node-jira-client) - Jira REST API connector query client updating issues.
+* [Confluence Node API client](https://github.com/vertigo/confluence-api) - Confluence space publisher client compiling documentation pages.
+* [Obsidian Plugin API](https://github.com/obsidianmd/obsidian-api) - Note manager plugin typescript developer interface SDK bindings.
+* [Airtable JS Client SDK](https://github.com/Airtable/airtable.js) - Airtable workspace data controller SDK managing base sheets.
+* [Linear Task API client](https://github.com/linear/linear) - Linear GraphQL API client mapping team backlog tickets.
+* [Google Tasks Node API](https://github.com/googleapis/google-api-nodejs-client) - Google tasks organizer client SDK creating checklists items.
+* [Todoist Python API client](https://github.com/doist/todoist-api-python) - Todoist task scheduler client SDK mapping todo lists.
+* [ClickUp REST API client](https://github.com/clickup/clickup-api) - ClickUp task coordinator REST API client mapping workflows.
+* [Basecamp Ruby API client](https://github.com/basecamp/bc3-api) - Basecamp communications portal API client coordination tool.
+* [Asana Node API client](https://github.com/Asana/node-asana) - Asana developer client library SDK updating projects timelines.
+* [Baserow CLI administration](https://github.com/baserow/baserow) - Baserow open-source database client administration CLI utility tool.

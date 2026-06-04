@@ -152,3 +152,19 @@
 * [Sass](https://sass-lang.com) - Dart Sass stylesheet preprocessor parsing SCSS variables to CSS.
 * [Less](https://lesscss.org) - Less compiler compiling style templates to standard stylesheets.
 * [CSSnano CLI](https://cssnano.co) - CSS optimizer minifying CSS code files.
+
+* [FontForge CLI](https://github.com/fontforge/fontforge) - Font editor compiler command line console building typography files.
+* [Inkscape CLI helper](https://github.com/inkscape/inkscape) - Vector drawing suite command line client parsing svg layouts.
+* [SVGO CLI](https://github.com/svg/svgo) - SVG optimizer tool resizing and compressing vector graphics files.
+* [CSSnano CLI tool](https://github.com/cssnano/cssnano) - CSS minifier command line compiler packaging optimized stylesheets files.
+* [Autoprefixer CLI](https://github.com/postcss/autoprefixer) - CSS vendor prefixes compiler applying rules over style files.
+* [PurgeCSS CLI](https://github.com/FullHuman/purgecss) - CSS trimmer removing unused styling selectors from target files.
+* [Critical CLI](https://github.com/addyosmani/critical) - CSS extractor compiling above-the-fold styling rules inline.
+* [FFprobe CLI](https://github.com/FFmpeg/FFmpeg) - Media streams analyzer command line client reading files metadata.
+* [HandBrake CLI](https://github.com/HandBrake/HandBrake) - Headless video transcoder command line engine converting media files.
+* [ImageMagick mogrify](https://github.com/ImageMagick/ImageMagick) - Image processing batch modifier tool overwriting original graphic files.
+* [ExifTool CLI](https://github.com/gergelyszabo/exiftool) - Metadata writer client reading and writing EXIF tags files.
+* [GIMP CLI](https://github.com/GNOME/gimp) - Graphic editor console executing scripts over canvas files.
+* [Blender Python API](https://github.com/blender/blender) - Headless Blender 3D graphics rendering script engine Python bindings.
+* [Pillow CLI tool](https://github.com/python-pillow/Pillow) - Python image library console utility executing canvas filters.
+* [Sharp CLI tool](https://github.com/lovell/sharp) - High-performance Node.js image processor minifying graphic buffers files.

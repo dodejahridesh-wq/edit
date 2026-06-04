@@ -154,3 +154,19 @@
 * [Pandas-Profiling](https://github.com/ydataai/ydata-profiling) - Automated exploratory data analysis reports compiler generating summary statistics.
 * [Feature-engine](https://feature-engine.trainindata.com) - Feature engineering library transforming datasets for machine learning models.
 * [PyTorch Light](https://www.pytorchlightning.ai) - Lightweight PyTorch wrapper structuring training loops for model research.
+
+* [Hugging Face Hub CLI](https://github.com/huggingface/huggingface_hub) - Command line client downloading and managing model repository files.
+* [TensorFlow Lite converter](https://github.com/tensorflow/tensorflow/tree/master/tensorflow/lite) - Converter compiler converting TensorFlow models to optimized mobile runtimes.
+* [LangSmith SDK](https://github.com/langchain-ai/langsmith-sdk) - Developer SDK monitoring, testing, and debugging LLM application chains.
+* [Gymnasium API](https://github.com/Farama-Foundation/Gymnasium) - Standard API library for developing and comparing reinforcement learning models.
+* [Autogen CLI](https://github.com/microsoft/autogen) - AI multi-agent conversation framework execution command-line tool.
+* [CrewAI SDK](https://github.com/crewAIInc/crewAI) - Role-based AI multi-agent orchestration framework Python client SDK.
+* [Langflow CLI](https://github.com/langflow-ai/langflow) - Interactive interface serving multi-agent LLM orchestration applications.
+* [Flowise API](https://github.com/FlowiseAI/Flowise) - Orchestrator dashboard API compiling custom LLM agents and workflows.
+* [CoreML CLI](https://github.com/apple/coremltools) - Model conversion tool converting machine learning weights to Apple CoreML.
+* [OpenAI SDK](https://github.com/openai/openai-python) - Official OpenAI API client library for AI model integrations.
+* [Anthropic SDK](https://github.com/anthropics/anthropic-sdk-python) - Official Anthropic API client library for Claude model invocations.
+* [Google GenAI SDK](https://github.com/googleapis/google-genai) - Google developer API SDK for Gemini model inference integrations.
+* [Groq SDK](https://github.com/groq/groq-python) - High-speed Groq LPU hardware developer API client SDK.
+* [Mistral AI SDK](https://github.com/mistralai/client-python) - Mistral AI models developer API client library SDK.
+* [Cohere SDK](https://github.com/cohere-ai/cohere-python) - Cohere language processing and embedding models developer API SDK.

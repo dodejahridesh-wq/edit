@@ -165,3 +165,19 @@
 * [MetaMask SDK](https://docs.metamask.io/wallet/connect/metamask-sdk) - Wallet connection library connecting apps to MetaMask wallets.
 * [Web3Onboard](https://onboard.blocknative.com) - Blocknative multi-wallet connection modal UI compiler SDK.
 * [WalletConnect CLI](https://docs.walletconnect.com) - WalletConnect protocol telemetry command line utility helper.
+
+* [Solidity Compiler CLI](https://github.com/ethereum/solidity) - Command-line compiler parsing smart contract source code files.
+* [Truffle CLI console](https://github.com/trufflesuite/truffle) - Truffle suite interactive terminal compiling smart contract systems.
+* [Hardhat Runner CLI](https://github.com/NomicFoundation/hardhat) - Task runner CLI compiling smart contracts and running tests.
+* [Ganache CLI helper](https://github.com/trufflesuite/ganache-cli) - Personal blockchain sandbox command-line tool testing smart contracts.
+* [Aave V3 Protocol Feeds](https://github.com/aave/aave-v3-core) - Oracles reading protocol rates data over active networks.
+* [Uniswap V3 Protocol Router](https://github.com/Uniswap/v3-periphery) - Liquidity routing wrapper mapping token exchanges paths.
+* [Tenderly API](https://github.com/Tenderly/tenderly-cli) - Web3 debugging platform API simulating smart contract transactions.
+* [WalletConnect Protocol CLI](https://github.com/WalletConnect/walletconnect-monorepo) - Wallet connectivity library checking network sessions connections status.
+* [Stripe Invoices API](https://github.com/stripe/stripe-node) - Stripe billing ledger REST API compiling customer invoices.
+* [Stripe Subscriptions API](https://github.com/stripe/stripe-node) - Stripe subscription engine REST API mapping recurring billing schedules.
+* [PayPal Subscriptions SDK](https://github.com/paypal/paypal-checkout-components) - PayPal dynamic buttons web client routing recurring subscriptions payments.
+* [Adyen Webhooks API](https://github.com/Adyen/adyen-node-api-library) - Adyen notifications gateway dispatching transaction updates webhooks events.
+* [Coinbase Commerce Webhooks](https://github.com/coinbase/coinbase-commerce-node) - Crypto invoicing gateway dispatching transaction updates webhooks events.
+* [Braintree CLI gateway](https://github.com/braintree/braintree_node) - Merchant payments vault configuration command-line helper script.
+* [Adyen CLI client](https://github.com/Adyen/adyen-cli) - Developer gateway testing client verifying payments webhooks.

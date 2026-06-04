@@ -162,3 +162,19 @@
 * [Tile38 CLI](https://github.com/tidwall/tile38) - Tile38 geospatial database query shell client manager.
 * [OwnTracks Recorder CLI](https://github.com/owntracks/recorder) - Telemetry logs aggregator query command line helper client.
 * [PostGIS raster2pgsql CLI](https://postgis.net) - Geo-raster image importer converting geotiff files to SQL.
+
+* [GDAL CLI tool](https://github.com/OSGeo/gdal) - Geospatial raster files transformer utility executing coordinate calculations.
+* [Fiona CLI wrapper](https://github.com/Toblerity/Fiona) - Shapefiles inspector command line client checking coordinate layers.
+* [Shapely Geometry API](https://github.com/shapely/shapely) - Python spatial logic library performing operations over shapes.
+* [Pyproj Transformation API](https://github.com/pyproj4/pyproj) - Coordinates transformation interface library wrapping PROJ coordinate rules.
+* [Leaflet Geoman CLI](https://github.com/geoman-io/leaflet-geoman) - Interactive map editors library creating canvas drawing tools.
+* [Leaflet Geosearch CLI](https://github.com/smeijer/leaflet-geosearch) - Address search geocoder component routing leaflet map markers.
+* [OpenLayers webpack compiler](https://github.com/openlayers/openlayers) - Layers bundler packaging web map application components.
+* [Home Assistant WebSocket API](https://github.com/home-assistant/core) - Home automation platform WebSocket API pushing active telemetry updates.
+* [Mosquitto CLI publish](https://github.com/eclipse/mosquitto) - MQTT message pub-sub client publishing telemetry message strings.
+* [Node-RED dashboard compiler](https://github.com/node-red/node-red-dashboard) - IoT control interfaces builder compiling dashboard layout files.
+* [Google S2 Geometry API](https://github.com/google/s2geometry) - Spherical coordinates indexing library mapping locations cells.
+* [Uber H3 Hexagon API](https://github.com/uber/h3) - Hexagonal hierarchical spatial index framework mapping grid cells.
+* [Tile38 Geo-Database CLI](https://github.com/tidwall/tile38) - Geospatial query broker console managing live geofence boundaries.
+* [OwnTracks Recorder CLI utility](https://github.com/owntracks/recorder) - Location tracking storage database CLI query manager utility.
+* [PostGIS raster2pgsql importer](https://github.com/postgis/postgis) - GeoTIFF data loader compiling raster files to database.

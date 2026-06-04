@@ -165,3 +165,19 @@
 * [Social Engineering Toolkit](https://github.com/trustedsec/social-engineer-toolkit) - Pentesting framework testing social engineering vulnerabilities channels.
 * [Chainsaw CLI](https://github.com/WithSecureLabs/chainsaw) - Rapid search tool parsing Windows Event logs database files.
 * [Gitleaks CLI](https://github.com/gitleaks/gitleaks) - Auditor security client scanning repository histories for secrets leaks.
+
+* [Trivy CLI](https://github.com/aquasecurity/trivy) - Vulnerability scanner checking container images and file systems.
+* [Nmap Vulners Script](https://github.com/vulnersCom/nmap-vulners) - Lua NSE script query scanner checking network ports vulnerabilities database.
+* [OWASP Dependency-Check CLI](https://github.com/jeremymanson/dependency-check) - Software composition analysis utility scanning dependencies for known vulnerabilities.
+* [Lynis CLI](https://github.com/CISOfy/lynis) - System auditing tool checking Unix systems security configurations guidelines.
+* [Wapiti CLI](https://github.com/wapiti-scanner/wapiti) - Command line web application vulnerability scanner testing target sites.
+* [Nikto CLI](https://github.com/sullo/nikto) - Web server security scanner checking CGI files and server configurations.
+* [WPScan CLI](https://github.com/wpscanteam/wpscan) - WordPress security scanner checking vulnerability signatures over themes.
+* [Gobuster CLI](https://github.com/OJ/gobuster) - Directory, file, and DNS subdomain brute-forcing scanner utility.
+* [Dirsearch CLI](https://github.com/maurosoria/dirsearch) - Advanced web path scanner brute-forcing hidden directories routes.
+* [Evil-WinRM CLI](https://github.com/Hackplayers/evil-winrm) - Remote management pentesting tool executing shells on Windows hosts.
+* [CrackMapExec CLI](https://github.com/byt3bl33d3r/CrackMapExec) - Network authentication credentials tester scanning active directory networks.
+* [BeEF API](https://github.com/beefproject/beef) - Browser exploitation framework admin controller REST API endpoints client.
+* [BloodHound CLI](https://github.com/BloodHoundAD/BloodHound) - Active directory relationship mapping analyst command line client.
+* [Responder CLI](https://github.com/lgandx/Responder) - LLMNR, NBT-NS, and MDNS packet responder capturing hashes.
+* [Impacket CLI](https://github.com/fortra/impacket) - Network protocols python wrapper command line scripts auditing credentials.

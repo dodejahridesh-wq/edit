@@ -161,3 +161,19 @@
 * [NASA APOD client](https://api.nasa.gov) - NASA Astronomy Picture of the Day media catalog client.
 * [Hubble API client](https://hubblesite.org/api) - Hubble telescope space imagery catalog REST API client.
 * [Epic Games API](https://dev.epicgames.com/docs) - Epic Games Store developer services SDK connecting user achievements data.
+
+* [Love2D Game Bootloader CLI](https://github.com/love2d/love) - Command line game console booting LUA execution directories.
+* [Defold bob compiler](https://github.com/defold/defold) - Defold engine asset compiler packaging game release binaries.
+* [SteamCMD Server CLI](https://github.com/ValveSoftware/steamcmd) - Steam terminal client downloader installing game server files.
+* [Apple HealthKit iOS SDK](https://github.com/apple/healthkit) - iOS native fitness database API query manager reading parameters.
+* [Sportsradar Python SDK](https://github.com/sportradar/sportradar-sdk) - Live sports data feed client retrieving schedules statistics.
+* [USGS Seismic API wrapper](https://github.com/usgs/fdsnws) - Seismic database API client retrieving earthquake logs data.
+* [MATLAB Engine Python SDK](https://github.com/mathworks/matlab-engine-for-python) - MATLAB session execution SDK spawning headless command instances.
+* [RetroArch CLI emulator](https://github.com/libretro/RetroArch) - Unified gaming consoles emulation client booting rom files.
+* [Fitbit REST API client](https://github.com/orcasgit/python-fitbit) - Fitbit activity profiles client query wrapper fetching statistics.
+* [Strava Web API SDK](https://github.com/strava/strava-api-v3) - Strava workout activities feed coordinator client SDK library.
+* [HL7 FHIR Python client](https://github.com/smart-on-fhir/client-py) - Interoperable healthcare database client SDK fetching records entries.
+* [OpenWeatherMap PyOWM SDK](https://github.com/csparpa/pyowm) - Meteorological data API client library querying weather variables.
+* [NASA APOD Media Client](https://github.com/nasa/apod-api) - Astronomy media database REST API client fetching entries.
+* [Hubble Telescope API Client](https://github.com/hubblesite/api) - Space telemetry and image catalogs developer REST API.
+* [Epic Games Services SDK](https://github.com/EpicGames/epic-games-sdk) - Epic games store publisher SDK linking user achievements.
