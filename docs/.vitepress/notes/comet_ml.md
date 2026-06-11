@@ -1,14 +1,13 @@
 ---
-name: comet_ml
-description: >
-  ML experiment management, comparisons, and performance graphs dashboard.
+title: Comet ML
 ---
 
 # Comet ML
 
-## Overview
-ML experiment management, comparisons, and performance graphs dashboard.
+**Domain:** Data Science & AI/ML
 
-## Integration Info
-* **Official Link**: [Comet ML](https://www.comet.com)
-* **Domain**: Data Science & AI/ML
+**URL:** [https://www.comet.com](https://www.comet.com)
+
+**Interface:** Python SDK (`comet_ml`) + REST API.
+
+ML experiment management, comparisons, and performance graphs dashboard.

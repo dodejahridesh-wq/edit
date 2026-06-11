@@ -1,14 +1,13 @@
 ---
-name: bentoml
-description: >
-  Unified model packaging and web service serving framework.
+title: BentoML
 ---
 
 # BentoML
 
-## Overview
-Unified model packaging and web service serving framework.
+**Domain:** Data Science & AI/ML
 
-## Integration Info
-* **Official Link**: [BentoML](https://www.bentoml.com)
-* **Domain**: Data Science & AI/ML
+**URL:** [https://www.bentoml.com](https://www.bentoml.com)
+
+**Interface:** Python SDK (`@bentoml.service`) + CLI (`bentoml`).
+
+Unified model packaging and web service serving framework.

@@ -1,14 +1,13 @@
 ---
-name: milvus_lite
-description: >
-  Lightweight version of Milvus running directly inside Python scripts.
+title: Milvus Lite
 ---
 
 # Milvus Lite
 
-## Overview
-Lightweight version of Milvus running directly inside Python scripts.
+**Domain:** Data Science & AI/ML
 
-## Integration Info
-* **Official Link**: [Milvus Lite](https://milvus.io/docs/milvus_lite.md)
-* **Domain**: Data Science & AI/ML
+**URL:** [https://milvus.io/docs/milvus_lite.md](https://milvus.io/docs/milvus_lite.md)
+
+**Interface:** Python library bindings (runs in-process without server setups).
+
+Lightweight version of Milvus running directly inside Python scripts.

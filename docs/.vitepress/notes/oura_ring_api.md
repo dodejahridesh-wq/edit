@@ -1,14 +1,13 @@
 ---
-name: oura_ring_api
-description: >
-  Retrieving sleep duration indexes, readiness scores.
+title: Oura Ring API
 ---
 
 # Oura Ring API
 
-## Overview
-Retrieving sleep duration indexes, readiness scores.
+**Domain:** Gaming & Health
 
-## Integration Info
-* **Official Link**: [Oura Ring API](https://cloud.ouraring.com/v2/docs)
-* **Domain**: Gaming & Health
+**URL:** [https://cloud.ouraring.com/v2/docs](https://cloud.ouraring.com/v2/docs)
+
+**Interface:** REST API (Bearer token authorized JSON endpoints).
+
+Retrieving sleep duration indexes, readiness scores.

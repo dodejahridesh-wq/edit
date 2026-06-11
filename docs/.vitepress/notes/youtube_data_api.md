@@ -1,14 +1,13 @@
 ---
-name: youtube_data_api
-description: >
-  Programmatic upload of video files, playlists updates.
+title: YouTube Data API
 ---
 
 # YouTube Data API
 
-## Overview
-Programmatic upload of video files, playlists updates.
+**Domain:** Gaming & Health
 
-## Integration Info
-* **Official Link**: [YouTube Data API](https://developers.google.com/youtube/v3)
-* **Domain**: Gaming & Health
+**URL:** [https://developers.google.com/youtube/v3](https://developers.google.com/youtube/v3)
+
+**Interface:** REST API (requiring OAuth2 authorization / API Key).
+
+Programmatic upload of video files, playlists updates.

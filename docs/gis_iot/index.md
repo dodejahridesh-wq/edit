@@ -210,3 +210,34 @@
 * [ChirpStack LoRaWAN API](https://github.com/chirpstack/chirpstack) - Network server API managing gateways and LoRa devices.
 * [Overpass Turbo API](https://github.com/tyrasd/overpass-turbo) - OSM data mining and visualization queries compiler interface.
 * [Nominatim Reverse API](https://github.com/osm-search/Nominatim) - Geospatial points reverse geocoding to text addresses API.
+
+* [OpenStreetMap](https://nominatim.openstreetmap.org/`[4) - The OpenStreetMap Nominatim API provides endpoints for geocoding (finding coordinates from an address) and reverse geocoding (finding an address from coordinates).
+* [Mapbox](N/A) - In 2025, the Mapbox Geocoding API remains a core component of the Mapbox Maps platform, offering high-precision forward and reverse geocoding services. It is widely used for converting addresses into ...
+* [Google Maps](https://developers.google.com/maps/documentation) - The Google Maps Platform provides a comprehensive suite of **RESTful Web Service APIs** that allow developers to integrate location-based data, mapping, and navigation features into their applications...
+* [PostGIS](https://postgrest.org/) - PostGIS is a powerful open-source extension for the PostgreSQL relational database that adds support for storing, indexing, and querying geospatial data. It transforms PostgreSQL into a spatial databa...
+* [GeoServer](N/A) - GeoServer offers two distinct ways to interact with OGC (Open Geospatial Consortium) services: traditional OGC web services (like WMS, WFS, and WCS) and the newer, RESTful OGC API standards.
+* [HERE](N/A) - As of 2026, the **HERE Location Services REST platform** remains a primary, industry-leading suite of cloud-based APIs designed to integrate location intelligence into web, mobile, automotive, and ent...
+* [TomTom](https://developer.tomtom.com/) - The TomTom Developer Portal provides a suite of RESTful APIs for maps, routing, and geocoding. You can access their documentation, API Explorer, and tutorials on the official [TomTom Developer Portal]...
+* [what3words](https://what3words.com/select-plan) - The what3words REST API allows you to geocode locations by converting between 3-word addresses and geographic coordinates (latitude and longitude).
+* [Sentinel Hub](N/A) - Sentinel Hub provides a powerful, **RESTful API** ecosystem designed to simplify access to and processing of global Earth observation (EO) data. It abstracts the complexity of satellite imagery manage...
+* [Planet](https://developers.planet.com/) - Planet Labs provides a robust ecosystem for interacting with its satellite imagery services through a **REST API**, a **Python SDK**, and a **Command Line Interface (CLI)**.
+* [Node-RED](http://localhost:1880`) - Node-RED is a powerful, open-source **flow-based programming** tool that is widely used in **IoT (Internet of Things)** for connecting hardware, APIs, and online services through a visual, browser-bas...
+* [Arduino](N/A) - To clarify the relationship between these technologies, it is helpful to distinguish between **controlling your development tools** and **controlling your hardware**.
+* [Raspberry](http://localhost:8000`) - To develop and manage APIs on a Raspberry Pi using command-line interface (CLI) tools, you can leverage a combination of lightweight web frameworks and terminal-based utilities for productivity and de...
+* [ESP32](https://docs.espressif.com/) - To develop applications for ESP32 using the Espressif IoT Development Framework (ESP-IDF) via the Command Line Interface (CLI), you will primarily rely on **`idf.py`**, the core management tool for th...
+
+* [Turf.js](https://turfjs.org) - Client-side JavaScript library executing geospatial mathematical analysis.
+* [GDAL](https://gdal.org) - Abstraction library for raster and vector geospatial file formats.
+* [Fiona](https://fiona.readthedocs.io) - Python library reading and writing vector geospatial data files.
+* [Shapely](https://shapely.readthedocs.io) - Python library for manipulation and analysis of planar geometries.
+* [Geopandas](https://geopandas.org) - Pandas extension supporting GeoSeries geometry columns and spatial joins.
+* [Pyproj](https://pyproj4.github.io/pyproj) - Cartographic projections and coordinate system transformations library.
+* [PostGIS Raster](https://postgis.net/docs/RT_reference.html) - PostGIS database support for storing and querying raster coordinates.
+* [PDAL](https://pdal.io) - Abstraction library processing point cloud data (LiDAR scanning files).
+* [Zigbee2MQTT](https://www.zigbee2mqtt.io) - Zigbee devices controller bridging telemetry logs to MQTT brokers.
+* [Z-Wave JS](https://zwave-js.github.io/node-zwave-js) - Z-Wave network controller driver engine.
+* [ESPHome](https://esphome.io) - Declarative YAML-configured firmware builder for ESP8266/ESP32.
+* [ROS 2 CLI](https://docs.ros.org) - Commands and service nodes management interface for ROS 2.
+* [AirSim](https://microsoft.github.io/AirSim) - Unreal/Unity drone flight simulator.
+* [Sentinel Batch](https://docs.sentinel-hub.com/api/latest/api/batch-processing/) - Large-scale clipping and mosaic generation of earth images.
+* [Earth Engine](https://earthengine.google.com) - Google's planetary-scale environmental datasets analysis platform.

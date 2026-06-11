@@ -1,14 +1,13 @@
 ---
-name: ros_2_cli
-description: >
-  Commands and service nodes management interface for ROS 2.
+title: ROS 2 CLI
 ---
 
 # ROS 2 CLI
 
-## Overview
-Commands and service nodes management interface for ROS 2.
+**Domain:** GIS & IoT
 
-## Integration Info
-* **Official Link**: [ROS 2 CLI](https://docs.ros.org)
-* **Domain**: GIS & IoT
+**URL:** [https://docs.ros.org](https://docs.ros.org)
+
+**Interface:** CLI (`ros2 node`, `ros2 topic`, `ros2 service`).
+
+Commands and service nodes management interface for ROS 2.

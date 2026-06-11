@@ -1,14 +1,13 @@
 ---
-name: kube_hunter
-description: >
-  Security vulnerability scanner checking Kubernetes clusters.
+title: Kube-hunter
 ---
 
 # Kube-hunter
 
-## Overview
-Security vulnerability scanner checking Kubernetes clusters.
+**Domain:** Cybersecurity & Privacy
 
-## Integration Info
-* **Official Link**: [Kube-hunter](https://kube-hunter.aquasec.com)
-* **Domain**: Cybersecurity & Privacy
+**URL:** [https://kube-hunter.aquasec.com](https://kube-hunter.aquasec.com)
+
+**Interface:** CLI (`kube-hunter`) outputting JSON reports.
+
+Security vulnerability scanner checking Kubernetes clusters.

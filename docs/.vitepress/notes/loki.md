@@ -1,14 +1,13 @@
 ---
-name: loki
-description: >
-  Horizontal-scaling, highly-available log aggregation system.
+title: Loki
 ---
 
 # Loki
 
-## Overview
-Horizontal-scaling, highly-available log aggregation system.
+**Domain:** DevOps & Infrastructure
 
-## Integration Info
-* **Official Link**: [Loki](https://grafana.com/oss/loki)
-* **Domain**: DevOps & Infrastructure
+**URL:** [https://grafana.com/oss/loki](https://grafana.com/oss/loki)
+
+**Interface:** REST API (POST `/loki/api/v1/push`, GET `/loki/api/v1/query_range`).
+
+Horizontal-scaling, highly-available log aggregation system.

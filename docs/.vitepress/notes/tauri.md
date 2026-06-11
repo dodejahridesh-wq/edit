@@ -1,14 +1,13 @@
 ---
-name: tauri
-description: >
-  Rust-based desktop/mobile app runtime utilizing system webviews.
+title: Tauri
 ---
 
 # Tauri
 
-## Overview
-Rust-based desktop/mobile app runtime utilizing system webviews.
+**Domain:** Creative & Media
 
-## Integration Info
-* **Official Link**: [Tauri](https://tauri.app)
-* **Domain**: Creative & Media
+**URL:** [https://tauri.app](https://tauri.app)
+
+**Interface:** Rust/JavaScript APIs + CLI (`tauri`).
+
+Rust-based desktop/mobile app runtime utilizing system webviews.

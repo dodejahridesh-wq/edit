@@ -1,14 +1,13 @@
 ---
-name: truffle_suite
-description: >
-  Compilation and deployment framework for smart contracts.
+title: Truffle Suite
 ---
 
 # Truffle Suite
 
-## Overview
-Compilation and deployment framework for smart contracts.
+**Domain:** Finance & Blockchain
 
-## Integration Info
-* **Official Link**: [Truffle Suite](https://trufflesuite.com)
-* **Domain**: Finance & Blockchain
+**URL:** [https://trufflesuite.com](https://trufflesuite.com)
+
+**Interface:** CLI (`truffle`) + test libraries bindings.
+
+Compilation and deployment framework for smart contracts.

@@ -1,14 +1,13 @@
 ---
-name: puppet
-description: >
-  Declarative configuration management and node enforcement.
+title: Puppet
 ---
 
 # Puppet
 
-## Overview
-Declarative configuration management and node enforcement.
+**Domain:** DevOps & Infrastructure
 
-## Integration Info
-* **Official Link**: [Puppet](https://puppet.com)
-* **Domain**: DevOps & Infrastructure
+**URL:** [https://puppet.com](https://puppet.com)
+
+**Interface:** REST API (Puppet Server node definitions) + CLI (`puppet`).
+
+Declarative configuration management and node enforcement.

@@ -1,14 +1,13 @@
 ---
-name: coinmarketcap_api
-description: >
-  Cryptocurrency index and market capitalization data.
+title: CoinMarketCap API
 ---
 
 # CoinMarketCap API
 
-## Overview
-Cryptocurrency index and market capitalization data.
+**Domain:** Finance & Blockchain
 
-## Integration Info
-* **Official Link**: [CoinMarketCap API](https://coinmarketcap.com/api)
-* **Domain**: Finance & Blockchain
+**URL:** [https://coinmarketcap.com/api](https://coinmarketcap.com/api)
+
+**Interface:** REST API (GET endpoints returning ticker statistics).
+
+Cryptocurrency index and market capitalization data.

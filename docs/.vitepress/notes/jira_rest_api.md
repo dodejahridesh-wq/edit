@@ -1,14 +1,13 @@
 ---
-name: jira_rest_api
-description: >
-  Sprint backlogs creation, issue status updates.
+title: Jira REST API
 ---
 
 # Jira REST API
 
-## Overview
-Sprint backlogs creation, issue status updates.
+**Domain:** Productivity & Education
 
-## Integration Info
-* **Official Link**: [Jira REST API](https://developer.atlassian.com/cloud/jira/platform/rest)
-* **Domain**: Productivity & Education
+**URL:** [https://developer.atlassian.com/cloud/jira/platform/rest](https://developer.atlassian.com/cloud/jira/platform/rest)
+
+**Interface:** REST API (Basic Auth / OAuth2 JSON endpoints).
+
+Sprint backlogs creation, issue status updates.

@@ -1,14 +1,13 @@
 ---
-name: chef
-description: >
-  Code-driven system configuration management platform.
+title: Chef
 ---
 
 # Chef
 
-## Overview
-Code-driven system configuration management platform.
+**Domain:** DevOps & Infrastructure
 
-## Integration Info
-* **Official Link**: [Chef](https://www.chef.io)
-* **Domain**: DevOps & Infrastructure
+**URL:** [https://www.chef.io](https://www.chef.io)
+
+**Interface:** REST API (Chef Server endpoints) + Ruby-based CLI (`knife`).
+
+Code-driven system configuration management platform.

@@ -1,14 +1,13 @@
 ---
-name: terraform_enterprise
-description: >
-  Self-hosted IaC platform with private module registry and VCS triggers.
+title: Terraform Enterprise
 ---
 
 # Terraform Enterprise
 
-## Overview
-Self-hosted IaC platform with private module registry and VCS triggers.
+**Domain:** DevOps & Infrastructure
 
-## Integration Info
-* **Official Link**: [Terraform Enterprise](https://www.hashicorp.com/products/terraform)
-* **Domain**: DevOps & Infrastructure
+**URL:** [https://www.hashicorp.com/products/terraform](https://www.hashicorp.com/products/terraform)
+
+**Interface:** REST API (workspaces, states, runs orchestration).
+
+Self-hosted IaC platform with private module registry and VCS triggers.

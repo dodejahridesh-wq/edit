@@ -1,14 +1,13 @@
 ---
-name: monday_com_api
-description: >
-  Workspace database boards creation, status columns updates.
+title: Monday.com API
 ---
 
 # Monday.com API
 
-## Overview
-Workspace database boards creation, status columns updates.
+**Domain:** Productivity & Education
 
-## Integration Info
-* **Official Link**: [Monday.com API](https://developer.monday.com)
-* **Domain**: Productivity & Education
+**URL:** [https://developer.monday.com](https://developer.monday.com)
+
+**Interface:** GraphQL API (queries and mutations endpoints).
+
+Workspace database boards creation, status columns updates.

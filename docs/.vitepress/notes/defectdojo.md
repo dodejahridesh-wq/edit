@@ -1,14 +1,13 @@
 ---
-name: defectdojo
-description: >
-  AppSec vulnerability tracking database and automation coordinator.
+title: DefectDojo
 ---
 
 # DefectDojo
 
-## Overview
-AppSec vulnerability tracking database and automation coordinator.
+**Domain:** Cybersecurity & Privacy
 
-## Integration Info
-* **Official Link**: [DefectDojo](https://www.defectdojo.org)
-* **Domain**: Cybersecurity & Privacy
+**URL:** [https://www.defectdojo.org](https://www.defectdojo.org)
+
+**Interface:** REST API (JSON model CRUD, import scans).
+
+AppSec vulnerability tracking database and automation coordinator.

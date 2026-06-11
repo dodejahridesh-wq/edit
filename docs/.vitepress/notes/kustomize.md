@@ -1,14 +1,13 @@
 ---
-name: kustomize
-description: >
-  Template-free customization configuration tool for Kubernetes manifests.
+title: Kustomize
 ---
 
 # Kustomize
 
-## Overview
-Template-free customization configuration tool for Kubernetes manifests.
+**Domain:** DevOps & Infrastructure
 
-## Integration Info
-* **Official Link**: [Kustomize](https://kustomize.io)
-* **Domain**: DevOps & Infrastructure
+**URL:** [https://kustomize.io](https://kustomize.io)
+
+**Interface:** CLI (`kustomize`) embedded directly inside `kubectl -k`.
+
+Template-free customization configuration tool for Kubernetes manifests.

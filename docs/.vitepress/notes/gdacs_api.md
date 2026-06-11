@@ -1,14 +1,13 @@
 ---
-name: gdacs_api
-description: >
-  Global disaster alert and coordination coordinates mapping.
+title: GDACS API
 ---
 
 # GDACS API
 
-## Overview
-Global disaster alert and coordination coordinates mapping.
+**Domain:** Gaming & Health
 
-## Integration Info
-* **Official Link**: [GDACS API](https://www.gdacs.org/resources.aspx)
-* **Domain**: Gaming & Health
+**URL:** [https://www.gdacs.org/resources.aspx](https://www.gdacs.org/resources.aspx)
+
+**Interface:** REST API (RSS feed / GeoJSON endpoints).
+
+Global disaster alert and coordination coordinates mapping.

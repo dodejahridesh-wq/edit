@@ -199,3 +199,23 @@
 * [Kubeaudit CLI](https://github.com/Shopify/kubeaudit) - Kubernetes clusters security auditor and YAML files checker.
 * [Flyctl](https://github.com/superfly/flyctl) - Fly.io command line client managing application deployments close to users.
 * [Hetzner CLI](https://github.com/hetznercloud/hcloud-cli) - Hetzner Cloud resources and virtual machines manager command line.
+
+* [Podman](https://podman.io/) - Daemonless, rootless container engine — drop-in Docker alternative.
+* [GitHub Actions](https://docs.github.com/en/actions) - Workflow automation built into GitHub for CI/CD, testing, and deployment.
+* [Jenkins](https://www.jenkins.io/) - Open-source, self-hosted automation server for building, testing, and deploying software.
+
+* [Terraform Enterprise](https://www.hashicorp.com/products/terraform) - Self-hosted IaC platform with private module registry and VCS triggers.
+* [Spacelift](https://spacelift.io) - Collaborative infrastructure delivery platform (GitOps for Terraform, Pulumi, CloudFormation).
+* [Argo Workflows](https://argoproj.github.io/workflows) - Kubernetes-native container-based workflow engine for jobs scheduling.
+* [Tekton](https://tekton.dev) - Kubernetes-native declarative CI/CD pipeline building blocks.
+* [FluxCD](https://fluxcd.io) - GitOps continuous delivery tool reconciling git states with Kubernetes clusters.
+* [Kustomize](https://kustomize.io) - Template-free customization configuration tool for Kubernetes manifests.
+* [Linkerd](https://linkerd.io) - Ultralight, security-first service mesh for Kubernetes.
+* [Istio](https://istio.io) - Advanced service mesh for traffic management, policy enforcement, and telemetry.
+* [Promtail](https://grafana.com/docs/loki/latest/send-data/promtail) - Local agent shipping system logs to a centralized Loki instance.
+* [Loki](https://grafana.com/oss/loki) - Horizontal-scaling, highly-available log aggregation system.
+* [Tempo](https://grafana.com/oss/tempo) - High-scale, low-cost distributed tracing database.
+* [Jaeger](https://www.jaegertracing.io) - Open-source distributed tracing system monitoring microservices transactions.
+* [OpenTelemetry](https://opentelemetry.io) - Observability framework providing vendor-neutral APIs, SDKs, and collectors.
+* [Chef](https://www.chef.io) - Code-driven system configuration management platform.
+* [Puppet](https://puppet.com) - Declarative configuration management and node enforcement.

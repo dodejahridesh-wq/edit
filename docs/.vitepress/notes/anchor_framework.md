@@ -1,14 +1,13 @@
 ---
-name: anchor_framework
-description: >
-  Rust-based DSL framework simplifying Solana smart contract development.
+title: Anchor Framework
 ---
 
 # Anchor Framework
 
-## Overview
-Rust-based DSL framework simplifying Solana smart contract development.
+**Domain:** Finance & Blockchain
 
-## Integration Info
-* **Official Link**: [Anchor Framework](https://www.anchor-lang.com)
-* **Domain**: Finance & Blockchain
+**URL:** [https://www.anchor-lang.com](https://www.anchor-lang.com)
+
+**Interface:** CLI (`anchor`) + Rust contract macros.
+
+Rust-based DSL framework simplifying Solana smart contract development.

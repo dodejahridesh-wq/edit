@@ -1,14 +1,14 @@
 ---
 name: web3_js
 description: >
-  JavaScript library for interacting with the Ethereum JSON-RPC client.
+  Legacy projects only; avoid for new builds[1][2].
 ---
 
-# web3.js
+# Web3.js
 
 ## Overview
-JavaScript library for interacting with the Ethereum JSON-RPC client.
+Legacy projects only; avoid for new builds[1][2].
 
 ## Integration Info
-* **Official Link**: [web3.js](https://web3js.org)
+* **Official Link**: [Web3.js](**Archived**)
 * **Domain**: Finance & Blockchain

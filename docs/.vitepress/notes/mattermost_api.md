@@ -1,14 +1,13 @@
 ---
-name: mattermost_api
-description: >
-  Self-hosted team communications server administration.
+title: Mattermost API
 ---
 
 # Mattermost API
 
-## Overview
-Self-hosted team communications server administration.
+**Domain:** Productivity & Education
 
-## Integration Info
-* **Official Link**: [Mattermost API](https://api.mattermost.com)
-* **Domain**: Productivity & Education
+**URL:** [https://api.mattermost.com](https://api.mattermost.com)
+
+**Interface:** REST API (JSON payload channels CRUD and messaging).
+
+Self-hosted team communications server administration.

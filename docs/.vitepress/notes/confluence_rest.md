@@ -1,14 +1,13 @@
 ---
-name: confluence_rest
-description: >
-  Workspace wiki page creation, attachments download.
+title: Confluence REST
 ---
 
 # Confluence REST
 
-## Overview
-Workspace wiki page creation, attachments download.
+**Domain:** Productivity & Education
 
-## Integration Info
-* **Official Link**: [Confluence REST](https://developer.atlassian.com/cloud/confluence/rest)
-* **Domain**: Productivity & Education
+**URL:** [https://developer.atlassian.com/cloud/confluence/rest](https://developer.atlassian.com/cloud/confluence/rest)
+
+**Interface:** REST API (Basic Auth / OAuth2 JSON endpoints).
+
+Workspace wiki page creation, attachments download.

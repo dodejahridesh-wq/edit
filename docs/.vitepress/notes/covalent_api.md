@@ -1,14 +1,13 @@
 ---
-name: covalent_api
-description: >
-  Unified multi-chain blockchain database indexer.
+title: Covalent API
 ---
 
 # Covalent API
 
-## Overview
-Unified multi-chain blockchain database indexer.
+**Domain:** Finance & Blockchain
 
-## Integration Info
-* **Official Link**: [Covalent API](https://www.covalenthq.com)
-* **Domain**: Finance & Blockchain
+**URL:** [https://www.covalenthq.com](https://www.covalenthq.com)
+
+**Interface:** REST API (address history, token balances).
+
+Unified multi-chain blockchain database indexer.

@@ -1,14 +1,13 @@
 ---
-name: cocos2d_x
-description: >
-  Multi-platform open-source 2D/3D game framework.
+title: Cocos2d-x
 ---
 
 # Cocos2d-x
 
-## Overview
-Multi-platform open-source 2D/3D game framework.
+**Domain:** Gaming & Health
 
-## Integration Info
-* **Official Link**: [Cocos2d-x](https://www.cocos.com/en)
-* **Domain**: Gaming & Health
+**URL:** [https://www.cocos.com/en](https://www.cocos.com/en)
+
+**Interface:** C++ / JS API runtime + CLI (`cocos`).
+
+Multi-platform open-source 2D/3D game framework.

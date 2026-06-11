@@ -1,14 +1,13 @@
 ---
-name: mysportsfeeds_api
-description: >
-  Historical and live box score statistics feeds.
+title: MySportsFeeds API
 ---
 
 # MySportsFeeds API
 
-## Overview
-Historical and live box score statistics feeds.
+**Domain:** Gaming & Health
 
-## Integration Info
-* **Official Link**: [MySportsFeeds API](https://www.mysportsfeeds.com)
-* **Domain**: Gaming & Health
+**URL:** [https://www.mysportsfeeds.com](https://www.mysportsfeeds.com)
+
+**Interface:** REST API (GET endpoints returning JSON/XML files).
+
+Historical and live box score statistics feeds.

@@ -1,14 +1,13 @@
 ---
-name: deepspeed
-description: >
-  Deep learning optimization library enabling 100B+ parameter model training.
+title: DeepSpeed
 ---
 
 # DeepSpeed
 
-## Overview
-Deep learning optimization library enabling 100B+ parameter model training.
+**Domain:** Data Science & AI/ML
 
-## Integration Info
-* **Official Link**: [DeepSpeed](https://www.deepspeed.ai)
-* **Domain**: Data Science & AI/ML
+**URL:** [https://www.deepspeed.ai](https://www.deepspeed.ai)
+
+**Interface:** Python SDK (`import deepspeed`) + CLI launcher (`deepspeed`).
+
+Deep learning optimization library enabling 100B+ parameter model training.

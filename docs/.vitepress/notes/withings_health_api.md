@@ -1,14 +1,13 @@
 ---
-name: withings_health_api
-description: >
-  Fetch smart scales weight metrics, sleep mat logs.
+title: Withings Health API
 ---
 
 # Withings Health API
 
-## Overview
-Fetch smart scales weight metrics, sleep mat logs.
+**Domain:** Gaming & Health
 
-## Integration Info
-* **Official Link**: [Withings Health API](https://developer.withings.com)
-* **Domain**: Gaming & Health
+**URL:** [https://developer.withings.com](https://developer.withings.com)
+
+**Interface:** REST API (OAuth2 authorization).
+
+Fetch smart scales weight metrics, sleep mat logs.

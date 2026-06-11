@@ -1,14 +1,13 @@
 ---
-name: telegram_bot_api
-description: >
-  HTTP portal to dispatch chat messages and manage channels.
+title: Telegram Bot API
 ---
 
 # Telegram Bot API
 
-## Overview
-HTTP portal to dispatch chat messages and manage channels.
+**Domain:** Productivity & Education
 
-## Integration Info
-* **Official Link**: [Telegram Bot API](https://core.telegram.org/bots/api)
-* **Domain**: Productivity & Education
+**URL:** [https://core.telegram.org/bots/api](https://core.telegram.org/bots/api)
+
+**Interface:** REST API (GET `/bot{token}/sendMessage`).
+
+HTTP portal to dispatch chat messages and manage channels.

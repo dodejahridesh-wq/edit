@@ -1,14 +1,13 @@
 ---
-name: draw_io_cli
-description: >
-  Command-line utility to convert diagram XML files to PNG/PDF.
+title: Draw.io CLI
 ---
 
 # Draw.io CLI
 
-## Overview
-Command-line utility to convert diagram XML files to PNG/PDF.
+**Domain:** Creative & Media
 
-## Integration Info
-* **Official Link**: [Draw.io CLI](https://www.draw.io)
-* **Domain**: Creative & Media
+**URL:** [https://www.draw.io](https://www.draw.io)
+
+**Interface:** CLI (`draw.io` or `drawio` headless app call).
+
+Command-line utility to convert diagram XML files to PNG/PDF.

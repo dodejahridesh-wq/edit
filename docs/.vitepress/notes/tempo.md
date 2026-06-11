@@ -1,14 +1,13 @@
 ---
-name: tempo
-description: >
-  High-scale, low-cost distributed tracing database.
+title: Tempo
 ---
 
 # Tempo
 
-## Overview
-High-scale, low-cost distributed tracing database.
+**Domain:** DevOps & Infrastructure
 
-## Integration Info
-* **Official Link**: [Tempo](https://grafana.com/oss/tempo)
-* **Domain**: DevOps & Infrastructure
+**URL:** [https://grafana.com/oss/tempo](https://grafana.com/oss/tempo)
+
+**Interface:** REST API (trace queries by UUID).
+
+High-scale, low-cost distributed tracing database.

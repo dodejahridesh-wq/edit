@@ -1,14 +1,13 @@
 ---
-name: qdrant
-description: >
-  Rust-based high performance vector search engine with payload filtering.
+title: Qdrant
 ---
 
 # Qdrant
 
-## Overview
-Rust-based high performance vector search engine with payload filtering.
+**Domain:** Data Science & AI/ML
 
-## Integration Info
-* **Official Link**: [Qdrant](https://qdrant.tech)
-* **Domain**: Data Science & AI/ML
+**URL:** [https://qdrant.tech](https://qdrant.tech)
+
+**Interface:** REST API + gRPC interface + Python/Rust SDKs.
+
+Rust-based high performance vector search engine with payload filtering.

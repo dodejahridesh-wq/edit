@@ -1,14 +1,13 @@
 ---
-name: twitch_developer_api
-description: >
-  Retrieving stream states, managing chat rewards, channel configurations.
+title: Twitch Developer API
 ---
 
 # Twitch Developer API
 
-## Overview
-Retrieving stream states, managing chat rewards, channel configurations.
+**Domain:** Gaming & Health
 
-## Integration Info
-* **Official Link**: [Twitch Developer API](https://dev.twitch.tv/docs/api)
-* **Domain**: Gaming & Health
+**URL:** [https://dev.twitch.tv/docs/api](https://dev.twitch.tv/docs/api)
+
+**Interface:** REST API + EventSub Webhooks + IRC chat WebSocket.
+
+Retrieving stream states, managing chat rewards, channel configurations.

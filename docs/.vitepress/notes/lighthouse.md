@@ -1,14 +1,13 @@
 ---
-name: lighthouse
-description: >
-  Rust-based Ethereum consensus layer beacon node.
+title: Lighthouse
 ---
 
 # Lighthouse
 
-## Overview
-Rust-based Ethereum consensus layer beacon node.
+**Domain:** Finance & Blockchain
 
-## Integration Info
-* **Official Link**: [Lighthouse](https://lighthouse.sigmaprime.io)
-* **Domain**: Finance & Blockchain
+**URL:** [https://lighthouse.sigmaprime.io](https://lighthouse.sigmaprime.io)
+
+**Interface:** REST API (Beacon Node specs) + CLI (`lighthouse`).
+
+Rust-based Ethereum consensus layer beacon node.

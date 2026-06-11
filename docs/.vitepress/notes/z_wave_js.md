@@ -1,14 +1,13 @@
 ---
-name: z_wave_js
-description: >
-  Z-Wave network controller driver engine.
+title: Z-Wave JS
 ---
 
 # Z-Wave JS
 
-## Overview
-Z-Wave network controller driver engine.
+**Domain:** GIS & IoT
 
-## Integration Info
-* **Official Link**: [Z-Wave JS](https://zwave-js.github.io/node-zwave-js)
-* **Domain**: GIS & IoT
+**URL:** [https://zwave-js.github.io/node-zwave-js](https://zwave-js.github.io/node-zwave-js)
+
+**Interface:** WebSocket / REST API + Node.js library API.
+
+Z-Wave network controller driver engine.

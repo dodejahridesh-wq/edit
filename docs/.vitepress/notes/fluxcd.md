@@ -1,14 +1,13 @@
 ---
-name: fluxcd
-description: >
-  GitOps continuous delivery tool reconciling git states with Kubernetes clusters.
+title: FluxCD
 ---
 
 # FluxCD
 
-## Overview
-GitOps continuous delivery tool reconciling git states with Kubernetes clusters.
+**Domain:** DevOps & Infrastructure
 
-## Integration Info
-* **Official Link**: [FluxCD](https://fluxcd.io)
-* **Domain**: DevOps & Infrastructure
+**URL:** [https://fluxcd.io](https://fluxcd.io)
+
+**Interface:** CLI (`flux`) + K8s custom resource controllers.
+
+GitOps continuous delivery tool reconciling git states with Kubernetes clusters.

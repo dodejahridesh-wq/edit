@@ -1,14 +1,13 @@
 ---
-name: seldon_core
-description: >
-  Kubernetes model deployment orchestrator managing routing and scaling.
+title: Seldon Core
 ---
 
 # Seldon Core
 
-## Overview
-Kubernetes model deployment orchestrator managing routing and scaling.
+**Domain:** Data Science & AI/ML
 
-## Integration Info
-* **Official Link**: [Seldon Core](https://www.seldon.io)
-* **Domain**: Data Science & AI/ML
+**URL:** [https://www.seldon.io](https://www.seldon.io)
+
+**Interface:** REST/gRPC data plane + K8s Custom Resources.
+
+Kubernetes model deployment orchestrator managing routing and scaling.

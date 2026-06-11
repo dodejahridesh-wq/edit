@@ -1,14 +1,13 @@
 ---
-name: triton_server
-description: >
-  Multi-framework GPU-accelerated model serving engine.
+title: Triton Server
 ---
 
 # Triton Server
 
-## Overview
-Multi-framework GPU-accelerated model serving engine.
+**Domain:** Data Science & AI/ML
 
-## Integration Info
-* **Official Link**: [Triton Server](https://developer.nvidia.com/nvidia-triton-inference-server)
-* **Domain**: Data Science & AI/ML
+**URL:** [https://developer.nvidia.com/nvidia-triton-inference-server](https://developer.nvidia.com/nvidia-triton-inference-server)
+
+**Interface:** gRPC / REST v2 Data Plane endpoints.
+
+Multi-framework GPU-accelerated model serving engine.

@@ -1,14 +1,13 @@
 ---
-name: moralis_api
-description: >
-  Web3 database indexer, balance tracker, and event stream monitor.
+title: Moralis API
 ---
 
 # Moralis API
 
-## Overview
-Web3 database indexer, balance tracker, and event stream monitor.
+**Domain:** Finance & Blockchain
 
-## Integration Info
-* **Official Link**: [Moralis API](https://moralis.io)
-* **Domain**: Finance & Blockchain
+**URL:** [https://moralis.io](https://moralis.io)
+
+**Interface:** REST API (token balances, NFT metadata).
+
+Web3 database indexer, balance tracker, and event stream monitor.

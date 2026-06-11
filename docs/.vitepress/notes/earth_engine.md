@@ -1,14 +1,13 @@
 ---
-name: earth_engine
-description: >
-  Google's planetary-scale environmental datasets analysis platform.
+title: Earth Engine
 ---
 
 # Earth Engine
 
-## Overview
-Google's planetary-scale environmental datasets analysis platform.
+**Domain:** GIS & IoT
 
-## Integration Info
-* **Official Link**: [Earth Engine](https://earthengine.google.com)
-* **Domain**: GIS & IoT
+**URL:** [https://earthengine.google.com](https://earthengine.google.com)
+
+**Interface:** Python / JavaScript SDK APIs (submitting server-side scripts).
+
+Google's planetary-scale environmental datasets analysis platform.

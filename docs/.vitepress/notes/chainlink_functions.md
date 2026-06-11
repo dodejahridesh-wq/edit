@@ -1,14 +1,13 @@
 ---
-name: chainlink_functions
-description: >
-  Decentralized computation oracle running custom serverless code.
+title: Chainlink Functions
 ---
 
 # Chainlink Functions
 
-## Overview
-Decentralized computation oracle running custom serverless code.
+**Domain:** Finance & Blockchain
 
-## Integration Info
-* **Official Link**: [Chainlink Functions](https://docs.chain.link/chainlink-functions)
-* **Domain**: Finance & Blockchain
+**URL:** [https://docs.chain.link/chainlink-functions](https://docs.chain.link/chainlink-functions)
+
+**Interface:** Smart Contracts API (posting JavaScript string queries).
+
+Decentralized computation oracle running custom serverless code.

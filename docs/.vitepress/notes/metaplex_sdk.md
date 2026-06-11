@@ -1,14 +1,13 @@
 ---
-name: metaplex_sdk
-description: >
-  Solana protocol NFT standards minting and operations.
+title: Metaplex SDK
 ---
 
 # Metaplex SDK
 
-## Overview
-Solana protocol NFT standards minting and operations.
+**Domain:** Finance & Blockchain
 
-## Integration Info
-* **Official Link**: [Metaplex SDK](https://www.metaplex.com)
-* **Domain**: Finance & Blockchain
+**URL:** [https://www.metaplex.com](https://www.metaplex.com)
+
+**Interface:** JavaScript SDK + Rust smart contracts API.
+
+Solana protocol NFT standards minting and operations.

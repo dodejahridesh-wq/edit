@@ -200,3 +200,24 @@
 * [Rive Web SDK](https://github.com/rive-app/rive-wasm) - Interactive vector animations runtime web player and integration SDK.
 * [Librosa Python SDK](https://github.com/librosa/librosa) - Python music and audio analysis signal processor library.
 * [PixiJS Web Compiler](https://github.com/pixijs/pixijs) - High-performance WebGL 2D visual assets builder compiler API.
+
+* [Sharp](https://sharp.pixelplumbing.com) - High-performance Node.js image processing library powered by libvips, 4-5x faster than ImageMagick.
+* [Pillow](https://python-pillow.org) - The friendly Python Imaging Library fork for fundamental image manipulation (crop, resize, filter, format conversion).
+* [GIMP Script-Fu / Python-Fu](https://www.gimp.org) - Open-source raster image editor with Python 3 scripting API (GIMP 3.x uses GObject Introspection for full programmatic control).
+* [HandBrake](https://handbrake.fr) - Open-source video transcoder with expert-tuned presets for high-quality encoding to MP4/MKV containers.
+
+* [FFmpeg WebAssembly](https://ffmpegwasm.netlify.app) - Port of FFmpeg in WebAssembly for client-side transcode in browsers.
+* [P5.js](https://p5js.org) - JavaScript canvas library designed for creative visual coding.
+* [GSAP](https://gsap.com) - High-performance HTML5 canvas and SVG browser animation engine.
+* [Vitepress](https://vitepress.dev) - Vite-based Markdown static site generator.
+* [Astro](https://astro.build) - Web framework optimized for content-rich, fast-loading websites.
+* [Tauri](https://tauri.app) - Rust-based desktop/mobile app runtime utilizing system webviews.
+* [Electron](https://www.electronjs.org) - Desktop application framework wrapping Chromium and Node.js.
+* [Lottie Files](https://lottiefiles.com) - JSON-based vector animation format rendering in real-time.
+* [Rive](https://rive.app) - Interactive real-time vector animation engine with state machines.
+* [A-Frame](https://aframe.io) - WebVR 3D HTML frame compiler utilizing Three.js components.
+* [WebXR API](https://immersive-web.github.io) - Browser device API accessing virtual and augmented reality sensors.
+* [Excalidraw](https://excalidraw.com) - Hand-drawn style client-side sketching whiteboard component.
+* [Draw.io CLI](https://www.draw.io) - Command-line utility to convert diagram XML files to PNG/PDF.
+* [Mermaid.js](https://mermaid.js.org) - Markdown-like text syntax parsed into diagrams and flowcharts.
+* [Reveal.js](https://revealjs.com) - HTML presentation framework building slideshows in HTML markup.

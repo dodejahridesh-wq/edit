@@ -1,14 +1,13 @@
 ---
-name: fiona
-description: >
-  Python library reading and writing vector geospatial data files.
+title: Fiona
 ---
 
 # Fiona
 
-## Overview
-Python library reading and writing vector geospatial data files.
+**Domain:** GIS & IoT
 
-## Integration Info
-* **Official Link**: [Fiona](https://fiona.readthedocs.io)
-* **Domain**: GIS & IoT
+**URL:** [https://fiona.readthedocs.io](https://fiona.readthedocs.io)
+
+**Interface:** Python API (`import fiona` wrapping OGR C libraries).
+
+Python library reading and writing vector geospatial data files.

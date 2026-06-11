@@ -1,14 +1,13 @@
 ---
-name: rive
-description: >
-  Interactive real-time vector animation engine with state machines.
+title: Rive
 ---
 
 # Rive
 
-## Overview
-Interactive real-time vector animation engine with state machines.
+**Domain:** Creative & Media
 
-## Integration Info
-* **Official Link**: [Rive](https://rive.app)
-* **Domain**: Creative & Media
+**URL:** [https://rive.app](https://rive.app)
+
+**Interface:** WebGL/Canvas JS API runtime bindings.
+
+Interactive real-time vector animation engine with state machines.

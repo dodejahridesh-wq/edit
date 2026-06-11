@@ -1,14 +1,13 @@
 ---
-name: mastodon_api
-description: >
-  Decentralized microblogging platform client sync.
+title: Mastodon API
 ---
 
 # Mastodon API
 
-## Overview
-Decentralized microblogging platform client sync.
+**Domain:** Productivity & Education
 
-## Integration Info
-* **Official Link**: [Mastodon API](https://docs.joinmastodon.org/api)
-* **Domain**: Productivity & Education
+**URL:** [https://docs.joinmastodon.org/api](https://docs.joinmastodon.org/api)
+
+**Interface:** REST API (OAuth2 authorized GET/POST requests).
+
+Decentralized microblogging platform client sync.

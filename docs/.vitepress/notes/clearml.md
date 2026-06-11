@@ -1,14 +1,13 @@
 ---
-name: clearml
-description: >
-  Auto-tracking ML developer suite, task scheduler, and agent runner.
+title: ClearML
 ---
 
 # ClearML
 
-## Overview
-Auto-tracking ML developer suite, task scheduler, and agent runner.
+**Domain:** Data Science & AI/ML
 
-## Integration Info
-* **Official Link**: [ClearML](https://clear.ml)
-* **Domain**: Data Science & AI/ML
+**URL:** [https://clear.ml](https://clear.ml)
+
+**Interface:** REST API + Python SDK + CLI (`clearml-task`).
+
+Auto-tracking ML developer suite, task scheduler, and agent runner.

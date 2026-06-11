@@ -1,14 +1,13 @@
 ---
-name: istio
-description: >
-  Advanced service mesh for traffic management, policy enforcement, and telemetry.
+title: Istio
 ---
 
 # Istio
 
-## Overview
-Advanced service mesh for traffic management, policy enforcement, and telemetry.
+**Domain:** DevOps & Infrastructure
 
-## Integration Info
-* **Official Link**: [Istio](https://istio.io)
-* **Domain**: DevOps & Infrastructure
+**URL:** [https://istio.io](https://istio.io)
+
+**Interface:** CLI (`istioctl`) + Kubernetes API (Gateway, VirtualService CRDs).
+
+Advanced service mesh for traffic management, policy enforcement, and telemetry.

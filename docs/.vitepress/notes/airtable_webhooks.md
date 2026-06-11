@@ -1,14 +1,13 @@
 ---
-name: airtable_webhooks
-description: >
-  Real-time payload delivery when Airtable records are modified.
+title: Airtable Webhooks
 ---
 
 # Airtable Webhooks
 
-## Overview
-Real-time payload delivery when Airtable records are modified.
+**Domain:** Productivity & Education
 
-## Integration Info
-* **Official Link**: [Airtable Webhooks](https://airtable.com/developers/web/api/webhooks)
-* **Domain**: Productivity & Education
+**URL:** [https://airtable.com/developers/web/api/webhooks](https://airtable.com/developers/web/api/webhooks)
+
+**Interface:** REST API (POST `/bases/{baseId}/webhooks` registration).
+
+Real-time payload delivery when Airtable records are modified.

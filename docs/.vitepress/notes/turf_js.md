@@ -1,14 +1,13 @@
 ---
-name: turf_js
-description: >
-  Client-side JavaScript library executing geospatial mathematical analysis.
+title: Turf.js
 ---
 
 # Turf.js
 
-## Overview
-Client-side JavaScript library executing geospatial mathematical analysis.
+**Domain:** GIS & IoT
 
-## Integration Info
-* **Official Link**: [Turf.js](https://turfjs.org)
-* **Domain**: GIS & IoT
+**URL:** [https://turfjs.org](https://turfjs.org)
+
+**Interface:** JavaScript API (GeoJSON intersections, buffers).
+
+Client-side JavaScript library executing geospatial mathematical analysis.

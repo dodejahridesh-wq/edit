@@ -1,14 +1,13 @@
 ---
-name: pyproj
-description: >
-  Cartographic projections and coordinate system transformations library.
+title: Pyproj
 ---
 
 # Pyproj
 
-## Overview
-Cartographic projections and coordinate system transformations library.
+**Domain:** GIS & IoT
 
-## Integration Info
-* **Official Link**: [Pyproj](https://pyproj4.github.io/pyproj)
-* **Domain**: GIS & IoT
+**URL:** [https://pyproj4.github.io/pyproj](https://pyproj4.github.io/pyproj)
+
+**Interface:** Python API (converting WGS84 coordinates to UTM, EPSG).
+
+Cartographic projections and coordinate system transformations library.

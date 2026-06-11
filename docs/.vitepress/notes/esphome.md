@@ -1,14 +1,13 @@
 ---
-name: esphome
-description: >
-  Declarative YAML-configured firmware builder for ESP8266/ESP32.
+title: ESPHome
 ---
 
 # ESPHome
 
-## Overview
-Declarative YAML-configured firmware builder for ESP8266/ESP32.
+**Domain:** GIS & IoT
 
-## Integration Info
-* **Official Link**: [ESPHome](https://esphome.io)
-* **Domain**: GIS & IoT
+**URL:** [https://esphome.io](https://esphome.io)
+
+**Interface:** CLI (`esphome run device.yaml`) compiling and flashing OTA.
+
+Declarative YAML-configured firmware builder for ESP8266/ESP32.

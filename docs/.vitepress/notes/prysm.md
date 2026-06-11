@@ -1,14 +1,13 @@
 ---
-name: prysm
-description: >
-  Go-based Ethereum consensus layer beacon client.
+title: Prysm
 ---
 
 # Prysm
 
-## Overview
-Go-based Ethereum consensus layer beacon client.
+**Domain:** Finance & Blockchain
 
-## Integration Info
-* **Official Link**: [Prysm](https://prysmaticlabs.com)
-* **Domain**: Finance & Blockchain
+**URL:** [https://prysmaticlabs.com](https://prysmaticlabs.com)
+
+**Interface:** gRPC / REST API + CLI (`prysm`).
+
+Go-based Ethereum consensus layer beacon client.

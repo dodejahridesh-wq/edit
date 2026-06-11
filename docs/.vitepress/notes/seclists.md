@@ -1,14 +1,13 @@
 ---
-name: seclists
-description: >
-  Compilations of security dictionaries, usernames, passwords, and payloads.
+title: SecLists
 ---
 
 # SecLists
 
-## Overview
-Compilations of security dictionaries, usernames, passwords, and payloads.
+**Domain:** Cybersecurity & Privacy
 
-## Integration Info
-* **Official Link**: [SecLists](https://github.com/danielmiessler/SecLists)
-* **Domain**: Cybersecurity & Privacy
+**URL:** [https://github.com/danielmiessler/SecLists](https://github.com/danielmiessler/SecLists)
+
+**Interface:** Local dictionary files (used by crackers like Hydra).
+
+Compilations of security dictionaries, usernames, passwords, and payloads.

@@ -1,14 +1,14 @@
 ---
 name: ethers_js
 description: >
-  Complete JavaScript library for interacting with the Ethereum blockchain.
+  As of 2026, the landscape for Ethereum JavaScript libraries has shifted significantly due to the sunsetting of legacy tools. Below is the current status for developers:
 ---
 
 # ethers.js
 
 ## Overview
-Complete JavaScript library for interacting with the Ethereum blockchain.
+As of 2026, the landscape for Ethereum JavaScript libraries has shifted significantly due to the sunsetting of legacy tools. Below is the current status for developers:
 
 ## Integration Info
-* **Official Link**: [ethers.js](https://docs.ethers.org)
+* **Official Link**: [ethers.js](N/A)
 * **Domain**: Finance & Blockchain

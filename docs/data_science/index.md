@@ -202,3 +202,26 @@
 * [Arize Phoenix SDK](https://github.com/Arize-AI/phoenix) - AI observability library evaluating prompts and LLM traces.
 * [TextSynth API](https://textsynth.com/documentation.html) - REST API serving large language models inference and completion.
 * [Groq Node SDK](https://github.com/groq/groq-node) - Official Node.js library for high-speed Groq LPU inference API.
+
+* [TensorFlow](https://www.tensorflow.org) - End-to-end open-source platform for building and deploying ML models
+* [PyTorch](https://pytorch.org) - Flexible deep learning framework with dynamic computation graphs
+* [scikit-learn](https://scikit-learn.org) - Classical ML library for classification, regression, clustering, and preprocessing
+* [pandas](https://pandas.pydata.org) - De facto standard for tabular data manipulation and analysis in Python
+* [Apache Spark](https://spark.apache.org) - Distributed data processing engine for large-scale analytics and ML pipelines
+* [Polars](https://pola.rs) - Blazing-fast DataFrame library with multithreaded execution, written in Rust
+
+* [Kubeflow](https://www.kubeflow.org) - Machine learning pipeline toolkit orchestrating training jobs on Kubernetes.
+* [BentoML](https://www.bentoml.com) - Unified model packaging and web service serving framework.
+* [Triton Server](https://developer.nvidia.com/nvidia-triton-inference-server) - Multi-framework GPU-accelerated model serving engine.
+* [Seldon Core](https://www.seldon.io) - Kubernetes model deployment orchestrator managing routing and scaling.
+* [Great Expectations](https://greatexpectations.io) - Data quality, validation, profiling, and testing framework.
+* [Feast](https://feast.dev) - High-performance feature store serving ML features to models in real-time.
+* [Featureform](https://www.featureform.com) - Virtual feature store organizing raw data transforms into ML pipelines.
+* [Milvus Lite](https://milvus.io/docs/milvus_lite.md) - Lightweight version of Milvus running directly inside Python scripts.
+* [Qdrant](https://qdrant.tech) - Rust-based high performance vector search engine with payload filtering.
+* [Faiss](https://github.com/facebookresearch/faiss) - Facebook AI library for efficient similarity search of dense vectors.
+* [Scann](https://github.com/google-research/google-research/tree/master/scann) - Google's highly efficient vector nearest neighbor search library.
+* [Comet ML](https://www.comet.com) - ML experiment management, comparisons, and performance graphs dashboard.
+* [ClearML](https://clear.ml) - Auto-tracking ML developer suite, task scheduler, and agent runner.
+* [Neptune.ai](https://neptune.ai) - Metadata store for ML models tracking parameters, code, and graphs.
+* [DeepSpeed](https://www.deepspeed.ai) - Deep learning optimization library enabling 100B+ parameter model training.

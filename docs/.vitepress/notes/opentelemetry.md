@@ -1,14 +1,13 @@
 ---
-name: opentelemetry
-description: >
-  Observability framework providing vendor-neutral APIs, SDKs, and collectors.
+title: OpenTelemetry
 ---
 
 # OpenTelemetry
 
-## Overview
-Observability framework providing vendor-neutral APIs, SDKs, and collectors.
+**Domain:** DevOps & Infrastructure
 
-## Integration Info
-* **Official Link**: [OpenTelemetry](https://opentelemetry.io)
-* **Domain**: DevOps & Infrastructure
+**URL:** [https://opentelemetry.io](https://opentelemetry.io)
+
+**Interface:** OTLP protocol (gRPC/HTTP telemetry push) + Collector CLI.
+
+Observability framework providing vendor-neutral APIs, SDKs, and collectors.

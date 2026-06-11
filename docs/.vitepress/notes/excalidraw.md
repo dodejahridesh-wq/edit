@@ -1,14 +1,13 @@
 ---
-name: excalidraw
-description: >
-  Hand-drawn style client-side sketching whiteboard component.
+title: Excalidraw
 ---
 
 # Excalidraw
 
-## Overview
-Hand-drawn style client-side sketching whiteboard component.
+**Domain:** Creative & Media
 
-## Integration Info
-* **Official Link**: [Excalidraw](https://excalidraw.com)
-* **Domain**: Creative & Media
+**URL:** [https://excalidraw.com](https://excalidraw.com)
+
+**Interface:** React / JavaScript SDK API (retrieving drawing JSON arrays).
+
+Hand-drawn style client-side sketching whiteboard component.

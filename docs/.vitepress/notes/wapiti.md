@@ -1,14 +1,13 @@
 ---
-name: wapiti
-description: >
-  Black-box web application vulnerability auditing tool.
+title: Wapiti
 ---
 
 # Wapiti
 
-## Overview
-Black-box web application vulnerability auditing tool.
+**Domain:** Cybersecurity & Privacy
 
-## Integration Info
-* **Official Link**: [Wapiti](https://wapiti-scanner.github.io)
-* **Domain**: Cybersecurity & Privacy
+**URL:** [https://wapiti-scanner.github.io](https://wapiti-scanner.github.io)
+
+**Interface:** CLI (`wapiti`) emitting HTML/JSON audit logs.
+
+Black-box web application vulnerability auditing tool.

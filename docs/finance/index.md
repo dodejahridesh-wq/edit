@@ -213,3 +213,37 @@
 * [Stripe Core Payments API](https://github.com/stripe/stripe-node) - Stripe charges and payment intents transaction coordinator API.
 * [Coinbase Advanced Trade API](https://github.com/coinbase/coinbase-advanced-py) - Coinbase advanced trading accounts manager developer REST API.
 * [Plaid API Client](https://github.com/plaid/plaid-node) - Financial accounts integration transaction logs manager REST API.
+
+* [Yahoo Finance](N/A) - There is **no official Yahoo Finance REST API** available in 2026. The original public API was discontinued by Yahoo in 2017. Because there is no official documentation, any programmatic access to Yah...
+* [Alpha Vantage](N/A) - As of 2026, Alpha Vantage remains a widely used and stable REST API for financial data, known for its balance of accessibility for hobbyists and data quality for professional/commercial use.
+* [Polygon.io](https://massive.com) - As of late 2025, **Polygon.io has rebranded to Massive.com**. While the service continues to operate and support existing Polygon.io integrations, the primary documentation and API base URLs have tran...
+* [Interactive](N/A) - Interactive Brokers (IBKR) provides two primary, distinct methods for programmatic trading and account management as of 2026: the **TWS API** and the **Client Portal (Web) API**.
+* [Binance](https://developers.binance.com/) - The Binance REST API remains a primary tool for programmatic cryptocurrency trading as of 2025. Binance provides comprehensive documentation and infrastructure to support automated trading across Spot...
+* [PayPal](https://developer.paypal.com/dashboard/) - As of 2026, the **PayPal REST API** remains the primary and recommended standard for new integrations. Older legacy integrations, such as Website Payments Standard (WPS) and NVP/SOAP APIs, are being p...
+* [Razorpay](https://dashboard.razorpay.com/) - To process payments using the Razorpay REST API in India as of 2025, you should follow a server-side integration approach to ensure security. Razorpay’s APIs are RESTful, use JSON for request/response...
+* [Aave](https://docs.aave.com) - For developers working with the Aave protocol in 2025 and 2026, the ecosystem has evolved to include the modular **Aave V4** architecture alongside the widely used **Aave V3**.
+* [Chainlink](N/A) - In 2025, Chainlink remains the industry-standard decentralized oracle platform, serving as the critical connective tissue between blockchain smart contracts and the real world. Its ecosystem has expan...
+* [ethers.js](N/A) - As of 2026, the landscape for Ethereum JavaScript libraries has shifted significantly due to the sunsetting of legacy tools. Below is the current status for developers:
+* [Solana](https://solana-install.solana.workers.dev) - As of 2026, the Solana development ecosystem has matured into a robust, high-performance environment with standardized tooling for both CLI and API interactions.
+* [QuickBooks](https://developer.intuit.com) - To integrate your application with the QuickBooks Online (QBO) Accounting API in 2026, you will primarily work with their REST-based JSON API. Below is a summary of the essential steps and architectur...
+* [Xero](https://developer.xero.com) - For developers building integrations with the Xero API in 2026, the platform continues to provide a robust, RESTful environment for connecting SaaS applications, internal tools, and financial workflow...
+* [TaxJar](https://developers.taxjar.com/api/reference/) - The TaxJar API remains an active, widely used RESTful service for developers in 2026 to handle US-based sales tax calculations, reporting, and filing. Following TaxJars acquisition by Stripe, it conti...
+* [Avalara](https://developer.avalara.com/) - As of 2026, the **Avalara Developer portal** serves as the central hub for developers to access REST APIs, SDKs, and integration tools for end-to-end tax compliance.
+* [Ethereum](N/A) - In 2026, the Ethereum development landscape is highly mature, emphasizing security, scalability, and developer experience. The following tools are considered the industry standard for Solidity smart c...
+* [Web3.js](**Archived**) - Legacy projects only; avoid for new builds[1][2].
+
+* [Geth](https://geth.ethereum.org) - Go-based official client node of the Ethereum blockchain network.
+* [Erigon](https://github.com/ledgerwatch/erigon) - Optimized, high-performance Ethereum node implementation.
+* [Lighthouse](https://lighthouse.sigmaprime.io) - Rust-based Ethereum consensus layer beacon node.
+* [Prysm](https://prysmaticlabs.com) - Go-based Ethereum consensus layer beacon client.
+* [Truffle Suite](https://trufflesuite.com) - Compilation and deployment framework for smart contracts.
+* [Ganache](https://trufflesuite.com/ganache) - Personal Ethereum simulator for quick contract testing.
+* [Web3.py](https://web3py.readthedocs.io) - Python library for Ethereum node JSON-RPC interactions.
+* [Solana Web3](https://solana-labs.github.io/solana-web3.js) - JavaScript library for Solana blockchain RPC node connections.
+* [Anchor Framework](https://www.anchor-lang.com) - Rust-based DSL framework simplifying Solana smart contract development.
+* [Metaplex SDK](https://www.metaplex.com) - Solana protocol NFT standards minting and operations.
+* [Chainlink Functions](https://docs.chain.link/chainlink-functions) - Decentralized computation oracle running custom serverless code.
+* [Moralis API](https://moralis.io) - Web3 database indexer, balance tracker, and event stream monitor.
+* [The Graph](https://thegraph.com) - Subgraph indexing protocol querying blockchain data via GraphQL.
+* [Covalent API](https://www.covalenthq.com) - Unified multi-chain blockchain database indexer.
+* [CoinMarketCap API](https://coinmarketcap.com/api) - Cryptocurrency index and market capitalization data.

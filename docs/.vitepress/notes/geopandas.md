@@ -1,14 +1,13 @@
 ---
-name: geopandas
-description: >
-  Pandas extension supporting GeoSeries geometry columns and spatial joins.
+title: Geopandas
 ---
 
 # Geopandas
 
-## Overview
-Pandas extension supporting GeoSeries geometry columns and spatial joins.
+**Domain:** GIS & IoT
 
-## Integration Info
-* **Official Link**: [Geopandas](https://geopandas.org)
-* **Domain**: GIS & IoT
+**URL:** [https://geopandas.org](https://geopandas.org)
+
+**Interface:** Python API (extends Pandas DataFrame with GeoJSON bounds).
+
+Pandas extension supporting GeoSeries geometry columns and spatial joins.

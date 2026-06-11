@@ -1,14 +1,13 @@
 ---
-name: spacelift
-description: >
-  Collaborative infrastructure delivery platform (GitOps for Terraform, Pulumi, CloudFormation).
+title: Spacelift
 ---
 
 # Spacelift
 
-## Overview
-Collaborative infrastructure delivery platform (GitOps for Terraform, Pulumi, CloudFormation).
+**Domain:** DevOps & Infrastructure
 
-## Integration Info
-* **Official Link**: [Spacelift](https://spacelift.io)
-* **Domain**: DevOps & Infrastructure
+**URL:** [https://spacelift.io](https://spacelift.io)
+
+**Interface:** GraphQL API + CLI (`spacelift`).
+
+Collaborative infrastructure delivery platform (GitOps for Terraform, Pulumi, CloudFormation).

@@ -1,14 +1,13 @@
 ---
-name: erigon
-description: >
-  Optimized, high-performance Ethereum node implementation.
+title: Erigon
 ---
 
 # Erigon
 
-## Overview
-Optimized, high-performance Ethereum node implementation.
+**Domain:** Finance & Blockchain
 
-## Integration Info
-* **Official Link**: [Erigon](https://github.com/ledgerwatch/erigon)
-* **Domain**: Finance & Blockchain
+**URL:** [https://github.com/ledgerwatch/erigon](https://github.com/ledgerwatch/erigon)
+
+**Interface:** JSON-RPC API client endpoints.
+
+Optimized, high-performance Ethereum node implementation.

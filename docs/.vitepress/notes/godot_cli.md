@@ -1,14 +1,13 @@
 ---
-name: godot_cli
-description: >
-  Headless Godot compilations, script testing, and exporting.
+title: Godot CLI
 ---
 
 # Godot CLI
 
-## Overview
-Headless Godot compilations, script testing, and exporting.
+**Domain:** Gaming & Health
 
-## Integration Info
-* **Official Link**: [Godot CLI](https://docs.godotengine.org/en/stable/tutorials/editor/command_line_tutorial.html)
-* **Domain**: Gaming & Health
+**URL:** [https://docs.godotengine.org/en/stable/tutorials/editor/command_line_tutorial.html](https://docs.godotengine.org/en/stable/tutorials/editor/command_line_tutorial.html)
+
+**Interface:** CLI (`godot` passing arguments like `--headless --export-release`).
+
+Headless Godot compilations, script testing, and exporting.

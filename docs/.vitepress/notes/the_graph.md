@@ -1,14 +1,13 @@
 ---
-name: the_graph
-description: >
-  Subgraph indexing protocol querying blockchain data via GraphQL.
+title: The Graph
 ---
 
 # The Graph
 
-## Overview
-Subgraph indexing protocol querying blockchain data via GraphQL.
+**Domain:** Finance & Blockchain
 
-## Integration Info
-* **Official Link**: [The Graph](https://thegraph.com)
-* **Domain**: Finance & Blockchain
+**URL:** [https://thegraph.com](https://thegraph.com)
+
+**Interface:** GraphQL API endpoints querying mapped subgraphs.
+
+Subgraph indexing protocol querying blockchain data via GraphQL.

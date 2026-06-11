@@ -1,14 +1,13 @@
 ---
-name: nextcloud_api
-description: >
-  Self-hosted storage server user management and files sync.
+title: Nextcloud API
 ---
 
 # Nextcloud API
 
-## Overview
-Self-hosted storage server user management and files sync.
+**Domain:** Productivity & Education
 
-## Integration Info
-* **Official Link**: [Nextcloud API](https://docs.nextcloud.com/server/latest/developer_manual)
-* **Domain**: Productivity & Education
+**URL:** [https://docs.nextcloud.com/server/latest/developer_manual](https://docs.nextcloud.com/server/latest/developer_manual)
+
+**Interface:** REST API (OCS Share API) + WebDAV protocol.
+
+Self-hosted storage server user management and files sync.

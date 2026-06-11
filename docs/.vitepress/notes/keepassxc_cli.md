@@ -1,14 +1,13 @@
 ---
-name: keepassxc_cli
-description: >
-  Command-line utility to read and write KeePass password databases.
+title: KeePassXC CLI
 ---
 
 # KeePassXC CLI
 
-## Overview
-Command-line utility to read and write KeePass password databases.
+**Domain:** Cybersecurity & Privacy
 
-## Integration Info
-* **Official Link**: [KeePassXC CLI](https://keepassxc.org)
-* **Domain**: Cybersecurity & Privacy
+**URL:** [https://keepassxc.org](https://keepassxc.org)
+
+**Interface:** CLI (`keepassxc-cli` executing db CRUD).
+
+Command-line utility to read and write KeePass password databases.

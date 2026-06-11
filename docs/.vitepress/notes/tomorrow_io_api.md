@@ -1,14 +1,13 @@
 ---
-name: tomorrow_io_api
-description: >
-  Hyperlocal weather forecasting, precipitation radar.
+title: Tomorrow.io API
 ---
 
 # Tomorrow.io API
 
-## Overview
-Hyperlocal weather forecasting, precipitation radar.
+**Domain:** Gaming & Health
 
-## Integration Info
-* **Official Link**: [Tomorrow.io API](https://www.tomorrow.io/weather-api)
-* **Domain**: Gaming & Health
+**URL:** [https://www.tomorrow.io/weather-api](https://www.tomorrow.io/weather-api)
+
+**Interface:** REST API (GET `/v4/weather/forecast` requiring API Key).
+
+Hyperlocal weather forecasting, precipitation radar.

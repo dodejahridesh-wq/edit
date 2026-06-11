@@ -1,14 +1,13 @@
 ---
-name: great_expectations
-description: >
-  Data quality, validation, profiling, and testing framework.
+title: Great Expectations
 ---
 
 # Great Expectations
 
-## Overview
-Data quality, validation, profiling, and testing framework.
+**Domain:** Data Science & AI/ML
 
-## Integration Info
-* **Official Link**: [Great Expectations](https://greatexpectations.io)
-* **Domain**: Data Science & AI/ML
+**URL:** [https://greatexpectations.io](https://greatexpectations.io)
+
+**Interface:** Python API + CLI (`great_expectations`).
+
+Data quality, validation, profiling, and testing framework.

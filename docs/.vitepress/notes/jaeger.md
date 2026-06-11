@@ -1,14 +1,13 @@
 ---
-name: jaeger
-description: >
-  Open-source distributed tracing system monitoring microservices transactions.
+title: Jaeger
 ---
 
 # Jaeger
 
-## Overview
-Open-source distributed tracing system monitoring microservices transactions.
+**Domain:** DevOps & Infrastructure
 
-## Integration Info
-* **Official Link**: [Jaeger](https://www.jaegertracing.io)
-* **Domain**: DevOps & Infrastructure
+**URL:** [https://www.jaegertracing.io](https://www.jaegertracing.io)
+
+**Interface:** REST/gRPC API (collecting and querying span traces).
+
+Open-source distributed tracing system monitoring microservices transactions.

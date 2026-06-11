@@ -1,14 +1,13 @@
 ---
-name: trello_webhooks
-description: >
-  Callback payloads triggered by board transitions.
+title: Trello Webhooks
 ---
 
 # Trello Webhooks
 
-## Overview
-Callback payloads triggered by board transitions.
+**Domain:** Productivity & Education
 
-## Integration Info
-* **Official Link**: [Trello Webhooks](https://developer.atlassian.com/cloud/trello/guides/webhooks)
-* **Domain**: Productivity & Education
+**URL:** [https://developer.atlassian.com/cloud/trello/guides/webhooks](https://developer.atlassian.com/cloud/trello/guides/webhooks)
+
+**Interface:** REST API (POST `/webhooks` registration).
+
+Callback payloads triggered by board transitions.

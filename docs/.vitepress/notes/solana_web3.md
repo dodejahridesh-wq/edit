@@ -1,14 +1,13 @@
 ---
-name: solana_web3
-description: >
-  JavaScript library for Solana blockchain RPC node connections.
+title: Solana Web3
 ---
 
 # Solana Web3
 
-## Overview
-JavaScript library for Solana blockchain RPC node connections.
+**Domain:** Finance & Blockchain
 
-## Integration Info
-* **Official Link**: [Solana Web3](https://solana-labs.github.io/solana-web3.js)
-* **Domain**: Finance & Blockchain
+**URL:** [https://solana-labs.github.io/solana-web3.js](https://solana-labs.github.io/solana-web3.js)
+
+**Interface:** JavaScript SDK (Connection, Transaction classes).
+
+JavaScript library for Solana blockchain RPC node connections.

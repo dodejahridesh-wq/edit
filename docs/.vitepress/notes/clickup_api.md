@@ -1,14 +1,13 @@
 ---
-name: clickup_api
-description: >
-  Workspace task tracking, sprint management, time tracking.
+title: ClickUp API
 ---
 
 # ClickUp API
 
-## Overview
-Workspace task tracking, sprint management, time tracking.
+**Domain:** Productivity & Education
 
-## Integration Info
-* **Official Link**: [ClickUp API](https://clickup.com/api)
-* **Domain**: Productivity & Education
+**URL:** [https://clickup.com/api](https://clickup.com/api)
+
+**Interface:** REST API (Bearer token authorized JSON endpoints).
+
+Workspace task tracking, sprint management, time tracking.

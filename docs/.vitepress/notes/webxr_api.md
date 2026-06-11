@@ -1,14 +1,13 @@
 ---
-name: webxr_api
-description: >
-  Browser device API accessing virtual and augmented reality sensors.
+title: WebXR API
 ---
 
 # WebXR API
 
-## Overview
-Browser device API accessing virtual and augmented reality sensors.
+**Domain:** Creative & Media
 
-## Integration Info
-* **Official Link**: [WebXR API](https://immersive-web.github.io)
-* **Domain**: Creative & Media
+**URL:** [https://immersive-web.github.io](https://immersive-web.github.io)
+
+**Interface:** Web browser navigator JavaScript API (`navigator.xr`).
+
+Browser device API accessing virtual and augmented reality sensors.

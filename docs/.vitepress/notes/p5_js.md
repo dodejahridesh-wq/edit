@@ -1,14 +1,13 @@
 ---
-name: p5_js
-description: >
-  JavaScript canvas library designed for creative visual coding.
+title: P5.js
 ---
 
 # P5.js
 
-## Overview
-JavaScript canvas library designed for creative visual coding.
+**Domain:** Creative & Media
 
-## Integration Info
-* **Official Link**: [P5.js](https://p5js.org)
-* **Domain**: Creative & Media
+**URL:** [https://p5js.org](https://p5js.org)
+
+**Interface:** JavaScript browser drawing loops APIs.
+
+JavaScript canvas library designed for creative visual coding.

@@ -1,14 +1,13 @@
 ---
-name: pdal
-description: >
-  Abstraction library processing point cloud data (LiDAR scanning files).
+title: PDAL
 ---
 
 # PDAL
 
-## Overview
-Abstraction library processing point cloud data (LiDAR scanning files).
+**Domain:** GIS & IoT
 
-## Integration Info
-* **Official Link**: [PDAL](https://pdal.io)
-* **Domain**: GIS & IoT
+**URL:** [https://pdal.io](https://pdal.io)
+
+**Interface:** CLI (`pdal`) + JSON pipeline translation.
+
+Abstraction library processing point cloud data (LiDAR scanning files).

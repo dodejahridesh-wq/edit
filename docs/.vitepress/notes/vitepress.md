@@ -1,14 +1,13 @@
 ---
-name: vitepress
-description: >
-  Vite-based Markdown static site generator.
+title: Vitepress
 ---
 
 # Vitepress
 
-## Overview
-Vite-based Markdown static site generator.
+**Domain:** Creative & Media
 
-## Integration Info
-* **Official Link**: [Vitepress](https://vitepress.dev)
-* **Domain**: Creative & Media
+**URL:** [https://vitepress.dev](https://vitepress.dev)
+
+**Interface:** CLI (`vitepress build`, `vitepress dev`).
+
+Vite-based Markdown static site generator.

@@ -1,14 +1,13 @@
 ---
-name: kubeflow
-description: >
-  Machine learning pipeline toolkit orchestrating training jobs on Kubernetes.
+title: Kubeflow
 ---
 
 # Kubeflow
 
-## Overview
-Machine learning pipeline toolkit orchestrating training jobs on Kubernetes.
+**Domain:** Data Science & AI/ML
 
-## Integration Info
-* **Official Link**: [Kubeflow](https://www.kubeflow.org)
-* **Domain**: Data Science & AI/ML
+**URL:** [https://www.kubeflow.org](https://www.kubeflow.org)
+
+**Interface:** REST API + pipelines SDK + dashboard UI.
+
+Machine learning pipeline toolkit orchestrating training jobs on Kubernetes.

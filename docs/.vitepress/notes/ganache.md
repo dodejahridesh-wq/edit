@@ -1,14 +1,13 @@
 ---
-name: ganache
-description: >
-  Personal Ethereum simulator for quick contract testing.
+title: Ganache
 ---
 
 # Ganache
 
-## Overview
-Personal Ethereum simulator for quick contract testing.
+**Domain:** Finance & Blockchain
 
-## Integration Info
-* **Official Link**: [Ganache](https://trufflesuite.com/ganache)
-* **Domain**: Finance & Blockchain
+**URL:** [https://trufflesuite.com/ganache](https://trufflesuite.com/ganache)
+
+**Interface:** JSON-RPC REST API + CLI (`ganache-cli`).
+
+Personal Ethereum simulator for quick contract testing.

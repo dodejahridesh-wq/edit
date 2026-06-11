@@ -1,14 +1,13 @@
 ---
-name: baserow_api
-description: >
-  Open-source database table rows sync.
+title: Baserow API
 ---
 
 # Baserow API
 
-## Overview
-Open-source database table rows sync.
+**Domain:** Productivity & Education
 
-## Integration Info
-* **Official Link**: [Baserow API](https://baserow.io/api-docs)
-* **Domain**: Productivity & Education
+**URL:** [https://baserow.io/api-docs](https://baserow.io/api-docs)
+
+**Interface:** REST API (Bearer token authorized JSON endpoints).
+
+Open-source database table rows sync.

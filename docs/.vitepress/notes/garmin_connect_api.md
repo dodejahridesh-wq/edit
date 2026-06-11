@@ -1,14 +1,13 @@
 ---
-name: garmin_connect_api
-description: >
-  Enterprise activity logs, wellness tracking sync.
+title: Garmin Connect API
 ---
 
 # Garmin Connect API
 
-## Overview
-Enterprise activity logs, wellness tracking sync.
+**Domain:** Gaming & Health
 
-## Integration Info
-* **Official Link**: [Garmin Connect API](https://developer.garmin.com/gc-developer-program)
-* **Domain**: Gaming & Health
+**URL:** [https://developer.garmin.com/gc-developer-program](https://developer.garmin.com/gc-developer-program)
+
+**Interface:** REST API (Webhook delivery, requires approval).
+
+Enterprise activity logs, wellness tracking sync.

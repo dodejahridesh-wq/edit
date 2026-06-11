@@ -1,14 +1,13 @@
 ---
-name: reveal_js
-description: >
-  HTML presentation framework building slideshows in HTML markup.
+title: Reveal.js
 ---
 
 # Reveal.js
 
-## Overview
-HTML presentation framework building slideshows in HTML markup.
+**Domain:** Creative & Media
 
-## Integration Info
-* **Official Link**: [Reveal.js](https://revealjs.com)
-* **Domain**: Creative & Media
+**URL:** [https://revealjs.com](https://revealjs.com)
+
+**Interface:** JavaScript slider controller configuration API.
+
+HTML presentation framework building slideshows in HTML markup.

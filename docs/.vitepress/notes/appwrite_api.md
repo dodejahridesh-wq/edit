@@ -1,14 +1,13 @@
 ---
-name: appwrite_api
-description: >
-  Self-hosted backend-as-a-service database, users, and functions.
+title: Appwrite API
 ---
 
 # Appwrite API
 
-## Overview
-Self-hosted backend-as-a-service database, users, and functions.
+**Domain:** Productivity & Education
 
-## Integration Info
-* **Official Link**: [Appwrite API](https://appwrite.io/docs)
-* **Domain**: Productivity & Education
+**URL:** [https://appwrite.io/docs](https://appwrite.io/docs)
+
+**Interface:** REST / WebSockets API + Client/Server SDKs.
+
+Self-hosted backend-as-a-service database, users, and functions.

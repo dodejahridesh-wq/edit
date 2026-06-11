@@ -1,14 +1,13 @@
 ---
-name: web3_py
-description: >
-  Python library for Ethereum node JSON-RPC interactions.
+title: Web3.py
 ---
 
 # Web3.py
 
-## Overview
-Python library for Ethereum node JSON-RPC interactions.
+**Domain:** Finance & Blockchain
 
-## Integration Info
-* **Official Link**: [Web3.py](https://web3py.readthedocs.io)
-* **Domain**: Finance & Blockchain
+**URL:** [https://web3py.readthedocs.io](https://web3py.readthedocs.io)
+
+**Interface:** Python SDK (`from web3 import Web3`).
+
+Python library for Ethereum node JSON-RPC interactions.

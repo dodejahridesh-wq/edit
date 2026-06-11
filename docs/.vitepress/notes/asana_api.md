@@ -1,14 +1,13 @@
 ---
-name: asana_api
-description: >
-  Project tasks creation, milestones tracking, team updates.
+title: Asana API
 ---
 
 # Asana API
 
-## Overview
-Project tasks creation, milestones tracking, team updates.
+**Domain:** Productivity & Education
 
-## Integration Info
-* **Official Link**: [Asana API](https://developers.asana.com)
-* **Domain**: Productivity & Education
+**URL:** [https://developers.asana.com](https://developers.asana.com)
+
+**Interface:** REST API (OAuth2 / Personal Access Tokens).
+
+Project tasks creation, milestones tracking, team updates.

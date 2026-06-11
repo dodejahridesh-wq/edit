@@ -1,14 +1,13 @@
 ---
-name: tekton
-description: >
-  Kubernetes-native declarative CI/CD pipeline building blocks.
+title: Tekton
 ---
 
 # Tekton
 
-## Overview
-Kubernetes-native declarative CI/CD pipeline building blocks.
+**Domain:** DevOps & Infrastructure
 
-## Integration Info
-* **Official Link**: [Tekton](https://tekton.dev)
-* **Domain**: DevOps & Infrastructure
+**URL:** [https://tekton.dev](https://tekton.dev)
+
+**Interface:** Kubernetes API Server (TaskRuns/PipelineRuns CRDs) + CLI (`tkn`).
+
+Kubernetes-native declarative CI/CD pipeline building blocks.

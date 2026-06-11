@@ -1,14 +1,13 @@
 ---
-name: bitwarden_cli
-description: >
-  Vault management commands wrapping the Bitwarden platform.
+title: Bitwarden CLI
 ---
 
 # Bitwarden CLI
 
-## Overview
-Vault management commands wrapping the Bitwarden platform.
+**Domain:** Cybersecurity & Privacy
 
-## Integration Info
-* **Official Link**: [Bitwarden CLI](https://bitwarden.com/help/cli)
-* **Domain**: Cybersecurity & Privacy
+**URL:** [https://bitwarden.com/help/cli](https://bitwarden.com/help/cli)
+
+**Interface:** CLI (`bw` executing login, unlock, and retrieve).
+
+Vault management commands wrapping the Bitwarden platform.

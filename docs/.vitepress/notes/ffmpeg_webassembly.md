@@ -1,14 +1,13 @@
 ---
-name: ffmpeg_webassembly
-description: >
-  Port of FFmpeg in WebAssembly for client-side transcode in browsers.
+title: FFmpeg WebAssembly
 ---
 
 # FFmpeg WebAssembly
 
-## Overview
-Port of FFmpeg in WebAssembly for client-side transcode in browsers.
+**Domain:** Creative & Media
 
-## Integration Info
-* **Official Link**: [FFmpeg WebAssembly](https://ffmpegwasm.netlify.app)
-* **Domain**: Creative & Media
+**URL:** [https://ffmpegwasm.netlify.app](https://ffmpegwasm.netlify.app)
+
+**Interface:** JavaScript Web API (executing virtual filesystem commands).
+
+Port of FFmpeg in WebAssembly for client-side transcode in browsers.

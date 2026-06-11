@@ -1,14 +1,13 @@
 ---
-name: spacex_api
-description: >
-  Open-source REST API for SpaceX rocket launch telemetry.
+title: SpaceX API
 ---
 
 # SpaceX API
 
-## Overview
-Open-source REST API for SpaceX rocket launch telemetry.
+**Domain:** Gaming & Health
 
-## Integration Info
-* **Official Link**: [SpaceX API](https://github.com/r-spacex/SpaceX-API)
-* **Domain**: Gaming & Health
+**URL:** [https://github.com/r-spacex/SpaceX-API](https://github.com/r-spacex/SpaceX-API)
+
+**Interface:** REST API (GET `/v4/launches/latest`, etc.).
+
+Open-source REST API for SpaceX rocket launch telemetry.

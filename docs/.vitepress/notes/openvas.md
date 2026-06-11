@@ -1,14 +1,13 @@
 ---
-name: openvas
-description: >
-  Greenbone-backed vulnerability scanner for comprehensive network audits.
+title: OpenVAS
 ---
 
 # OpenVAS
 
-## Overview
-Greenbone-backed vulnerability scanner for comprehensive network audits.
+**Domain:** Cybersecurity & Privacy
 
-## Integration Info
-* **Official Link**: [OpenVAS](https://www.openvas.org)
-* **Domain**: Cybersecurity & Privacy
+**URL:** [https://www.openvas.org](https://www.openvas.org)
+
+**Interface:** Greenbone Management Protocol (GMP) via XML/REST.
+
+Greenbone-backed vulnerability scanner for comprehensive network audits.

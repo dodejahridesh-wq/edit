@@ -1,14 +1,13 @@
 ---
-name: clamav
-description: >
-  Open-source antivirus engine detecting trojans, viruses, and malware.
+title: ClamAV
 ---
 
 # ClamAV
 
-## Overview
-Open-source antivirus engine detecting trojans, viruses, and malware.
+**Domain:** Cybersecurity & Privacy
 
-## Integration Info
-* **Official Link**: [ClamAV](https://www.clamav.net)
-* **Domain**: Cybersecurity & Privacy
+**URL:** [https://www.clamav.net](https://www.clamav.net)
+
+**Interface:** CLI (`clamscan`, `freshclam`) + daemon sockets.
+
+Open-source antivirus engine detecting trojans, viruses, and malware.

@@ -1,14 +1,13 @@
 ---
-name: openemr_api
-description: >
-  Electronic medical records patient database CRUD.
+title: OpenEMR API
 ---
 
 # OpenEMR API
 
-## Overview
-Electronic medical records patient database CRUD.
+**Domain:** Gaming & Health
 
-## Integration Info
-* **Official Link**: [OpenEMR API](https://www.open-emr.org/wiki/index.php/OpenEMR_API)
-* **Domain**: Gaming & Health
+**URL:** [https://www.open-emr.org/wiki/index.php/OpenEMR_API](https://www.open-emr.org/wiki/index.php/OpenEMR_API)
+
+**Interface:** REST API (OAuth2 / FHIR compatible JSON endpoints).
+
+Electronic medical records patient database CRUD.

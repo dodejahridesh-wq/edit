@@ -1,14 +1,13 @@
 ---
-name: zigbee2mqtt
-description: >
-  Zigbee devices controller bridging telemetry logs to MQTT brokers.
+title: Zigbee2MQTT
 ---
 
 # Zigbee2MQTT
 
-## Overview
-Zigbee devices controller bridging telemetry logs to MQTT brokers.
+**Domain:** GIS & IoT
 
-## Integration Info
-* **Official Link**: [Zigbee2MQTT](https://www.zigbee2mqtt.io)
-* **Domain**: GIS & IoT
+**URL:** [https://www.zigbee2mqtt.io](https://www.zigbee2mqtt.io)
+
+**Interface:** MQTT protocol (device updates publish to `zigbee2mqtt/device_name`).
+
+Zigbee devices controller bridging telemetry logs to MQTT brokers.

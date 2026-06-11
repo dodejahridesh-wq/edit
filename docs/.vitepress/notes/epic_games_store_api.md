@@ -1,14 +1,13 @@
 ---
-name: epic_games_store_api
-description: >
-  Marketplace catalog items retrieval, purchasing verifications.
+title: Epic Games Store API
 ---
 
 # Epic Games Store API
 
-## Overview
-Marketplace catalog items retrieval, purchasing verifications.
+**Domain:** Gaming & Health
 
-## Integration Info
-* **Official Link**: [Epic Games Store API](https://dev.epicgames.com/docs/web-api-ref)
-* **Domain**: Gaming & Health
+**URL:** [https://dev.epicgames.com/docs/web-api-ref](https://dev.epicgames.com/docs/web-api-ref)
+
+**Interface:** REST API (OAuth2 authorized client endpoints).
+
+Marketplace catalog items retrieval, purchasing verifications.

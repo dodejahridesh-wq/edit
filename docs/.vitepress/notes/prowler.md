@@ -1,14 +1,13 @@
 ---
-name: prowler
-description: >
-  Cloud security posture management tool for AWS/GCP/Azure compliance.
+title: Prowler
 ---
 
 # Prowler
 
-## Overview
-Cloud security posture management tool for AWS/GCP/Azure compliance.
+**Domain:** Cybersecurity & Privacy
 
-## Integration Info
-* **Official Link**: [Prowler](https://prowler.com)
-* **Domain**: Cybersecurity & Privacy
+**URL:** [https://prowler.com](https://prowler.com)
+
+**Interface:** CLI (`prowler`) outputting CSV/JSON audit logs.
+
+Cloud security posture management tool for AWS/GCP/Azure compliance.

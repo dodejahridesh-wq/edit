@@ -1,14 +1,13 @@
 ---
-name: featureform
-description: >
-  Virtual feature store organizing raw data transforms into ML pipelines.
+title: Featureform
 ---
 
 # Featureform
 
-## Overview
-Virtual feature store organizing raw data transforms into ML pipelines.
+**Domain:** Data Science & AI/ML
 
-## Integration Info
-* **Official Link**: [Featureform](https://www.featureform.com)
-* **Domain**: Data Science & AI/ML
+**URL:** [https://www.featureform.com](https://www.featureform.com)
+
+**Interface:** Python SDK + CLI (`featureform`).
+
+Virtual feature store organizing raw data transforms into ML pipelines.

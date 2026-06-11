@@ -213,3 +213,37 @@
 * [Spiderfoot CLI](https://github.com/smicallef/spiderfoot) - OSINT automation scanner compiling domains intelligence reports.
 * [Gophish API](https://github.com/gophish/gophish) - Open-source phishing training simulation manager REST API.
 * [Ransomwatch API](https://github.com/joshhighet/ransomwatch) - Cyber security threat intelligence API tracking ransomware leaks sites.
+
+* [Nuclei](https://projectdiscovery.io) - **Nuclei** is a fast, open-source vulnerability scanner developed and maintained by **ProjectDiscovery**. It is primarily designed as a command-line interface (CLI) tool used by security professionals...
+* [Trivy](https://trivy.dev) - Trivy is an open-source security scanner maintained by **Aqua Security**. It is widely used for scanning containers, Kubernetes clusters, code repositories, and cloud deployments for vulnerabilities, ...
+* [OpenSSL](https://www.openssl.org) - The official website for the OpenSSL project is **[www.openssl.org](https://www.openssl.org)**. OpenSSL is a robust, commercial-grade, open-source toolkit used for secure communication and general-pur...
+* [GPG](https://gnupg.org) - The official website for **GnuPG (The GNU Privacy Guard)** is **[gnupg.org](https://gnupg.org)**.
+* [Let's Encrypt](https://acme-v02.api.letsencrypt.org/directory`[14) - To automate SSL/TLS certificate management with Lets Encrypt, you do not interact with a traditional web interface for certificate issuance; instead, you use the **ACME protocol** (Automatic Certifica...
+* [age](https://github.com/FiloSottile/age) - The official repository and primary source for the **age** encryption tool is maintained by Filippo Valsorda on GitHub: *   **Official GitHub Repository:** [https://github.com/FiloSottile/age](https:/...
+* [Keycloak](https://www.keycloak.org/) - Keycloak is a leading **open-source Identity and Access Management (IAM)** solution designed to provide modern applications and services with single sign-on (SSO), authentication, and authorization.
+* [Auth0](https://auth0.com) - Auth0 is an identity and access management (IAM) platform that provides secure authentication and authorization services for applications and APIs.
+* [Wireshark](https://www.wireshark.org) - The official website for Wireshark and its command-line companion, **TShark**, is **[https://www.wireshark.org](https://www.wireshark.org)**.
+* [pfSense](N/A) - For information regarding the pfSense REST API, CLI, and firewall security, please see the details below.
+* [SOPS](https://github.com/getsops/sops) - SOPS (Secrets OPerationS) is a powerful, open-source command-line tool used for managing and encrypting secrets in configuration files. Originally developed at Mozilla, it was donated to the **Cloud N...
+* [Doppler](https://www.doppler.com/) - You can find the official Doppler resources at the following links:
+* [VirusTotal](https://docs.virustotal.com/reference/overview) - The official VirusTotal API documentation and developer resources can be found at the **[VirusTotal API Developer Reference](https://docs.virustotal.com/reference/overview)**.
+* [AbuseIPDB](https://www.abuseipdb.com/) - AbuseIPDB provides a robust REST API designed to help webmasters, system administrators, and security professionals identify and report IP addresses associated with malicious activity.
+* [Elastic](https://www.elastic.co/security/siem) - Elastic Security SIEM is a component of the Elastic Stack. You can find official information, documentation, and resources at the following locations:
+* [Splunk](https://docs.splunk.com) - Splunk is a powerful data platform widely used for **log management** and as a **Security Information and Event Management (SIEM)** solution. It allows organizations to collect, index, search, and ana...
+* [Wazuh](https://wazuh.com) - Wazuh is a free, **open-source security platform** that unifies **SIEM** (Security Information and Event Management) and **XDR** (Extended Detection and Response) capabilities. It provides threat dete...
+
+* [Kube-hunter](https://kube-hunter.aquasec.com) - Security vulnerability scanner checking Kubernetes clusters.
+* [Falco](https://falco.org) - Kubernetes-native container runtime security threat detector.
+* [Aqua Scan](https://www.aquasec.com/products/container-security) - Vulnerability scanning and compliance analysis for container files.
+* [ClamAV](https://www.clamav.net) - Open-source antivirus engine detecting trojans, viruses, and malware.
+* [DefectDojo](https://www.defectdojo.org) - AppSec vulnerability tracking database and automation coordinator.
+* [Wapiti](https://wapiti-scanner.github.io) - Black-box web application vulnerability auditing tool.
+* [Nikto](https://cirt.net/Nikto2) - Web server scanner checking for dangerous files and configurations.
+* [Sqlmap](https://sqlmap.org) - Automatic SQL injection detector and database takeover framework.
+* [OpenVAS](https://www.openvas.org) - Greenbone-backed vulnerability scanner for comprehensive network audits.
+* [Prowler](https://prowler.com) - Cloud security posture management tool for AWS/GCP/Azure compliance.
+* [Scout Suite](https://github.com/nccgroup/ScoutSuite) - Multi-cloud security auditing tool for configurations assessment.
+* [KeePassXC CLI](https://keepassxc.org) - Command-line utility to read and write KeePass password databases.
+* [Bitwarden CLI](https://bitwarden.com/help/cli) - Vault management commands wrapping the Bitwarden platform.
+* [SecLists](https://github.com/danielmiessler/SecLists) - Compilations of security dictionaries, usernames, passwords, and payloads.
+* [CyberChef](https://gchq.github.io/CyberChef) - Web-based cyber operations utility for decoding, hashing, and encoding.

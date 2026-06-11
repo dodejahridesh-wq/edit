@@ -1,14 +1,13 @@
 ---
-name: todoist_api
-description: >
-  Personal task creation, labels and filters retrieval.
+title: Todoist API
 ---
 
 # Todoist API
 
-## Overview
-Personal task creation, labels and filters retrieval.
+**Domain:** Productivity & Education
 
-## Integration Info
-* **Official Link**: [Todoist API](https://developer.todoist.com/rest/v2)
-* **Domain**: Productivity & Education
+**URL:** [https://developer.todoist.com/rest/v2](https://developer.todoist.com/rest/v2)
+
+**Interface:** REST API (Bear token authorized JSON endpoints).
+
+Personal task creation, labels and filters retrieval.

@@ -1,14 +1,13 @@
 ---
-name: geth
-description: >
-  Go-based official client node of the Ethereum blockchain network.
+title: Geth
 ---
 
 # Geth
 
-## Overview
-Go-based official client node of the Ethereum blockchain network.
+**Domain:** Finance & Blockchain
 
-## Integration Info
-* **Official Link**: [Geth](https://geth.ethereum.org)
-* **Domain**: Finance & Blockchain
+**URL:** [https://geth.ethereum.org](https://geth.ethereum.org)
+
+**Interface:** JSON-RPC API over HTTP/WebSockets + CLI (`geth`).
+
+Go-based official client node of the Ethereum blockchain network.

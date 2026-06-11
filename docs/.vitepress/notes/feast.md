@@ -1,14 +1,13 @@
 ---
-name: feast
-description: >
-  High-performance feature store serving ML features to models in real-time.
+title: Feast
 ---
 
 # Feast
 
-## Overview
-High-performance feature store serving ML features to models in real-time.
+**Domain:** Data Science & AI/ML
 
-## Integration Info
-* **Official Link**: [Feast](https://feast.dev)
-* **Domain**: Data Science & AI/ML
+**URL:** [https://feast.dev](https://feast.dev)
+
+**Interface:** Python/Java SDK APIs + CLI (`feast`).
+
+High-performance feature store serving ML features to models in real-time.

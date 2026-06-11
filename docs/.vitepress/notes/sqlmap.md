@@ -1,14 +1,13 @@
 ---
-name: sqlmap
-description: >
-  Automatic SQL injection detector and database takeover framework.
+title: Sqlmap
 ---
 
 # Sqlmap
 
-## Overview
-Automatic SQL injection detector and database takeover framework.
+**Domain:** Cybersecurity & Privacy
 
-## Integration Info
-* **Official Link**: [Sqlmap](https://sqlmap.org)
-* **Domain**: Cybersecurity & Privacy
+**URL:** [https://sqlmap.org](https://sqlmap.org)
+
+**Interface:** CLI (`sqlmap`) + REST API server wrapper (`sqlmapapi.py`).
+
+Automatic SQL injection detector and database takeover framework.

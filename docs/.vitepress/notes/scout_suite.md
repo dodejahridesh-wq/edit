@@ -1,14 +1,13 @@
 ---
-name: scout_suite
-description: >
-  Multi-cloud security auditing tool for configurations assessment.
+title: Scout Suite
 ---
 
 # Scout Suite
 
-## Overview
-Multi-cloud security auditing tool for configurations assessment.
+**Domain:** Cybersecurity & Privacy
 
-## Integration Info
-* **Official Link**: [Scout Suite](https://github.com/nccgroup/ScoutSuite)
-* **Domain**: Cybersecurity & Privacy
+**URL:** [https://github.com/nccgroup/ScoutSuite](https://github.com/nccgroup/ScoutSuite)
+
+**Interface:** CLI (`scout`) generating a static HTML dashboard.
+
+Multi-cloud security auditing tool for configurations assessment.

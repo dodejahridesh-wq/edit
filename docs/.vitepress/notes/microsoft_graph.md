@@ -1,14 +1,14 @@
 ---
 name: microsoft_graph
 description: >
-  Single unified REST API accessing MS 365 services (mail, calendars, OneDrive).
+  The official documentation for the **Microsoft Graph REST API** can be found at the **[Microsoft Graph Dev Center](https://learn.microsoft.com/en-us/graph/)**.
 ---
 
 # Microsoft Graph
 
 ## Overview
-Single unified REST API accessing MS 365 services (mail, calendars, OneDrive).
+The official documentation for the **Microsoft Graph REST API** can be found at the **[Microsoft Graph Dev Center](https://learn.microsoft.com/en-us/graph/)**.
 
 ## Integration Info
-* **Official Link**: [Microsoft Graph](https://learn.microsoft.com/en-us/graph/api/overview)
+* **Official Link**: [Microsoft Graph](https://learn.microsoft.com/en-us/graph/)
 * **Domain**: Productivity & Education

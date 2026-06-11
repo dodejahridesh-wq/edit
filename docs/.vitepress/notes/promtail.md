@@ -1,14 +1,13 @@
 ---
-name: promtail
-description: >
-  Local agent shipping system logs to a centralized Loki instance.
+title: Promtail
 ---
 
 # Promtail
 
-## Overview
-Local agent shipping system logs to a centralized Loki instance.
+**Domain:** DevOps & Infrastructure
 
-## Integration Info
-* **Official Link**: [Promtail](https://grafana.com/docs/loki/latest/send-data/promtail)
-* **Domain**: DevOps & Infrastructure
+**URL:** [https://grafana.com/docs/loki/latest/send-data/promtail](https://grafana.com/docs/loki/latest/send-data/promtail)
+
+**Interface:** CLI + YAML configuration file.
+
+Local agent shipping system logs to a centralized Loki instance.

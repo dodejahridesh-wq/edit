@@ -1,14 +1,13 @@
 ---
-name: sentinel_batch
-description: >
-  Large-scale clipping and mosaic generation of earth images.
+title: Sentinel Batch
 ---
 
 # Sentinel Batch
 
-## Overview
-Large-scale clipping and mosaic generation of earth images.
+**Domain:** GIS & IoT
 
-## Integration Info
-* **Official Link**: [Sentinel Batch](https://docs.sentinel-hub.com/api/latest/api/batch-processing/)
-* **Domain**: GIS & IoT
+**URL:** [https://docs.sentinel-hub.com/api/latest/api/batch-processing/](https://docs.sentinel-hub.com/api/latest/api/batch-processing/)
+
+**Interface:** REST API (POST creating batch analysis jobs).
+
+Large-scale clipping and mosaic generation of earth images.

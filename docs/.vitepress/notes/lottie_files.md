@@ -1,14 +1,13 @@
 ---
-name: lottie_files
-description: >
-  JSON-based vector animation format rendering in real-time.
+title: Lottie Files
 ---
 
 # Lottie Files
 
-## Overview
-JSON-based vector animation format rendering in real-time.
+**Domain:** Creative & Media
 
-## Integration Info
-* **Official Link**: [Lottie Files](https://lottiefiles.com)
-* **Domain**: Creative & Media
+**URL:** [https://lottiefiles.com](https://lottiefiles.com)
+
+**Interface:** Web Player JavaScript API (parsing JSON animation files).
+
+JSON-based vector animation format rendering in real-time.

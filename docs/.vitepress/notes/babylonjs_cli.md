@@ -1,14 +1,13 @@
 ---
-name: babylonjs_cli
-description: >
-  Web 3D build configurations and mesh packaging.
+title: BabylonJS CLI
 ---
 
 # BabylonJS CLI
 
-## Overview
-Web 3D build configurations and mesh packaging.
+**Domain:** Gaming & Health
 
-## Integration Info
-* **Official Link**: [BabylonJS CLI](https://github.com/BabylonJS/Babylon.js)
-* **Domain**: Gaming & Health
+**URL:** [https://github.com/BabylonJS/Babylon.js](https://github.com/BabylonJS/Babylon.js)
+
+**Interface:** CLI (`npx babylonjs` helpers).
+
+Web 3D build configurations and mesh packaging.

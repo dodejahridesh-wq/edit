@@ -1,14 +1,13 @@
 ---
-name: falco
-description: >
-  Kubernetes-native container runtime security threat detector.
+title: Falco
 ---
 
 # Falco
 
-## Overview
-Kubernetes-native container runtime security threat detector.
+**Domain:** Cybersecurity & Privacy
 
-## Integration Info
-* **Official Link**: [Falco](https://falco.org)
-* **Domain**: Cybersecurity & Privacy
+**URL:** [https://falco.org](https://falco.org)
+
+**Interface:** gRPC API (telemetry streaming) + rule-engine config + CLI.
+
+Kubernetes-native container runtime security threat detector.

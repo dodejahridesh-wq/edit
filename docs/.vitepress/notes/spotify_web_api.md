@@ -1,14 +1,13 @@
 ---
-name: spotify_web_api
-description: >
-  Control music playback, fetch user playlist tracks.
+title: Spotify Web API
 ---
 
 # Spotify Web API
 
-## Overview
-Control music playback, fetch user playlist tracks.
+**Domain:** Gaming & Health
 
-## Integration Info
-* **Official Link**: [Spotify Web API](https://developer.spotify.com/documentation/web-api)
-* **Domain**: Gaming & Health
+**URL:** [https://developer.spotify.com/documentation/web-api](https://developer.spotify.com/documentation/web-api)
+
+**Interface:** REST API (requiring OAuth2 authorization / API Key).
+
+Control music playback, fetch user playlist tracks.

@@ -1,14 +1,13 @@
 ---
-name: linkerd
-description: >
-  Ultralight, security-first service mesh for Kubernetes.
+title: Linkerd
 ---
 
 # Linkerd
 
-## Overview
-Ultralight, security-first service mesh for Kubernetes.
+**Domain:** DevOps & Infrastructure
 
-## Integration Info
-* **Official Link**: [Linkerd](https://linkerd.io)
-* **Domain**: DevOps & Infrastructure
+**URL:** [https://linkerd.io](https://linkerd.io)
+
+**Interface:** CLI (`linkerd`) + REST/gRPC controller APIs.
+
+Ultralight, security-first service mesh for Kubernetes.

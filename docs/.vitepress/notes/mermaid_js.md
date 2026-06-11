@@ -1,14 +1,13 @@
 ---
-name: mermaid_js
-description: >
-  Markdown-like text syntax parsed into diagrams and flowcharts.
+title: Mermaid.js
 ---
 
 # Mermaid.js
 
-## Overview
-Markdown-like text syntax parsed into diagrams and flowcharts.
+**Domain:** Creative & Media
 
-## Integration Info
-* **Official Link**: [Mermaid.js](https://mermaid.js.org)
-* **Domain**: Creative & Media
+**URL:** [https://mermaid.js.org](https://mermaid.js.org)
+
+**Interface:** JavaScript Web API + CLI (`mmdc`).
+
+Markdown-like text syntax parsed into diagrams and flowcharts.

@@ -1,14 +1,13 @@
 ---
-name: shapely
-description: >
-  Python library for manipulation and analysis of planar geometries.
+title: Shapely
 ---
 
 # Shapely
 
-## Overview
-Python library for manipulation and analysis of planar geometries.
+**Domain:** GIS & IoT
 
-## Integration Info
-* **Official Link**: [Shapely](https://shapely.readthedocs.io)
-* **Domain**: GIS & IoT
+**URL:** [https://shapely.readthedocs.io](https://shapely.readthedocs.io)
+
+**Interface:** Python API (calculates overlaps, bounds).
+
+Python library for manipulation and analysis of planar geometries.

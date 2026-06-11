@@ -1,14 +1,13 @@
 ---
-name: nikto
-description: >
-  Web server scanner checking for dangerous files and configurations.
+title: Nikto
 ---
 
 # Nikto
 
-## Overview
-Web server scanner checking for dangerous files and configurations.
+**Domain:** Cybersecurity & Privacy
 
-## Integration Info
-* **Official Link**: [Nikto](https://cirt.net/Nikto2)
-* **Domain**: Cybersecurity & Privacy
+**URL:** [https://cirt.net/Nikto2](https://cirt.net/Nikto2)
+
+**Interface:** CLI (`nikto`) outputting scan results to files.
+
+Web server scanner checking for dangerous files and configurations.

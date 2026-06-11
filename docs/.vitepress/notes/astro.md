@@ -1,14 +1,13 @@
 ---
-name: astro
-description: >
-  Web framework optimized for content-rich, fast-loading websites.
+title: Astro
 ---
 
 # Astro
 
-## Overview
-Web framework optimized for content-rich, fast-loading websites.
+**Domain:** Creative & Media
 
-## Integration Info
-* **Official Link**: [Astro](https://astro.build)
-* **Domain**: Creative & Media
+**URL:** [https://astro.build](https://astro.build)
+
+**Interface:** CLI (`astro build`) + server component runtime APIs.
+
+Web framework optimized for content-rich, fast-loading websites.

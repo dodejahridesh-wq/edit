@@ -1,14 +1,13 @@
 ---
-name: scann
-description: >
-  Google's highly efficient vector nearest neighbor search library.
+title: Scann
 ---
 
 # Scann
 
-## Overview
-Google's highly efficient vector nearest neighbor search library.
+**Domain:** Data Science & AI/ML
 
-## Integration Info
-* **Official Link**: [Scann](https://github.com/google-research/google-research/tree/master/scann)
-* **Domain**: Data Science & AI/ML
+**URL:** [https://github.com/google-research/google-research/tree/master/scann](https://github.com/google-research/google-research/tree/master/scann)
+
+**Interface:** Python library interface (utilizing anisotropic vector quantization).
+
+Google's highly efficient vector nearest neighbor search library.
