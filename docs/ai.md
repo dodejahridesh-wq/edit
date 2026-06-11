@@ -415,6 +415,7 @@
 * [It's Better With AI](https://itsbetterwithai.com/) - AI Directory
 * [GPT Demo](https://www.gptdemo.net/gpt/search?lg=en&cate=&keywords=&tags=free,&sort=popular) - AI Directory
 * [ArtificialStudio](https://app.artificialstudio.ai/tools) - Multi-Tool Browser AIs / [Discord](https://discord.gg/EdNztJJH6z)
+* [OpenTrain AI](https://www.opentrain.ai/become-freelancer/) - Join 214,000+ AI trainers and data labelers. Find AI training jobs from 20+ platforms in one feed. One profile, one inbox, one portfolio. 100% free. / [Subreddit](https://www.reddit.com/r/OpenTrain/) / [LinkedIn](https://www.linkedin.com/company/opentrain/)
 
 ***
 
