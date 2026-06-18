@@ -82,7 +82,7 @@
     "vite-plugin-pwa": "^1.2.0",
     "vite-plugin-terminal": "^1.4.0",
     "vue-eslint-parser": "^10.4.0",
-    "wrangler": "^4.70.0"
+    "wrangler": "^4.101.0"
   },
   "pnpm": {
     "peerDependencyRules": {
