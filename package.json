@@ -33,7 +33,7 @@
     "mark.js": "^8.11.1",
     "minisearch": "^7.2.0",
     "nitro-cors": "^0.7.1",
-    "nitropack": "^2.13.1",
+    "nitropack": "^2.13.4",
     "nprogress": "^0.2.0",
     "pathe": "^2.0.3",
     "reka-ui": "^2.9.0",
@@ -82,7 +82,7 @@
     "vite-plugin-pwa": "^1.2.0",
     "vite-plugin-terminal": "^1.4.0",
     "vue-eslint-parser": "^10.4.0",
-    "wrangler": "^4.70.0"
+    "wrangler": "^4.103.0"
   },
   "pnpm": {
     "peerDependencyRules": {
